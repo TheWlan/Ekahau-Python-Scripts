@@ -1,4 +1,24 @@
 #!/usr/bin/env python3
+'''------------------------------------------------------------------
+    Filename:   Ekahau_Update_AP_Models.py
+    author:     Haydn Andrews 
+    date:       14/04/2021 
+    desc:       Will Update AP models in Ekahau. I use this
+    			when i have surveys using external antennas
+    			done with 3700/ 2800 series where the 
+    			customer then change mind to 9100 series
+    			and i need to import the Ekahau plan to DNA-C
+    			or Prime
+
+    			Thanks to François Vergès (@VergesFrancois) who 
+    			developed the script that i used as the base build
+    			of this script that I used to develop this:
+    			https://github.com/francoisverges/semfio-ekahau
+
+    modification history:
+    what    when            who     why
+    v1.0    14/04/2021      HA      Initial version
+-------------------------------------------------------------------'''
 
 import zipfile
 import os

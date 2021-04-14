@@ -1,4 +1,22 @@
 #!/usr/bin/env python3
+'''------------------------------------------------------------------
+    Filename:   Ekahau_Update_AP_Name.py
+    author:     Haydn Andrews 
+    date:       14/04/2021 
+    desc:       Will Update AP names in Ekahau, appending a prefrex 
+    			and Suffix. 
+    			This is used as a lot of customers have the AP 
+    			number in the middle of the naming convention.
+
+    			Thanks to François Vergès (@VergesFrancois) who 
+    			developed the script that i used as the base build
+    			of this script that I used to develop this:
+    			https://github.com/francoisverges/semfio-ekahau
+
+    modification history:
+    what    when            who     why
+    v1.0    14/04/2021      HA      Initial version
+-------------------------------------------------------------------'''
 
 import zipfile
 import os
