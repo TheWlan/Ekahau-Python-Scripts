@@ -1,0 +1,202 @@
+{
+  "floorTypes": [
+    {
+      "key": "FloorTypes.HardlyAny",
+      "name": "Hardly Any",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 10.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 10.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 10.0
+        }
+      ],
+      "isDefault": false,
+      "id": "db6cbb5c-b36a-4725-a80c-c08073b9a87a",
+      "legacyId": 0,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.Hotel",
+      "name": "Hotel",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 36.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 36.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 36.0
+        }
+      ],
+      "isDefault": false,
+      "id": "455bbd95-f55b-498b-a391-d4356541484a",
+      "legacyId": 5,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.HeavyFloor",
+      "name": "Heavy Floor",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 50.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 50.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 50.0
+        }
+      ],
+      "isDefault": false,
+      "id": "33d70cc3-1f76-45a7-a48c-96ad24ee1919",
+      "legacyId": 7,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.Hospital",
+      "name": "Hospital",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 36.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 36.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 36.0
+        }
+      ],
+      "isDefault": false,
+      "id": "7010534d-bdf7-456c-a7b5-eb5c21d5bfbe",
+      "legacyId": 4,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.OfficeEU",
+      "name": "Office (EU)",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 40.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 40.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 40.0
+        }
+      ],
+      "isDefault": false,
+      "id": "9bfb6cb6-75ab-4b8d-8782-9d7369b5ad99",
+      "legacyId": 3,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.Basement",
+      "name": "Basement",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 40.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 40.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 40.0
+        }
+      ],
+      "isDefault": false,
+      "id": "6bfe8fa3-2664-4fc8-9c8d-04d1c27273f8",
+      "legacyId": 6,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.ThinFloor",
+      "name": "Thin Floor",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 20.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 20.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 20.0
+        }
+      ],
+      "isDefault": false,
+      "id": "3e1124b7-f361-4287-909a-50ed02f400ab",
+      "legacyId": 1,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.OfficeUS",
+      "name": "Office (US)",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 30.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 30.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 30.0
+        }
+      ],
+      "isDefault": true,
+      "id": "b3ccbeb0-9c97-45a3-b0ed-da4b1541cf96",
+      "legacyId": 2,
+      "status": "CREATED"
+    },
+    {
+      "key": "FloorTypes.VeryHeavyFloor",
+      "name": "Very Heavy Floor",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 60.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 60.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 60.0
+        }
+      ],
+      "isDefault": false,
+      "id": "26ed70e3-3475-4e0e-a436-24395bb8abfc",
+      "legacyId": 8,
+      "status": "CREATED"
+    }
+  ]
+}

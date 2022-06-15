@@ -1,0 +1,440 @@
+{
+  "attenuationAreaTypes": [
+    {
+      "name": "SRG BOH Shelves",
+      "color": "#FF0000",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 3.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 3.0,
+      "id": "053431e1-1d95-40e5-8d06-cbf342b5aec5",
+      "legacyId": 20,
+      "status": "CREATED"
+    },
+    {
+      "name": "2) Warehouse Rack",
+      "color": "#404040",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 18.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 18.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 18.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "bee2cc19-7020-4f0a-b85d-fec11e86eacb",
+      "status": "CREATED"
+    },
+    {
+      "name": "Wide Area: Foliage",
+      "key": "foliage",
+      "color": "#77933C",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 2.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 2.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 2.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "5cb4a899-ea02-4532-8c12-cee9a3c44a23",
+      "legacyId": 6,
+      "status": "CREATED"
+    },
+    {
+      "name": "Wide Area: Building (Light)",
+      "key": "light_building",
+      "color": "#FFC000",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 5.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 5.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 5.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "8c46005f-d83e-4438-a13e-bc6ab62c53e6",
+      "legacyId": 7,
+      "status": "CREATED"
+    },
+    {
+      "name": "Restaurant Seating",
+      "key": "restaurant_seating",
+      "color": "#948A54",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 3.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 1.5,
+      "id": "cce020e0-f932-4a65-ac41-846eb819d6a6",
+      "legacyId": 4,
+      "status": "CREATED"
+    },
+    {
+      "name": "Whole Map: Office (Closed)",
+      "key": "closed_office",
+      "color": "#B3A2C7",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 1.1
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 1.1
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 1.1
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "61f1ccca-6f83-4b2a-a8a8-9707f5a59e5f",
+      "legacyId": 9,
+      "status": "CREATED"
+    },
+    {
+      "name": "Whole Map: Office (Open)",
+      "key": "open_office",
+      "color": "#B7DEE8",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 0.5
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 0.5
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 0.5
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "7c8d5340-cc47-4fcb-80a8-64d05e897b7b",
+      "legacyId": 10,
+      "status": "CREATED"
+    },
+    {
+      "name": "Human crowd",
+      "key": "human_crowd",
+      "color": "#F79F81",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 3.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 1.75,
+      "id": "45beef09-05b3-4cb4-8d48-efdcbae18229",
+      "legacyId": 15,
+      "status": "CREATED"
+    },
+    {
+      "name": "1) Concrete Pillar",
+      "color": "#FFFF00",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 12.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 12.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 12.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "32296d08-ab2c-4171-85a6-b2494af0a4cf",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cabling Closet",
+      "key": "cabling",
+      "color": "#FF00FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 7.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 7.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 7.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "6e4f37d3-faea-4329-a630-f917e07b9cad",
+      "legacyId": 2,
+      "status": "CREATED"
+    },
+    {
+      "name": "Wide Area: Building (Heavy)",
+      "key": "heavy_building",
+      "color": "#558ED5",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 10.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 10.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 10.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "95ced273-c562-406f-8a58-6eb4565ff44d",
+      "legacyId": 8,
+      "status": "CREATED"
+    },
+    {
+      "name": "Market Stall",
+      "key": "market_stall",
+      "color": "#B2E041",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 3.5
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 3.5
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 3.5
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 2.5,
+      "id": "a0590339-1ee7-4d9a-9026-18e316bf6913",
+      "legacyId": 3,
+      "status": "CREATED"
+    },
+    {
+      "name": "Whole Map: Hospital (Light Walls)",
+      "key": "light_hospital",
+      "color": "#FF69B4",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 1.2
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 1.2
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 1.2
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "f7be5771-78f1-4ce0-8a23-d609ddcc8f0c",
+      "legacyId": 11,
+      "status": "CREATED"
+    },
+    {
+      "name": "Cubicle",
+      "key": "cubicle-h1.5m",
+      "color": "#BEBEBE",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 3.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 1.5,
+      "id": "d9e52097-b745-47fc-be58-8c0610396cf9",
+      "legacyId": 0,
+      "status": "CREATED"
+    },
+    {
+      "name": "Whole Map: Hospital (Heavy Walls)",
+      "key": "heavy_hospital",
+      "color": "#FF0000",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 1.9
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 1.9
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 1.9
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "be37d913-8942-4a20-8403-92c44249ad3d",
+      "legacyId": 12,
+      "status": "CREATED"
+    },
+    {
+      "name": "SRG FOH Shelves",
+      "color": "#0000FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 3.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 3.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 1.8,
+      "id": "e55f35f6-3f74-4ab8-be65-662ea849ae90",
+      "legacyId": 17,
+      "status": "CREATED"
+    },
+    {
+      "name": "Whole Map: Class Rooms",
+      "key": "education",
+      "color": "#00FFFF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 1.7
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 1.7
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 1.7
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "d2f2f27c-2e2e-4bef-8f7c-689da99dc0c8",
+      "legacyId": 13,
+      "status": "CREATED"
+    },
+    {
+      "name": "Elevator (DO NOT USE)",
+      "color": "#8E8E8E",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 17.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 17.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 17.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "id": "c22a93cc-315f-458b-91cc-34f0118ebe3b",
+      "status": "CREATED"
+    },
+    {
+      "name": "Retail Shelf",
+      "key": "retail_shelf",
+      "color": "#00FA9A",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 5.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 5.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 5.0
+        }
+      ],
+      "lowerEdge": 0.0,
+      "upperEdge": 1.5,
+      "id": "96e0565a-ffb0-4bb4-8d40-356de3f3e5dd",
+      "legacyId": 14,
+      "status": "CREATED"
+    }
+  ]
+}

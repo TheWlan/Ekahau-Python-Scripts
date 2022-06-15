@@ -1,0 +1,7528 @@
+{
+  "wallPoints": [
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1535.4306810174608
+        }
+      },
+      "id": "61ed5da9-9faf-4b19-93a9-5b54464a1645",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2777.5325570857526,
+          "y": 703.8869291316398
+        }
+      },
+      "id": "d043a8da-83c1-42a0-9f4e-b04233d9a92d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1928.4138838653093
+        }
+      },
+      "id": "e7fe2cf2-3f62-4c13-a61f-970d7f14167a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3047.8283976071107,
+          "y": 1505.6241926954747
+        }
+      },
+      "id": "0c0fbf3f-e5a2-4d7c-a4df-b603a1b17887",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 976.2130876467937
+        }
+      },
+      "id": "cdfac1f6-e1ca-467a-bd6e-7b14655bc098",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2039.578566241703,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "8e5d57df-09b2-46d0-b81d-65006bbe884a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2977.961727915795,
+          "y": 1506.6734390418426
+        }
+      },
+      "id": "9db47ac9-747b-4dee-86d8-b5204e1d0304",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2199.133934942695,
+          "y": 852.9231339968935
+        }
+      },
+      "id": "7266e0cc-bcd9-437d-b9c2-a768b70660b2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1679.8513039258632,
+          "y": 288.14321643733695
+        }
+      },
+      "id": "7879bf19-f25f-4e11-bfac-4a633e54b4a4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 835.9016556667864,
+          "y": 826.2545771690618
+        }
+      },
+      "id": "012a0b1d-e03b-4a0f-8ce6-8b085f744088",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3408.56845534455,
+          "y": 1189.6852064475358
+        }
+      },
+      "id": "c3dd1a98-cee8-411d-bb18-b9884a09ba38",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2977.6257767991315,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "8c210d15-b675-4bbe-88cc-473ffc849799",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 514.0446575038343,
+          "y": 2068.6615218959796
+        }
+      },
+      "id": "d1fd554b-79a3-4ec6-8a4c-c964260fd2e6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3528.0038804597107,
+          "y": 367.78727779404784
+        }
+      },
+      "id": "ad2363ec-1dcf-4a86-ad06-e8e7ca3c4649",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3509.6349999623826,
+          "y": 1086.210543755111
+        }
+      },
+      "id": "1a62905b-b3c6-4214-9a43-21163f0d7fa6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 981.44361104976,
+          "y": 537.3388649747144
+        }
+      },
+      "id": "3ec88f4b-4f77-49e2-b3b8-8e45cb27dddb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 353.458521946123,
+          "y": 414.70105846432887
+        }
+      },
+      "id": "7069ddd4-d666-4a0a-9278-292eb82572ba",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 485.5320500406161,
+          "y": 731.576461535805
+        }
+      },
+      "id": "c474cf44-03ff-45e6-87c3-a16014abdf3b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3582.747323155453,
+          "y": 393.9074967692615
+        }
+      },
+      "id": "74fe3954-01ce-405b-a017-c616395a0378",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1290.6472015616555,
+          "y": 437.8140443757766
+        }
+      },
+      "id": "30c55346-0d87-4e64-a86f-f707cf17cc3e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 518.9790568245076,
+          "y": 891.424699978973
+        }
+      },
+      "id": "fb29487b-fb4e-4ee6-8bb9-ac517bc46af4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2327.8318578539443,
+          "y": 879.6792133023044
+        }
+      },
+      "id": "fe20228a-e297-4bd5-8594-4a9bbb6c19a9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2979.4805149824924,
+          "y": 2696.303878933042
+        }
+      },
+      "id": "4b60c742-4753-4a6f-b673-084ac22ec92a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 284.8985873706547,
+          "y": 1068.867945913644
+        }
+      },
+      "id": "95e3ddeb-d730-4b3f-91ba-cba0adffbbc1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3183.1915406811277,
+          "y": 1413.8238035804916
+        }
+      },
+      "id": "325c3c51-147a-4e38-809d-4f275f7f54a9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 495.60642743943646,
+          "y": 1690.8419498424876
+        }
+      },
+      "id": "d59dd098-99ae-4f7f-a5ca-487831640726",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2982.1064497569364,
+          "y": 292.78240368026223
+        }
+      },
+      "id": "86fc37e7-803a-4369-a51c-b47986381130",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3639.982607590924,
+          "y": 755.6580407357931
+        }
+      },
+      "id": "18a76a78-c6c6-4563-bb12-0ef693801336",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1290.6472015616555,
+          "y": 287.3709587240027
+        }
+      },
+      "id": "3d74be1c-dea7-4f14-ac29-671f0ee66f23",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3198.531712136902,
+          "y": 359.05468326454405
+        }
+      },
+      "id": "5b0477c1-f1cc-45fa-8fc0-1f27be25561a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 650.8898080629926,
+          "y": 2084.347606307927
+        }
+      },
+      "id": "57620912-4985-4edb-9641-07db368faa15",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3232.025377213714,
+          "y": 319.73173854240815
+        }
+      },
+      "id": "28520594-9436-48ba-be13-b8ce228bf52d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 833.3655603527113,
+          "y": 1390.3781403896505
+        }
+      },
+      "id": "2dd8c69b-96f9-4228-85b9-b03a95c68fe6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3117.5680223218606,
+          "y": 1060.6221953452964
+        }
+      },
+      "id": "650609fa-d03e-4136-beb5-7883eb5338a6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 323.1220516527308,
+          "y": 414.70105846432887
+        }
+      },
+      "id": "98eae569-d878-46b5-8bfa-87a857de34fa",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2540.394532950022,
+          "y": 703.8869291316398
+        }
+      },
+      "id": "8d47e635-e4bf-49d1-bea9-1229ad10f7b6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1520.8423586965744,
+          "y": 760.9788005112002
+        }
+      },
+      "id": "92709449-7ce2-4c30-957b-1a54c6b0c348",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 491.4349726865905,
+          "y": 333.54609327187023
+        }
+      },
+      "id": "4df3a84b-e3b9-4cec-8ee1-fb6a74d13b8b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 355.8563651182349,
+          "y": 626.0404435357491
+        }
+      },
+      "id": "922edb07-0d43-42b6-95e0-8dc495983b5d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 1785.771730976068
+        }
+      },
+      "id": "f715044a-cb45-4832-9f86-bd601678648b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 621.1025203879633,
+          "y": 731.576461535805
+        }
+      },
+      "id": "7bbb3821-d3c0-4e8e-a2d2-4d915a3e3fe8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 655.7145140256683,
+          "y": 102.95703684420488
+        }
+      },
+      "id": "ea32b5d3-bd90-47ff-9229-b10fa5db1f31",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2890.9231719163845,
+          "y": 1517.7971898835963
+        }
+      },
+      "id": "1d92b4e3-527c-48ea-b5ac-bbb492541fe2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2345.658048028579,
+          "y": 692.881058827963
+        }
+      },
+      "id": "365b41ec-caee-4763-9054-90dd7f4e91b1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1139.244281266994,
+          "y": 828.2316486913381
+        }
+      },
+      "id": "0dd1ef13-c509-490e-95ba-5122947e4e6e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2977.5233906339145,
+          "y": 1506.0483651287318
+        }
+      },
+      "id": "30adac1e-958e-4160-ab7d-271ae2560621",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1388.3555344369286,
+          "y": 439.8245568936743
+        }
+      },
+      "id": "3e4fc0f6-fe7c-440f-a151-2505af481b99",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 612.1527784120092,
+          "y": 1094.6807904596615
+        }
+      },
+      "id": "49c90736-6cb5-45ae-9385-9ba97486e301",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2634.7776874714045,
+          "y": 318.76924907714186
+        }
+      },
+      "id": "bd1c9d9e-73ff-4af5-8754-37067d7c10f6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.9333267168277,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "ecc1f91d-5ede-4444-bcfb-1905655c8fb6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 205.2194847249928,
+          "y": 525.0145117750119
+        }
+      },
+      "id": "a988e20f-fdd1-4a09-b120-2f434f47f128",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3743.731745886195,
+          "y": 674.0986478761035
+        }
+      },
+      "id": "39e65f55-c290-4532-bd65-5013fa0ede3a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1113.732826905793,
+          "y": 502.7188298542178
+        }
+      },
+      "id": "466c7da2-66d7-4d0f-b91a-67ebeae13852",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2634.7776874714045,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "61285f5b-2aef-408d-a52a-beaa9cdfe31b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 901.5774685526769
+        }
+      },
+      "id": "aa3fb8bb-73c2-4f29-a666-3e4dcfffcdee",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2977.404863418123,
+          "y": 202.06088600978222
+        }
+      },
+      "id": "8b498220-e6c8-41e5-9268-a5d64dc35861",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3737.4649896564165,
+          "y": 815.127019087074
+        }
+      },
+      "id": "3379b26a-d9dd-488b-98ac-e20b4ac6707d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 422.97298594009396,
+          "y": 436.7109509568364
+        }
+      },
+      "id": "eea42687-20f8-48f9-be9c-87ff849e7586",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 320.93817113933534,
+          "y": 1702.7439216622033
+        }
+      },
+      "id": "f4de4011-6e38-41ee-84a9-9c96e9871af8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3583.6763095112788,
+          "y": 1914.557201916371
+        }
+      },
+      "id": "bcceec4f-4db2-4b16-87eb-b7efec58d222",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3079.751012646936,
+          "y": 472.4831507533939
+        }
+      },
+      "id": "08db7a10-10de-455d-8f44-c97eb09635ba",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 517.9083383837042,
+          "y": 1716.8171167069875
+        }
+      },
+      "id": "0a80a3dd-83a9-47f1-99de-6eb6e108473b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2979.4805149824924,
+          "y": 1938.285520394709
+        }
+      },
+      "id": "9ce7c99c-3ada-45c5-9069-592486016177",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 491.7416447910937,
+          "y": 303.5337510367823
+        }
+      },
+      "id": "1c9279f2-0d24-4db6-b3b7-a66061edb597",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 748.5698132122421,
+          "y": 1098.4511132611774
+        }
+      },
+      "id": "0250071b-2f4b-47f1-a2ae-3b075465b05d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 1051.9337613741145
+        }
+      },
+      "id": "10df1164-383e-484f-a60a-b7a5590f050a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2289.6434184993327,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "b0441a13-0692-4038-9ded-0aac411a22c4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 857.884588627704,
+          "y": 1748.3297148006268
+        }
+      },
+      "id": "47070def-a53a-4d7e-80f6-4d68b849571f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3548.9056737289025,
+          "y": 638.217386150375
+        }
+      },
+      "id": "bdbac7db-948b-4706-a26a-1e8454c751a0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1531.9121771217297,
+          "y": 820.7449898038858
+        }
+      },
+      "id": "5ec55328-0e41-4d1c-8d10-6ce9a718dc34",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3474.7575393632774,
+          "y": 468.51662636864006
+        }
+      },
+      "id": "a4251a1a-5138-421b-901a-b72094274a69",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 619.4327603474118,
+          "y": 2084.347606307927
+        }
+      },
+      "id": "00f02bbd-d765-434b-80d8-fd1af98ceb47",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 840.6567386310892,
+          "y": 383.01795100243265
+        }
+      },
+      "id": "758c0666-df9b-45b8-b709-222e09bdd93f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 981.44361104976,
+          "y": 287.3709587240027
+        }
+      },
+      "id": "ec3b4553-c3f3-488f-803c-48328dec9f9b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2896.8887231542794,
+          "y": 876.5929573503944
+        }
+      },
+      "id": "46fa4a93-ff4b-4148-929d-95e8143c994c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 635.4250457227195,
+          "y": 812.0002339402788
+        }
+      },
+      "id": "1307a73e-93b3-4c52-8ec3-e634455d7e02",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.9333267168277,
+          "y": 692.881058827963
+        }
+      },
+      "id": "802246fb-b5e6-4e1e-9e93-0ccd6d83c28c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3686.200925781325,
+          "y": 2662.970771495181
+        }
+      },
+      "id": "cee7ac32-bc93-4482-9f75-af2354844666",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3738.9179624150165,
+          "y": 2662.970771495181
+        }
+      },
+      "id": "74edfbc4-ab16-4ac2-921e-32b7c129070d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 961.6602336033003,
+          "y": 205.14048863989615
+        }
+      },
+      "id": "bb52ff4a-e71d-4893-9a72-b3a684a9ea9a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3075.0886795751708,
+          "y": 963.2844789565338
+        }
+      },
+      "id": "e0c62aa5-09c2-4ac8-9a21-e0e8681bdbc9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1644.3955482296187,
+          "y": 826.0230762768933
+        }
+      },
+      "id": "110ecbb1-f3ff-48a0-aaa6-c26c16533f0e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 662.1735204865292,
+          "y": 1094.6807904596615
+        }
+      },
+      "id": "f1367b36-6c60-494c-be1a-2fcbcf2deda9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2559.2551956985435,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "9d684d12-ec34-483a-8ab6-5c50ea990471",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3380.9416434559275,
+          "y": 1051.9337613741145
+        }
+      },
+      "id": "4570efdb-9e4a-4680-9f9e-9e527e8a215d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 2331.1887038342616
+        }
+      },
+      "id": "e130bd64-9165-459c-8bee-97adb81bf08e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3379.545278994421,
+          "y": 1465.5558887401746
+        }
+      },
+      "id": "f4f53b17-6420-4820-ae0b-b770eed15434",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3042.767157849521,
+          "y": 963.2844789565338
+        }
+      },
+      "id": "f61ded36-7a80-438a-af6d-a7819b854134",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1985.0379048719449,
+          "y": 662.9199268206262
+        }
+      },
+      "id": "bfb1aee3-f29a-421c-9f75-96c33a166e0a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3380.9416434559275,
+          "y": 1033.7817594083986
+        }
+      },
+      "id": "53448b17-90e2-4584-bfe2-911389c74e7d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2157.451059917177,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "653ac746-3e75-4614-a054-30592cb8562a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2022.7960791739404,
+          "y": 279.73050528462204
+        }
+      },
+      "id": "1514179f-d8eb-4904-ad85-9227cbf3f3b1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1381.1551301635739,
+          "y": 877.2038449313775
+        }
+      },
+      "id": "9fc3dcf0-c3c0-4e82-9b65-b8fd44a281c3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3548.9056737289025,
+          "y": 600.3487669167096
+        }
+      },
+      "id": "dd090b78-0ff7-4683-9d0c-c99c5020e73f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2026.5547751330432,
+          "y": 1008.5650094260454
+        }
+      },
+      "id": "793857df-ab78-479a-9754-daada275c106",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2659.382967282086,
+          "y": 876.5929573503944
+        }
+      },
+      "id": "4af4eadc-52a5-4ac7-8d59-6b8b0a619c76",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 864.1212173675343,
+          "y": 308.16267968736867
+        }
+      },
+      "id": "59814d9d-3a01-44ea-8388-02d4ee099d32",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 205.2194847249928,
+          "y": 731.576461535805
+        }
+      },
+      "id": "740f2523-4f1e-43ef-a057-3f74aae7948a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 285.9256440336717,
+          "y": 1400.8526816152932
+        }
+      },
+      "id": "10479975-d9a7-48a9-9ed8-c28dd65262a8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1074.3006404101475,
+          "y": 1987.1054783396937
+        }
+      },
+      "id": "8a48cdb3-0f09-4ec5-8d6f-43d5dc35b82c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 836.1142124968601,
+          "y": 1174.9844574948418
+        }
+      },
+      "id": "2f2602c4-537f-4043-bb35-7ad0a372b8dd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3478.8971396555803,
+          "y": 1010.1749283109897
+        }
+      },
+      "id": "68416f1f-9a25-41ae-a3de-3c004ffb8c65",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3721.433686706825,
+          "y": 1041.6979076673367
+        }
+      },
+      "id": "22f35470-7379-48a7-8ee8-8a4f6c6bc907",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 509.12895387730816,
+          "y": 2328.891790044514
+        }
+      },
+      "id": "f6f0785e-d40b-4881-b9cf-57961ccc4828",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3042.767157849521,
+          "y": 973.2747674899165
+        }
+      },
+      "id": "e0ea990b-bff1-4e40-bfbc-611e5f1c6572",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3267.254817834944,
+          "y": 976.2130876467937
+        }
+      },
+      "id": "c4325421-7ef2-4ccf-a0ed-f1d84477f3f0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3550.6774858303497,
+          "y": 1483.7995100997855
+        }
+      },
+      "id": "202a9fab-8ee4-480d-9924-e89611fb31bc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 518.9895088612889,
+          "y": 1414.1123264246714
+        }
+      },
+      "id": "0a65fe82-67c4-4a0a-995d-c2e2e8ec3ee4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 492.4628454763391,
+          "y": 170.67624750170438
+        }
+      },
+      "id": "68a743fd-be32-46e3-84c0-ab3527d0c331",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3452.251708550416,
+          "y": 109.45318016358578
+        }
+      },
+      "id": "d1ed0bab-6d6d-4249-b929-56bd40f4f69d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3207.2934403188015,
+          "y": 1060.6221953452964
+        }
+      },
+      "id": "578ae2c3-8c33-4f90-bd22-29025c585e31",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 864.1212173675343,
+          "y": 287.3709587240027
+        }
+      },
+      "id": "296c0b2b-4daf-4530-9a1b-7bafe0eba322",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 631.52908164799,
+          "y": 164.6298894072848
+        }
+      },
+      "id": "20e1867c-e3c5-4f67-ada8-0f3203637360",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1663.642408365416,
+          "y": 112.02657398583437
+        }
+      },
+      "id": "bd3624bc-054d-4aad-9681-d73019c2cab0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2246.2663334279396,
+          "y": 883.941041548682
+        }
+      },
+      "id": "76515644-55ce-4549-8258-09c6a1b54e10",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 694.3679560102506,
+          "y": 1983.173072675316
+        }
+      },
+      "id": "f10c70d3-7d31-40f5-9b37-66f103687a1c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 291.123213975336,
+          "y": 2112.0073581376323
+        }
+      },
+      "id": "2d5c30bf-ad99-4ce2-835d-5a601e757b79",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1894.8815247834855
+        }
+      },
+      "id": "76ba0492-11a9-4767-829b-2e19899c4d51",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3079.4565819429545,
+          "y": 1231.7748870201467
+        }
+      },
+      "id": "d000794d-621f-4014-8b50-86b2f2f6bcf8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2540.394532950022,
+          "y": 856.6926359946702
+        }
+      },
+      "id": "b8b228a7-0444-44d6-beba-7f2aa5ef8853",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 1041.6979076673367
+        }
+      },
+      "id": "4b3673fe-7830-4c3c-822a-c0fcc9fa3b45",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3485.9531871956306,
+          "y": 1990.670901408742
+        }
+      },
+      "id": "b1ccb4e9-cdc0-491c-940c-d3379f6c7d00",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2510.552062440095,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "f25a31fd-a85a-41be-9bf4-f52dff435b76",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3737.4649896564165,
+          "y": 918.5284968784288
+        }
+      },
+      "id": "368af311-1103-42ef-80f2-16e1226166b0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 256.9465744153971,
+          "y": 318.01205647097584
+        }
+      },
+      "id": "265b071a-75a9-4495-9796-22a0807e9580",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2659.951620118453,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "741645d5-b233-4b77-af76-1e973d81c451",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2009.9027135421097,
+          "y": 351.7635527473255
+        }
+      },
+      "id": "26cc6dce-1bb9-4a50-ac26-aa7489758174",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3486.1199401463937,
+          "y": 1445.6071617406753
+        }
+      },
+      "id": "8567e7a0-0af7-4f44-b749-24e076060261",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 1156.8885924878105
+        }
+      },
+      "id": "795283d3-93b2-44c1-8e77-c55b32d3d0cc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3081.4052554734676,
+          "y": 209.45854133489047
+        }
+      },
+      "id": "a5ac383a-45a9-44ca-b477-3f4bd562de69",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 592.0304973069389
+        }
+      },
+      "id": "e152f742-2bc3-4f37-83e3-5ac37b78d878",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 265.8555329682913,
+          "y": 1156.5717939671986
+        }
+      },
+      "id": "5f9658b6-344f-4114-a464-aaebd7d3cbe2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.084190127592,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "33711e78-6c93-4ac1-a0c7-51d1d81c7297",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1321.8027517696219,
+          "y": 553.7076201450309
+        }
+      },
+      "id": "7fc3f164-1db5-4d4a-b3fc-1b0172c368a0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 841.8684087988879,
+          "y": 627.4048693171081
+        }
+      },
+      "id": "2990b4d1-708c-4a66-aa93-32c1fc522b6c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 495.60642743943646,
+          "y": 1716.8171167069875
+        }
+      },
+      "id": "cc53fda1-7bf9-4e6f-a09c-63b44106728d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3384.7422434358045,
+          "y": 109.45318016358578
+        }
+      },
+      "id": "f9f717b9-2fec-434e-bd73-fd03c6bdfce9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1706.1077211864367,
+          "y": 648.5570670504127
+        }
+      },
+      "id": "e91ca97b-39d9-4c57-8d0d-c48e84c9286a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1987.787173118661,
+          "y": 883.9610938565947
+        }
+      },
+      "id": "8dbc3672-a585-4771-b6c1-7b3c374f7341",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 265.14152757638533,
+          "y": 1435.2684857895042
+        }
+      },
+      "id": "63fbc403-276c-4cf8-a5f5-ca4b3665497e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3194.9965962286283,
+          "y": 471.3803222023729
+        }
+      },
+      "id": "4933f9ae-9705-492a-b354-f1f9dcf9ec2c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 993.7683771924474,
+          "y": 1015.108589191801
+        }
+      },
+      "id": "72be57f9-4e4b-4ceb-b973-466024c09cff",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.10188479409203,
+          "y": 960.6385388541165
+        }
+      },
+      "id": "22f7d6fe-98cf-4732-876e-c700dd304a61",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3162.8961277594585,
+          "y": 1156.8885924878105
+        }
+      },
+      "id": "85bca1ba-461b-4875-b6ad-018d28cea14a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3095.0534381067555,
+          "y": 2506.528381852342
+        }
+      },
+      "id": "b8cf53e3-3093-42a4-b6bd-fc94eb63ec9c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 470.0913205269866,
+          "y": 102.54190705277139
+        }
+      },
+      "id": "e10a8ac1-f90c-4e3e-bd40-525876119d3e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2149.7873477720673,
+          "y": 852.9231339968935
+        }
+      },
+      "id": "756a5ce5-1d24-490d-a446-d124771a470e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3183.1915406811277,
+          "y": 1382.0427442508153
+        }
+      },
+      "id": "51f0c85a-cb4d-4290-acb1-32e9bde7831a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3005.0073152137556,
+          "y": 1928.4138838653093
+        }
+      },
+      "id": "28842796-2fc4-49ac-b18d-ced06e49e4bc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3858.392270913431,
+          "y": 1926.037952196834
+        }
+      },
+      "id": "b3f643b3-d615-46c9-a1e1-e2e564dd6394",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.497817500522,
+          "y": 1183.090987004973
+        }
+      },
+      "id": "ad5b2938-2930-4ad5-99d8-585128991641",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 840.6567386310892,
+          "y": 308.16267968736867
+        }
+      },
+      "id": "1db46022-8cf8-41cc-b8ac-2356d23d35b2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3899.9019164790384,
+          "y": 2165.925089942262
+        }
+      },
+      "id": "9ea2215c-f4a5-4367-beb6-defe4a799ed5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1757.045447061972
+        }
+      },
+      "id": "43d0b2d1-f16c-421a-9a5c-3c0c4be3cb1f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2311.0594727308744,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "c227859d-e0c2-47cb-88bc-ac18ce71feba",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3378.2307075974954,
+          "y": 1934.9303759512443
+        }
+      },
+      "id": "9defe9fa-b37e-4a69-94b2-145e87899eb9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 517.9083383837042,
+          "y": 1689.7924481509924
+        }
+      },
+      "id": "495eea15-1714-49cf-b091-27f1badd30f2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3410.5352753020497,
+          "y": 2252.0252434819904
+        }
+      },
+      "id": "d03daa3c-1f90-4c09-bb7b-33fe92b01b4d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3545.663630019985,
+          "y": 886.6663125720994
+        }
+      },
+      "id": "4a94573d-15a0-464b-be65-6c4d49297da2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 993.3865365875718,
+          "y": 502.71882985421786
+        }
+      },
+      "id": "dfa97300-c810-4a2e-947c-fffdc3141ee3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3410.5352753020497,
+          "y": 2320.206372737703
+        }
+      },
+      "id": "731195bd-534f-4a5b-be31-6c9043899271",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3117.3152960021243,
+          "y": 1545.5231214513215
+        }
+      },
+      "id": "1258d770-cde8-4294-acac-f635b1be1590",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3899.9019164790384,
+          "y": 2689.2457257573637
+        }
+      },
+      "id": "7b7921b0-b325-4825-b0b7-707e951fa8fa",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 509.1289538773083,
+          "y": 2164.994070484022
+        }
+      },
+      "id": "b2cbe2ab-b750-4aa0-857f-7552f44b0510",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3551.6029755505556,
+          "y": 1916.150178381695
+        }
+      },
+      "id": "f02e0fc0-4da1-4441-94a2-7aedcf9bd33d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 993.3865365875718,
+          "y": 649.8641512868509
+        }
+      },
+      "id": "5e5bc718-a156-412a-a931-c21eca73e490",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2974.598130209968,
+          "y": 891.5894671287284
+        }
+      },
+      "id": "b0368a6a-cc08-46b1-a0a8-8fb3f046134c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3249.9994266854083,
+          "y": 1156.8885924878105
+        }
+      },
+      "id": "365cea92-f30f-40b8-8336-c45ecce5a400",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 373.86181170097086,
+          "y": 414.70105846432887
+        }
+      },
+      "id": "0a1831d4-ab0a-4fec-912e-7542705bbfeb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3716.790690849012,
+          "y": 468.51662636864006
+        }
+      },
+      "id": "2068f9cd-a77a-46f5-97d5-cc70ec5d4325",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3075.0886795751708,
+          "y": 1066.1256844472382
+        }
+      },
+      "id": "047fd303-c986-4821-8baf-2f02a433a2bd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 612.6748005040696,
+          "y": 1690.8253149121938
+        }
+      },
+      "id": "e88ccbdf-b8e6-475d-8cb2-90ab08cff8c4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3899.9019164790384,
+          "y": 2336.3441071403226
+        }
+      },
+      "id": "35216377-b208-4e8e-a151-dbb01a478a8b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3047.8283976071107,
+          "y": 1413.8238035804916
+        }
+      },
+      "id": "c14372aa-f489-4069-8c77-d60f94e86899",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.10188479409207,
+          "y": 1554.188523400319
+        }
+      },
+      "id": "733d56ab-5bae-4134-9acf-5bb846af7dd4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 268.7282780005513,
+          "y": 1712.2022356366208
+        }
+      },
+      "id": "44ac646c-7880-4d09-a695-add9e8ec57e8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2026.4729844090748,
+          "y": 1000.7967756668488
+        }
+      },
+      "id": "c685e41d-3b59-4ff0-8b8f-9946566c7797",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3369.188921756292,
+          "y": 188.6901698505007
+        }
+      },
+      "id": "b2488cd5-d9c0-4967-914c-71ca470d14b5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 245.57203024542122,
+          "y": 434.2498934647166
+        }
+      },
+      "id": "5257c0c8-4bc8-486b-98d9-6970e9eed47e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1257.1234827692297,
+          "y": 437.8140443757766
+        }
+      },
+      "id": "b1a03d35-4100-432a-8608-b0024dcde07e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2612.5240152913066,
+          "y": 650.0368361508176
+        }
+      },
+      "id": "c77ed4e6-7703-46d3-b04c-32ab6c3ca995",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3198.531712136902,
+          "y": 408.2378079019385
+        }
+      },
+      "id": "cab9052d-e1a2-4cae-892e-4a5d3aac1e40",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2149.7873477720673,
+          "y": 882.0697214600422
+        }
+      },
+      "id": "aa7e0e1a-7cc7-45c3-943d-cccfc1196d83",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2559.2551956985435,
+          "y": 318.76924907714186
+        }
+      },
+      "id": "13a7516b-2f6e-444f-a50b-c761c10e2781",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3585.0319348804173,
+          "y": 1041.6979076673367
+        }
+      },
+      "id": "718242ba-929d-4315-bca2-502623dc1ce0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 867.6947524665233,
+          "y": 537.3388649747144
+        }
+      },
+      "id": "eab93caf-28b3-4509-8588-cc812bfde452",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3485.9531871956306,
+          "y": 2331.647557135932
+        }
+      },
+      "id": "36e2f068-5f5c-4958-9792-67b3e91b48bf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2979.4805149824924,
+          "y": 2689.2457257573637
+        }
+      },
+      "id": "4061e931-03d9-4702-8053-ec895c82e8d8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3919.3752380384913,
+          "y": 1785.771730976068
+        }
+      },
+      "id": "d521fedf-ea0b-4827-90e9-5fe0c932cee4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2980.269833816702,
+          "y": 1177.1617939899468
+        }
+      },
+      "id": "eb7eb5a3-2e83-4622-a8de-fb09eb61ebc5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 551.0090774581115,
+          "y": 1158.710753576198
+        }
+      },
+      "id": "f94b1e06-60c8-47d6-963c-c9a9b867eeb5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 518.9895088612889,
+          "y": 1433.4031508934174
+        }
+      },
+      "id": "53d8a841-30b1-4a91-8185-ca8b4c96ef34",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3717.401020549203,
+          "y": 418.2575557289484
+        }
+      },
+      "id": "0ec096f6-f4cb-4ad0-a122-26a315b76903",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3046.8710809992954,
+          "y": 1549.3048452576325
+        }
+      },
+      "id": "ca21d272-0d12-49b0-a936-5ca293a04bdd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3715.5313428521895,
+          "y": 718.6189731484762
+        }
+      },
+      "id": "8190ba2b-529c-4a2b-a921-157697e4a1a6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1855.9300986390747,
+          "y": 427.18353883577856
+        }
+      },
+      "id": "af866da8-ad94-4dce-8ef3-75ead57bf90f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 376.10975276443594,
+          "y": 1156.8850192400746
+        }
+      },
+      "id": "a3baa5c7-c8d0-409b-91c6-2099f04d9e3e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1674.0799068286337,
+          "y": 680.5848814082156
+        }
+      },
+      "id": "56206ac7-40f4-4265-94c9-68158a5d35ec",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.1018847940921,
+          "y": 2195.364735525425
+        }
+      },
+      "id": "693cbea9-19dc-462f-a22f-f3a85cf8d405",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2026.5547751330432,
+          "y": 1141.756272762217
+        }
+      },
+      "id": "311a7bbc-3bd5-4368-924a-35ce28934c13",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1742.4384643762235,
+          "y": 743.8459739907391
+        }
+      },
+      "id": "4ef0ce2d-e7c0-4151-9bf0-3f8d93232830",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.9333267168277,
+          "y": 823.5797338250825
+        }
+      },
+      "id": "e0672310-0883-4b9f-912b-30cf8d5249ff",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2050.5165518988692,
+          "y": 1000.7967756668488
+        }
+      },
+      "id": "c6728159-8774-4d3f-8876-a35fd3adc0c6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3081.956669748978,
+          "y": 324.7041249165827
+        }
+      },
+      "id": "f466fe3f-eac8-459b-8f27-67753018e063",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 376.10975276443594,
+          "y": 1295.0742565236526
+        }
+      },
+      "id": "eab88a95-2ae9-4dfa-badf-d2e111261305",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1987.8056863419272,
+          "y": 1009.0776174270029
+        }
+      },
+      "id": "c92e5c6c-80bf-47af-ad9d-29fc59413656",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2980.3321077387072,
+          "y": 1928.4138838653093
+        }
+      },
+      "id": "27e5d838-1a05-430c-b08e-81cfac483af9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 861.25568578166,
+          "y": 1390.3781403896505
+        }
+      },
+      "id": "d27569dc-3fca-4403-8e96-0cfa35c3b2e7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3557.6337442460513,
+          "y": 563.3541910727481
+        }
+      },
+      "id": "a26d1e87-885e-4e4c-8daf-9c9906bdc45b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 485.5320500406161,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "1bc72c80-c8ed-4188-8bd6-082ef345ebb5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3303.886648035909,
+          "y": 475.3506064944471
+        }
+      },
+      "id": "30641ba2-9d6d-4da1-9d11-d631feb41bb4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3202.492784357303,
+          "y": 1545.5231214513215
+        }
+      },
+      "id": "5f88cb30-1217-401a-aff9-9d923c6d0999",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3408.56845534455,
+          "y": 1350.7403645563468
+        }
+      },
+      "id": "b4333b8e-535b-4bc8-b653-50353d6c910f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3080.3175599148917,
+          "y": 1550.5230587040185
+        }
+      },
+      "id": "22155b2b-6ea2-4a6a-a030-74b806cada9b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.10188479409203,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "d75977f7-42d2-49cd-b35e-02ac54196b6a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 1493.5313149262483
+        }
+      },
+      "id": "921ccea5-c14e-4ccb-9df2-1fd6be45c86d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3738.9179624150165,
+          "y": 2690.2595904585037
+        }
+      },
+      "id": "b54941b1-4f4c-43de-94b3-ac1125786880",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3329.3730045159955,
+          "y": 1483.2676203713777
+        }
+      },
+      "id": "1a5e0728-6401-4a36-9167-ca7ba714ea79",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2149.7873477720673,
+          "y": 727.4666941715384
+        }
+      },
+      "id": "1368e7ef-b939-404f-827a-5a4b33f1c702",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2988.8597059224344,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "d13c299b-9e30-4c36-b401-90dfba27816b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1622.3590917056815,
+          "y": 628.8640662852633
+        }
+      },
+      "id": "7f595604-02e2-4c4b-9369-eef483472c1a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3450.8640277274076,
+          "y": 1034.2735683895944
+        }
+      },
+      "id": "5183b9f3-09ff-4592-9e43-810a9be55184",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 269.3050277634248,
+          "y": 2087.236557505204
+        }
+      },
+      "id": "e8301ed3-4fc7-4f3c-99e2-4529f41a4fff",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1483.2676203713777
+        }
+      },
+      "id": "1c4f329f-0c5b-408a-9a96-0be426fe8cb7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2066.5469348206307,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "afca49ac-ab65-44da-b681-77317bd37281",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3329.3730045159955,
+          "y": 1465.5558887401746
+        }
+      },
+      "id": "e9c10603-f1dd-4700-aff4-106ae4a41f1b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3386.5288166710384,
+          "y": 188.6901698505007
+        }
+      },
+      "id": "989a74e2-2e5f-4203-b0d8-60de2b8e9eec",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1717.5593601009928
+        }
+      },
+      "id": "883e0d2a-5a22-4818-813b-bd166eca108b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 287.7300444644198,
+          "y": 1774.0112735882888
+        }
+      },
+      "id": "fc966c87-be54-4158-a0a7-94ec41d6a7c3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3715.5313428521895,
+          "y": 815.127019087074
+        }
+      },
+      "id": "69278e09-8d91-4a13-b154-bd3f194d28cf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2345.658048028579,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "c2988910-4fd8-4f83-aa5f-e4776ac2d27c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3080.5150099884404,
+          "y": 1549.3048452576325
+        }
+      },
+      "id": "28bb8952-9921-43f2-8808-e06fb84e7e5a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 617.3103642639203
+        }
+      },
+      "id": "ed6ca3ee-a5f2-4652-b647-6b3ca6bf17af",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2066.5469348206307,
+          "y": 320.9417908759611
+        }
+      },
+      "id": "dd0316c1-7d7f-4cbe-b319-d3c6782cdbba",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1841.4459640991872,
+          "y": 351.7635527473255
+        }
+      },
+      "id": "c7948479-5557-40e2-9684-683381ae600d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3001.4185934709694,
+          "y": 646.1322514891525
+        }
+      },
+      "id": "3eecfc16-e125-4fc0-9c97-4f12399baf4d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3162.8961277594585,
+          "y": 1060.6221953452964
+        }
+      },
+      "id": "6f289809-50a0-43a9-9f58-5d8701154aaf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2980.269833816702,
+          "y": 1377.7794314139076
+        }
+      },
+      "id": "e7b8ce95-cca8-4dde-bebb-94a883f8bcff",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 376.10975276443594,
+          "y": 1433.4031508934174
+        }
+      },
+      "id": "ea2860c8-54e6-44d7-8433-6a097f6726d8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3201.610933349625,
+          "y": 325.5809312861773
+        }
+      },
+      "id": "ab428ecf-fa29-425e-ae80-60f544abb671",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1944.9249363092677,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "e33df03f-dee3-4441-9aef-7d721f16507e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3388.9250677129485,
+          "y": 2696.74573688925
+        }
+      },
+      "id": "3c93a05c-4772-4cf3-819b-bc1f57d73848",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1679.8513039258632,
+          "y": 318.5519223135388
+        }
+      },
+      "id": "5cb87c4c-94fd-4b7e-839b-f2fb295f9a1e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 616.3383781970124,
+          "y": 2115.7757971820242
+        }
+      },
+      "id": "4a6f529d-6c6f-484c-98f7-40ea0ff4da61",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1674.1532155353286,
+          "y": 827.3029759459562
+        }
+      },
+      "id": "11d4557c-f56c-4800-b5de-3bb851f8a703",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 841.8684087988879,
+          "y": 537.3388649747144
+        }
+      },
+      "id": "aae1376d-b0aa-49c8-b302-24ea67faf9a6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3150.309675591229,
+          "y": 1003.83329712144
+        }
+      },
+      "id": "f49e0bef-6916-4d8c-a522-c7bb72de36f0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 424.05728402189357,
+          "y": 1068.867945913644
+        }
+      },
+      "id": "05e5f013-d5ab-462d-9955-2754365bdf74",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1782.1351327821785,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "17c5deff-d7b4-4f23-abe4-f5f97c739ea3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2066.5469348206307,
+          "y": 343.8334515131975
+        }
+      },
+      "id": "d50eff09-c5a8-413d-8647-136174cc9e1c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1004.0798594300264,
+          "y": 979.7084977205617
+        }
+      },
+      "id": "913b54d7-6f14-448b-9726-01402fa5cad4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 436.16606955162536,
+          "y": 423.5178673453051
+        }
+      },
+      "id": "e01709e7-63f2-4226-b9de-76652b9ba162",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 867.6947524665233,
+          "y": 513.9592275492761
+        }
+      },
+      "id": "4150ff75-6c46-47dd-b6dd-45904cfe7b6a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3508.6993633265024,
+          "y": 1279.6423075317002
+        }
+      },
+      "id": "c75eb030-cd4d-4a37-936e-ae1ba27d6675",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 551.0090774581115,
+          "y": 1295.0742565236526
+        }
+      },
+      "id": "03bc2263-b3d4-4824-be13-58dc3e0acf80",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 1926.037952196834
+        }
+      },
+      "id": "99761d60-83e1-4e72-83c3-6d8a15f41753",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 286.1315757134793,
+          "y": 1702.7439216622033
+        }
+      },
+      "id": "947dfbf9-8e21-4d57-a677-cc5156f5f54a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.497817500522,
+          "y": 1220.3303165424575
+        }
+      },
+      "id": "6b06aa7b-8ab7-46ad-b1db-8846d05a21cd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3581.065576521651,
+          "y": 468.51662636864006
+        }
+      },
+      "id": "54a5b9b4-a672-413e-89e1-4f1cd85b4594",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3681.0641835884044,
+          "y": 429.72151095566073
+        }
+      },
+      "id": "61435512-9821-471e-848d-63bd7648bb79",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1892.973253525063,
+          "y": 296.5557426481732
+        }
+      },
+      "id": "c8f7f1d9-7bc4-4904-a5a6-8f41835faf39",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3378.2307075974954,
+          "y": 1917.5354203935308
+        }
+      },
+      "id": "4841ca57-b6f6-47e8-9999-23f1a3506341",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3665.8573587043816,
+          "y": 2246.749821532404
+        }
+      },
+      "id": "7f0904f3-f8bf-49bc-a0f9-c707b63a4e4f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 613.9070013115602,
+          "y": 1150.8275576631968
+        }
+      },
+      "id": "0d54d8f9-4ddc-4a1d-aa09-c596812251a7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 635.4250457227195,
+          "y": 884.8691365033226
+        }
+      },
+      "id": "9e4376d2-665c-48da-b9c9-91267d2e2aae",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2896.8887231542794,
+          "y": 1023.1250553972038
+        }
+      },
+      "id": "f59fb2da-2af7-47a4-9344-9db22c0d7194",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3376.251886960515,
+          "y": 2331.1887038342616
+        }
+      },
+      "id": "1e78c7dd-f986-4b0d-9955-c8d19133cae3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 435.9642884092182,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "0f13208c-d78c-4b9b-9e39-1eadf3b795d1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2049.141724178009,
+          "y": 724.4785433639528
+        }
+      },
+      "id": "57ea08f5-881a-4db5-93a2-94fe4e7386e2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 2246.749821532404
+        }
+      },
+      "id": "a395180f-6573-4f34-8dc6-03afbb071133",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2895.1134940530524,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "3bb1c083-9cb5-45e8-b291-d7bf2c2b7eea",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2659.382967282086,
+          "y": 856.6926359946702
+        }
+      },
+      "id": "2753ad08-6c30-44d3-a430-aad289843c5e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3607.8259321154783,
+          "y": 1085.0724524695668
+        }
+      },
+      "id": "ad221201-2f0f-48cc-8e45-b8ca41cd5620",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1419.3069403173033,
+          "y": 643.8510454265642
+        }
+      },
+      "id": "514a0535-ef12-47b6-bea0-74bbbe8785c1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1558.1499476119757,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "712a4e9b-6034-47e7-943e-7d1e26384afd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1321.8027517696219,
+          "y": 438.4551219773673
+        }
+      },
+      "id": "f0b7f7a6-4ef2-4386-84c0-d6833dd99875",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 497.78697944062014,
+          "y": 995.1382504949174
+        }
+      },
+      "id": "7c9008c3-f941-449b-b039-288881c38d76",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 268.7282780005513,
+          "y": 1680.4223006825782
+        }
+      },
+      "id": "cbe280ad-928f-4f33-92a5-1264bd3b5e87",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3858.392270913431,
+          "y": 2165.925089942262
+        }
+      },
+      "id": "f2e18868-29a8-4549-bf26-a80a372befe0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2009.9027135421097,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "f7e41fc9-9f36-45f4-8650-1dc79ba9a343",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.497817500522,
+          "y": 1483.3871051725266
+        }
+      },
+      "id": "c64859e7-3047-4aae-91c2-a53dd99e25b4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1518.5132956337986,
+          "y": 807.3461083159547
+        }
+      },
+      "id": "4bb4c473-3ce2-4346-af51-0a15d60746b5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2246.2663334279396,
+          "y": 727.4666941715384
+        }
+      },
+      "id": "d1ab2db6-1ef8-419a-8614-6a378e04f8cd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 650.8898080629926,
+          "y": 1916.3688905984422
+        }
+      },
+      "id": "582b125f-2818-4e88-9009-bd6d04cad4dc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 261.59088598651783,
+          "y": 2195.364735525425
+        }
+      },
+      "id": "674761d3-2b12-4ab4-9e07-6934623ccfa5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 2165.925089942262
+        }
+      },
+      "id": "bb13e26f-035b-4936-b2bc-07b94205318d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 496.1075414720732,
+          "y": 1433.4031508934174
+        }
+      },
+      "id": "7971c4f1-f053-468b-97d8-506f1c58b529",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3478.8971396555803,
+          "y": 771.2845924851779
+        }
+      },
+      "id": "b75edd10-0373-4b1a-ab89-7ae5651aa3cf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2987.870897198423,
+          "y": 208.50642708203605
+        }
+      },
+      "id": "fa84d454-cb96-400d-bb21-caa199403814",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1407.1162944354019,
+          "y": 877.2038449313775
+        }
+      },
+      "id": "b57fb34d-6558-41ce-951f-0a892269e2f9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1255.2152040540964,
+          "y": 649.8641512868509
+        }
+      },
+      "id": "04f7a4bc-add4-4a9c-babd-1868fa517223",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 662.1735204865292,
+          "y": 1150.8275576631968
+        }
+      },
+      "id": "e0aa9e6c-e631-40cf-a1a7-56805e0f34b4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 2402.1239189441885
+        }
+      },
+      "id": "ef9d92bb-cfeb-4563-b607-badb091b0fce",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1828.5381466340377,
+          "y": 667.183058463349
+        }
+      },
+      "id": "4c6d9950-485c-4169-8229-7f771e886e74",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 436.16606955162536,
+          "y": 303.5384128545552
+        }
+      },
+      "id": "d3157e8c-68e3-4f24-a70c-b56437c37258",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2612.5240152913066,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "977771df-c7ac-4840-957c-47159d275fa7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3475.3591593245615,
+          "y": 475.3506064944471
+        }
+      },
+      "id": "d17d8685-d2ab-4f8a-9bad-c5030c154dcf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3583.745812089221,
+          "y": 109.45318016358578
+        }
+      },
+      "id": "772e67b8-3337-4183-9ffb-f5e915e69079",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3119.5568088535765,
+          "y": 1413.8238035804916
+        }
+      },
+      "id": "5367781b-bbc8-4ae3-9937-4c200894aa7b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 705.532551061696,
+          "y": 282.43017380012736
+        }
+      },
+      "id": "c41f4d0b-429e-44e6-bc04-8776adb0941e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2550.684120615114,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "b5f1bca8-aadb-44ef-8e94-57cace00f180",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1111.513037612996,
+          "y": 828.8216751520615
+        }
+      },
+      "id": "26a803b3-63d7-4b63-9e70-97f3b3b5562f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 841.3246963006219,
+          "y": 513.9592275492761
+        }
+      },
+      "id": "24e93547-abde-48f2-ae67-d6d9a139fabc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2025.222728247418,
+          "y": 882.051254764429
+        }
+      },
+      "id": "04af5c40-4add-4b40-b95f-73f4c077e613",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2957.9830828593326,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "685a2027-6dc3-4bff-bb71-0a40b7f5793a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 630.3198100291061,
+          "y": 333.54609327187023
+        }
+      },
+      "id": "692868ea-121b-4874-b97e-237596747e12",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 613.9070013115602,
+          "y": 1414.8148810298935
+        }
+      },
+      "id": "695b23ea-0847-496e-86f3-439a01be728f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 268.7282780005513,
+          "y": 1526.0626166200866
+        }
+      },
+      "id": "1e0954b0-f58c-4cd0-951a-2bcc730a6ff9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3718.9178213268738,
+          "y": 332.7073303780049
+        }
+      },
+      "id": "0203a2f6-7546-407b-88f8-d812752f65cc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 373.86181170097086,
+          "y": 436.7109509568364
+        }
+      },
+      "id": "49d5d949-65b6-4b0f-a549-53f968729925",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1893.5366783586414,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "bf5d57ad-ddb2-496d-a752-8076e7adb164",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3254.9862451755866,
+          "y": 1185.804216364139
+        }
+      },
+      "id": "bdcbb4e8-ee1c-4f45-97c7-846ad4119604",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3452.251708550416,
+          "y": 367.78727779404784
+        }
+      },
+      "id": "c4727171-9b3b-4aaa-a0fc-99957ab8e286",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 422.89789452987344
+        }
+      },
+      "id": "ac49c4dd-5b18-442b-b6fc-f1593bba927e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 551.0090774581115,
+          "y": 995.1382504949174
+        }
+      },
+      "id": "f46a25b5-74b7-4297-81d6-da70cdcbe855",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.3513876624916,
+          "y": 1185.804216364139
+        }
+      },
+      "id": "0af9e01d-112f-44fb-aeef-7293f95d4fd6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 699.3650258821165,
+          "y": 1700.5516188948873
+        }
+      },
+      "id": "75a515dc-fffe-4a7c-8bac-fcb5e6f259da",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 398.7770428713447,
+          "y": 981.2776478022979
+        }
+      },
+      "id": "6874f7c2-46cb-4dda-a5ce-690fb7bd4615",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3384.7422434358045,
+          "y": 152.2981411201287
+        }
+      },
+      "id": "41ed77ce-18ee-437f-b909-44d6892a0888",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.3671924876994,
+          "y": 1558.1999299479808
+        }
+      },
+      "id": "cef12832-b2d9-4a74-a07d-4555c839c2af",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 436.16606955162536,
+          "y": 320.47311396309567
+        }
+      },
+      "id": "efaa5d26-2f28-447e-81f5-9a497b01c4b7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 620.3658015422873,
+          "y": 2115.7757971820242
+        }
+      },
+      "id": "87ee47de-485e-47b0-9d9e-ac97bb38b43e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 518.0881016822804,
+          "y": 731.576461535805
+        }
+      },
+      "id": "ebae04a9-786b-4b59-a215-cc132031bbd7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1434.0239826502545
+        }
+      },
+      "id": "325b4f6d-552d-4c8d-aba5-d1fa5fdec0cd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 705.532551061696,
+          "y": 307.667618032232
+        }
+      },
+      "id": "2891e7b2-fbb5-4615-8547-6f73bea803c4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2007.5819044950163,
+          "y": 883.9610938565947
+        }
+      },
+      "id": "45dea593-757e-42a4-bdfd-a7e21bb8d7ed",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 666.1549293446969,
+          "y": 2084.347606307927
+        }
+      },
+      "id": "841c6a28-89fa-4c0f-a837-e9603a513527",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1399.5101903706068,
+          "y": 643.4314594313512
+        }
+      },
+      "id": "ccd8d459-8045-4930-9919-f889f0adc52d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3117.5680223218606,
+          "y": 1176.8684107626718
+        }
+      },
+      "id": "6ead3f48-54fe-4118-8a2d-445953321ca1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3120.338809991081,
+          "y": 1003.83329712144
+        }
+      },
+      "id": "62076ef7-12d9-42c3-8db8-e0b03ddc45db",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 833.3655603527113,
+          "y": 1436.613728138867
+        }
+      },
+      "id": "3c64fdfc-f22a-4172-981d-adba376501e4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2189.58633667898,
+          "y": 652.6198984575805
+        }
+      },
+      "id": "f0b9c433-f77f-4a6e-b444-a45c4681eaeb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3528.0038804597107,
+          "y": 393.8847774898593
+        }
+      },
+      "id": "d0098f37-a1f6-455d-9c17-d9da051aaeab",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1321.8027517696219,
+          "y": 518.7800731611094
+        }
+      },
+      "id": "645231ef-f529-46d7-a6ec-a0534f339225",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 353.458521946123,
+          "y": 320.47311396309567
+        }
+      },
+      "id": "991401e1-7c0d-4d5a-97c2-64f855bf02cc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 355.8563651182349,
+          "y": 527.4589379259464
+        }
+      },
+      "id": "5c2c07e4-d37b-4dae-971f-998c7a9bb8fa",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2340.241115857769,
+          "y": 308.131124858763
+        }
+      },
+      "id": "e015a890-de5a-44c5-a2a7-f1edb6971a37",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 277.7575177059677,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "3b295c8b-fb9b-43b3-ae7c-af7ae3e1009c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3665.8573587043816,
+          "y": 2336.3441071403226
+        }
+      },
+      "id": "340e689a-f052-4684-ba15-81eaeed3e69b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1048.84987973572,
+          "y": 1953.1711307737905
+        }
+      },
+      "id": "dfa704a5-6e14-4625-ab30-b1d2a8a8d48f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 196.62281943475534,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "c07f0360-0a76-4e8c-93a1-b183f8e524da",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2974.598130209968,
+          "y": 664.2763615883855
+        }
+      },
+      "id": "79655f29-4886-4ec0-b361-3bcbfa87afde",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2550.684120615114,
+          "y": 318.76924907714186
+        }
+      },
+      "id": "a8bfface-79c1-4d69-bbfa-2006ab1b87c4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2980.269833816702,
+          "y": 1413.8238035804916
+        }
+      },
+      "id": "5fa3da0a-dd8a-43d7-9b7f-3370707f9e78",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2339.7282454367214,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "b8257b2d-6a42-4bff-b83a-a17946e6f8ec",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2022.7767031229466,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "0f7a4dac-b3bd-4933-917d-4ca436061e7b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1004.0798594300264,
+          "y": 1015.108589191801
+        }
+      },
+      "id": "c8223c71-f830-40ae-8ef6-4060654582e3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2157.451059917177,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "102ffa4f-ffb0-49a5-a8b1-a2c325eec5e9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1679.8513039258632,
+          "y": 355.4858894422844
+        }
+      },
+      "id": "6c6ad6d0-38ed-44ff-8a04-998bb1da86fc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 775.3903038181354,
+          "y": 1700.5516188948873
+        }
+      },
+      "id": "d517668c-625e-45e9-a7f5-df8902a0acf1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2987.113414361174,
+          "y": 324.7041249165827
+        }
+      },
+      "id": "caaf4fb0-f72d-4168-aa6c-a24ca7108269",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2834.486904866614,
+          "y": 506.32862970507136
+        }
+      },
+      "id": "fed119c7-d676-4126-aa68-6620d1516f5c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 835.8356757522071,
+          "y": 1686.1587539589348
+        }
+      },
+      "id": "fb1ca1d2-1cce-4639-b52f-1e0a4c16610e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2199.133934942695,
+          "y": 883.0268548632434
+        }
+      },
+      "id": "670cb845-2263-4399-901e-bb5670313bce",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1558.1499476119757,
+          "y": 508.3017348715491
+        }
+      },
+      "id": "f70706e4-da0c-46c0-aee5-7b133dc5e71a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 518.2945768418552,
+          "y": 1158.710753576198
+        }
+      },
+      "id": "65675f15-d897-422e-b7e9-d936fe4b6657",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 512.6156738914719,
+          "y": 2112.0073581376323
+        }
+      },
+      "id": "b3841ab5-6781-4368-9cfb-e0c4c95336bc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 635.4250457227195,
+          "y": 826.2545771690618
+        }
+      },
+      "id": "72837652-8dfe-4cd2-bf0f-43651aab8535",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1654.2720295852102,
+          "y": 521.750915065335
+        }
+      },
+      "id": "001fed65-7829-4271-80b0-42d334690b22",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 748.5698132122421,
+          "y": 1421.5576853181267
+        }
+      },
+      "id": "5a5b6c02-34dc-49c8-a29a-c2caa3b8f2af",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 860.569861734367,
+          "y": 1479.8024041343224
+        }
+      },
+      "id": "38c63c59-473f-4c75-9707-70c15077526f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3267.254817834944,
+          "y": 945.0668939838947
+        }
+      },
+      "id": "5ce35826-b469-47fa-9023-5bafe46ddebb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 496.1075414720732,
+          "y": 1414.1123264246714
+        }
+      },
+      "id": "482351ad-5122-48fc-8f8c-bbedbc2fca10",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1531.9121771217297,
+          "y": 1015.108589191801
+        }
+      },
+      "id": "a1e1093f-1410-4849-a00c-f4f65e585c34",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 551.0090774581115,
+          "y": 1433.4031508934174
+        }
+      },
+      "id": "e77e0f49-a747-4821-86d0-cfd5a672a637",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3716.790690849012,
+          "y": 429.72151095566073
+        }
+      },
+      "id": "ec6e9fb7-ddbb-4292-97c2-08c439e55801",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3547.171621964041,
+          "y": 468.51662636864006
+        }
+      },
+      "id": "e079bae8-5185-4ec8-8ce1-6eb4231cda81",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3408.56845534455,
+          "y": 1465.5558887401746
+        }
+      },
+      "id": "5cd1bdb6-78a2-47d9-9099-5197edb130b6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2989.721827412945,
+          "y": 626.7720869793195
+        }
+      },
+      "id": "b824bef9-6010-42e1-9f75-7a614a048d29",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 1176.8684107626718
+        }
+      },
+      "id": "13cf725c-f38a-4e44-b771-c50471fcfdc2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2340.241115857769,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "c6859504-750a-4a7e-a18e-4e33b2621b3c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1358.4114840217217,
+          "y": 553.7076201450309
+        }
+      },
+      "id": "de04d7e9-4181-4bd8-ab4e-799142f40189",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.084190127592,
+          "y": 320.8347876186928
+        }
+      },
+      "id": "d97ab8db-26d2-414c-8ab0-668e9e294a34",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2896.8887231542794,
+          "y": 882.7745066580967
+        }
+      },
+      "id": "6911cb65-6aaf-44eb-91eb-3106396ddb90",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 620.3658015422873,
+          "y": 2164.994070484022
+        }
+      },
+      "id": "6e88d25f-1eb7-4c13-8f47-f2d5353fe0fe",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 1253.2335109623145
+        }
+      },
+      "id": "dc775254-94a3-48fb-9f4a-59104faaddaa",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 613.6788287274657,
+          "y": 865.0304824023892
+        }
+      },
+      "id": "4fff324a-d538-4c59-bf7d-731d85f28f6f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1139.244281266994,
+          "y": 877.4988581617391
+        }
+      },
+      "id": "6af0304e-4865-45fb-b602-f7ee206ab48c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1381.1551301635739,
+          "y": 827.9366354609765
+        }
+      },
+      "id": "5c80230c-5198-4bb0-95d6-bb02c8b7b1e8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.9333267168277,
+          "y": 856.6926359946702
+        }
+      },
+      "id": "0c440dc5-dbc8-4ad6-8b7f-0aec82611542",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 226.56247043243627,
+          "y": 960.6385388541165
+        }
+      },
+      "id": "f6e016d9-5a4c-436c-860e-8326bffc29fd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 287.7300444644198,
+          "y": 1857.7613495019023
+        }
+      },
+      "id": "02587a06-3d25-410e-8f70-23113c07ae22",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3023.5110962442177,
+          "y": 1413.8238035804916
+        }
+      },
+      "id": "375bd99f-593a-4e2b-b978-4116f5233aa9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 945.0668939838947
+        }
+      },
+      "id": "9f080be9-f2c3-4574-93d4-ea974f82a3a4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2289.6434184993327,
+          "y": 308.131124858763
+        }
+      },
+      "id": "82a40dfd-b555-455c-bc97-2df694997c9b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3743.731745886195,
+          "y": 718.6189731484762
+        }
+      },
+      "id": "142bc81d-d05b-4429-80f1-b5933a3d652e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 326.2550793846821,
+          "y": 1857.7613495019023
+        }
+      },
+      "id": "d1446d7f-5deb-4d84-8cba-c76179e76850",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2979.906123244786,
+          "y": 472.94366075221086
+        }
+      },
+      "id": "b8d524c1-f831-4c57-803e-597e3ca1f3ab",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 1183.090987004973
+        }
+      },
+      "id": "4d73a353-f336-48e9-b944-a50db2b07d3f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2510.552062440095,
+          "y": 510.3803770411285
+        }
+      },
+      "id": "668160d2-9652-42a4-ac85-ae8555edc774",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 860.9012133813628,
+          "y": 1436.5976241471778
+        }
+      },
+      "id": "689930ff-7059-4628-b138-dc4d5d0bd055",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 277.7575177059677,
+          "y": 981.2776478022979
+        }
+      },
+      "id": "d38b8e1c-c159-42e4-ad64-17b1e9bfdf7d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2022.7960791739404,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "e2059c61-a4c9-41d4-952d-3961f3524e59",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 286.1315757134793,
+          "y": 1712.2022356366208
+        }
+      },
+      "id": "3405a48a-3472-422e-bb12-5d8e50019670",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2339.7282454367214,
+          "y": 510.04957827924557
+        }
+      },
+      "id": "ca637b9d-69e0-44e2-813c-116baa65a4f0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1358.4114840217217,
+          "y": 643.4314594313512
+        }
+      },
+      "id": "504e8edc-6895-4cfd-b269-ed8aa90c3e2b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 398.7770428713447,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "a22bb936-3b79-416d-9e31-dfccb5d19f1a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2025.4719977630286,
+          "y": 351.7635527473255
+        }
+      },
+      "id": "d9a934d6-e710-45dd-9612-8ebaae0c1b57",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1893.5366783586414,
+          "y": 439.0475193425466
+        }
+      },
+      "id": "f17c6991-30e9-45fd-bdca-e20b9dae9dd7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 612.6748005040696,
+          "y": 1717.5593601009928
+        }
+      },
+      "id": "ade5f5f8-cc9f-4dbb-b44d-4f7b0cffd0b2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 994.767013302562,
+          "y": 1935.673732810122
+        }
+      },
+      "id": "cac46642-9aac-44da-a285-c46a0a8a58d6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 205.2194847249928,
+          "y": 626.0404435357491
+        }
+      },
+      "id": "91a6f63f-99b3-4b6f-8d7d-889c62eda40f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 918.5284968784288
+        }
+      },
+      "id": "c6c3b26d-cef7-48d7-a76b-a104533bb993",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 492.4628454763391,
+          "y": 232.9537358742263
+        }
+      },
+      "id": "9d12a8cc-3785-4825-89af-914fc44d3899",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3057.1702429347474,
+          "y": 1066.1256844472382
+        }
+      },
+      "id": "88bcab42-7cca-4188-b4a5-fb97170428c0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1782.1351327821785,
+          "y": 318.5519223135388
+        }
+      },
+      "id": "d374e046-b29c-4783-90f1-7534e7bae61c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 796.5964086484454,
+          "y": 105.90744301431539
+        }
+      },
+      "id": "c5f9b0ce-9391-49ec-8e42-c74e438eef86",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2294.6952817116903,
+          "y": 735.4279554778425
+        }
+      },
+      "id": "ea2eae75-5393-42f1-8a65-d1b2852b558b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1409.4667330032094
+        }
+      },
+      "id": "cca02816-804e-4bac-9826-d80337e69ad9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3557.6337442460513,
+          "y": 576.9416054088724
+        }
+      },
+      "id": "7ef5a6c5-4603-4ff5-8ed5-83d857f66d6d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3486.1199401463937,
+          "y": 1279.6423075317002
+        }
+      },
+      "id": "59a1681b-d552-47ef-866c-61f1b10c33c4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3716.790690849012,
+          "y": 592.0304973069389
+        }
+      },
+      "id": "2ca7e9f9-b6af-4b7c-bc61-c1c08c9c3be6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1407.1162944354019,
+          "y": 828.2316486913383
+        }
+      },
+      "id": "836a50ca-7e9b-4e03-a591-3066d6304ea9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2977.5233906339145,
+          "y": 1587.7550498166554
+        }
+      },
+      "id": "ae6bc2b8-db76-4975-a0db-5b2373d11caf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 684.1448864582176,
+          "y": 282.43017380012736
+        }
+      },
+      "id": "35e5623a-4231-4da9-8682-7eab5255c46c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 857.884588627704,
+          "y": 1656.1353381385288
+        }
+      },
+      "id": "cf4b8771-9f22-414e-9698-dadbb316bf54",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 613.9070013115602,
+          "y": 1434.0239826502545
+        }
+      },
+      "id": "a4561507-d58f-4f2e-981e-79e37e6a363c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 261.59088598651783,
+          "y": 2087.236557505204
+        }
+      },
+      "id": "714d6aa3-026e-4c91-b5b9-13c151aad498",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1469.2653387606988,
+          "y": 632.3216566242046
+        }
+      },
+      "id": "8b617570-ac3c-4f50-8828-88287ee3b1c0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1414.8148810298935
+        }
+      },
+      "id": "682f405a-2359-41c5-bf78-03a4059e11f5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2289.6434184993327,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "1a7c367b-bb47-4007-af5a-91c1870a9c89",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 1060.6221953452964
+        }
+      },
+      "id": "0a3acd7d-0646-49ce-86c5-68a73f9d2353",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 355.8563651182349,
+          "y": 731.576461535805
+        }
+      },
+      "id": "1295b78a-e815-4bce-a4c9-78ffb514c983",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 630.3198100291061,
+          "y": 232.9537358742263
+        }
+      },
+      "id": "b7952ab5-0a9e-4bbd-ac20-739251bf146b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 226.56247043243627,
+          "y": 870.8798931070658
+        }
+      },
+      "id": "79f7b298-4b5c-4585-af03-a46898f2e049",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2246.2663334279396,
+          "y": 735.4279554778425
+        }
+      },
+      "id": "37a35ef4-d961-42f0-8622-fa2d420c7ea3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 993.7683771924474,
+          "y": 1936.337806019894
+        }
+      },
+      "id": "737adce7-a3ce-4bcb-a5d6-370237a12885",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 650.8898080629926,
+          "y": 1983.173072675316
+        }
+      },
+      "id": "cb9ec186-4770-4f86-a96b-569a8cd033a6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1663.642408365416,
+          "y": 287.3709587240027
+        }
+      },
+      "id": "d00ce5a6-d021-44f3-a977-3d36194e6a1d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3524.3122885055036,
+          "y": 1483.7995100997855
+        }
+      },
+      "id": "125b488b-b3f2-488e-af6b-c8487982e967",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 835.9016556667864,
+          "y": 887.9062217641733
+        }
+      },
+      "id": "78ce5cc8-454e-4bbe-9ffe-e84b8bcfb0e7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3388.9250677129485,
+          "y": 2652.2423110517643
+        }
+      },
+      "id": "28a9b235-de0f-4d81-82a7-e256d66e2de1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3233.0429976107016,
+          "y": 359.1334286427193
+        }
+      },
+      "id": "0a417be8-701f-41a6-8622-257006c273ee",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2616.4901914931966,
+          "y": 1023.1250553972038
+        }
+      },
+      "id": "e451a4a4-948b-4e9f-a104-4ecc81036244",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3376.796906844752,
+          "y": 1483.2676203713777
+        }
+      },
+      "id": "d4c75fb0-e9b8-44a0-95f0-7ab776739d34",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1538.0001163882544,
+          "y": 713.5090042308852
+        }
+      },
+      "id": "da4f5265-05fd-47d5-90e9-6c5b13524b92",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 284.8985873706547,
+          "y": 981.2776478022979
+        }
+      },
+      "id": "212514ee-9519-47f6-96b5-9290b8ca05bb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2540.394532950022,
+          "y": 876.5929573503944
+        }
+      },
+      "id": "4572756e-2f0e-4a68-a19e-ce5e7c772cbd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3686.200925781325,
+          "y": 2687.1585883035805
+        }
+      },
+      "id": "8817fd90-9721-4a0a-8177-039ddfc58ff1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "aa9f30f1-d825-4af0-a0cf-a13ec4710348",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 886.6853932324972,
+          "y": 107.79412331974055
+        }
+      },
+      "id": "dc7a531e-467c-45ce-83d7-ec71cd6a0c60",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2980.269833816702,
+          "y": 1231.7748870201467
+        }
+      },
+      "id": "c997ffe4-f0b6-4a02-b806-f269f89c584f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 859.6027299572562,
+          "y": 1803.8253590049962
+        }
+      },
+      "id": "6f61ecd5-413f-4ff6-9661-e76ffca21aad",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 1253.2335109623145
+        }
+      },
+      "id": "07d20768-156e-4db5-aea4-b80a3012bca0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3574.8498088147744,
+          "y": 367.78727779404784
+        }
+      },
+      "id": "b190aaab-950a-4428-8cc8-07113995ee2a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 518.0881016822804,
+          "y": 865.0304824023892
+        }
+      },
+      "id": "2e4226cd-63b9-4924-ba92-91f83d615e9d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1726.025215457236,
+          "y": 423.6510124753672
+        }
+      },
+      "id": "44896935-5576-4f22-8c4d-0dd0c3a2475d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3007.4686448802922,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "95efaca4-ca3a-4aef-9afd-da44726bd9c2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 620.3658015422873,
+          "y": 2328.891790044514
+        }
+      },
+      "id": "0dcfe695-53df-44a4-bbdc-40a27cc1f90e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3388.1051707541974,
+          "y": 234.9298896231574
+        }
+      },
+      "id": "3a60ee33-e49b-4ff0-9c94-c6c9c3e6b811",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1985.0379048719449,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "e860e687-0494-43d5-b20c-625d95bc9ed9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 835.8356757522071,
+          "y": 1716.8302776160024
+        }
+      },
+      "id": "7b291aa5-1100-49c6-9d8c-2999ea3155fc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3117.5680223218606,
+          "y": 1156.8885924878105
+        }
+      },
+      "id": "2715809f-be3e-4b56-9966-17df8d4d7385",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2327.891212064893,
+          "y": 782.6503352760603
+        }
+      },
+      "id": "f88bc5e1-1f7b-4180-8a5c-3119ec9b3ed7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1401.7698182086588,
+          "y": 518.7800731611094
+        }
+      },
+      "id": "6d646246-dc43-4af9-809b-4bcf95323966",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2149.7873477720673,
+          "y": 652.6198984575805
+        }
+      },
+      "id": "bd8d8ee9-b54d-4191-add6-159a3954643a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2022.7767031229466,
+          "y": 649.735241091804
+        }
+      },
+      "id": "c088de5f-9cbb-45c2-a4f8-15335db7714e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1322.5056029417042,
+          "y": 649.8641512868509
+        }
+      },
+      "id": "edbcf68c-1019-44b2-81d7-a717f0515797",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3582.9501983843447,
+          "y": 1483.3871051725266
+        }
+      },
+      "id": "0b8f4317-504b-4057-b876-c3b98474ada0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2834.486904866614,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "917bbd17-ca36-4efa-bd07-a019d69bf1ba",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3381.122534520191,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "d2e735d9-7840-406a-8e4c-8df11ceeaad8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3654.3625880505024,
+          "y": 672.9082742270471
+        }
+      },
+      "id": "529db352-3997-46d7-af6e-04982ed80101",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3578.835545342311,
+          "y": 2336.3441071403226
+        }
+      },
+      "id": "8598afce-39de-4e5d-b772-c39b915906c5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 286.1315757134793,
+          "y": 1730.740531026479
+        }
+      },
+      "id": "97d736e9-b621-492e-8b16-03795a947269",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3001.4185934709694,
+          "y": 626.7720869793195
+        }
+      },
+      "id": "bb8d8007-e5a0-4838-a187-7d7cc19ebdd4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2981.990141053799,
+          "y": 319.41571053932887
+        }
+      },
+      "id": "b2ca0a93-e39d-4599-8147-7c23b13698ab",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 684.1448864582176,
+          "y": 307.667618032232
+        }
+      },
+      "id": "b16db327-2688-4dfb-bdc0-397b6694b9b2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 942.9165235105995,
+          "y": 145.28154350514205
+        }
+      },
+      "id": "b30521e9-774d-484b-bd4c-6b36d06c4159",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3202.492784357303,
+          "y": 1459.4490279555616
+        }
+      },
+      "id": "fabe987c-a324-406d-86a1-c4953aa6efbf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1782.1351327821785,
+          "y": 351.7635527473255
+        }
+      },
+      "id": "cf8ea5a8-07a9-4d4c-9e7f-94fb06ca3a24",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3545.663630019985,
+          "y": 1029.042458039428
+        }
+      },
+      "id": "f990c3a2-8a4c-441d-be49-c16e450c08e2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3119.5568088535765,
+          "y": 1459.4490279555616
+        }
+      },
+      "id": "7d60a9bc-bdd2-4b2b-8481-9973b2a977d0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 326.2550793846821,
+          "y": 1930.6239155467463
+        }
+      },
+      "id": "ab26ea18-81c5-48de-a4a7-102e1123ff20",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 285.9256440336717,
+          "y": 1435.2684857895042
+        }
+      },
+      "id": "bb2fe40d-c4b5-4005-8826-eb57b2d5e884",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 864.124408525882,
+          "y": 826.2545771690618
+        }
+      },
+      "id": "7211e68a-14a7-4f5e-a8c7-d15891ff05ba",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3150.309675591229,
+          "y": 976.2130876467937
+        }
+      },
+      "id": "7de2d97f-040e-4fbc-8fb7-b41891019b39",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2332.7691353630507,
+          "y": 1141.756272762217
+        }
+      },
+      "id": "a2ba1161-f033-4b00-886f-c0fcc384e146",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.2297356329154,
+          "y": 1990.670901408742
+        }
+      },
+      "id": "6a5c122a-119c-4fb2-b4bf-01aa88d3c125",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1239.8427823055613
+        }
+      },
+      "id": "978d0370-4a7f-485e-a581-b3c1f5f7e7d6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3046.8710809992954,
+          "y": 1587.7550498166554
+        }
+      },
+      "id": "a0c3566b-866d-4b16-ac4d-233f92b9f0a5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3485.1913516606846,
+          "y": 1558.1999299479808
+        }
+      },
+      "id": "16b1f611-c581-4f18-b77e-08a806cd4de2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3712.5745609197857,
+          "y": 674.0986478761035
+        }
+      },
+      "id": "193f46b1-878e-443b-96b8-7f034a96bdd5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3388.2493226784163,
+          "y": 234.5671328232716
+        }
+      },
+      "id": "ce3146f1-3fac-4bc2-beff-51a590b42184",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1113.732826905793,
+          "y": 557.5001161281035
+        }
+      },
+      "id": "528d857d-c9df-4e7a-8da4-5f3adaee56e0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1770.9159426343972,
+          "y": 772.3234522489128
+        }
+      },
+      "id": "da9b0861-43f2-4f69-a1fe-7a17a86edb21",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1421.5576853181267
+        }
+      },
+      "id": "90c60ede-c67f-45df-954f-99d777b46453",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 771.2845924851779
+        }
+      },
+      "id": "d183cc15-daa8-4bc2-b9ef-3a09cb6f46b2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.2297356329154,
+          "y": 2246.749821532404
+        }
+      },
+      "id": "eb72e771-800e-4008-a114-bb7de6e9664d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 629.636965272738
+        }
+      },
+      "id": "c1926690-54d4-4279-b41d-07638345c75d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 265.14152757638533,
+          "y": 1400.8526816152932
+        }
+      },
+      "id": "800fb5cf-566a-4e3b-84e7-050e1b3c418b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 864.124408525882,
+          "y": 1016.3267779414866
+        }
+      },
+      "id": "b07f0d76-a3f8-4a0a-9681-bb48edb27651",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1654.2720295852102,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "9cfc2cc6-daa1-471b-a281-bf2f91f02308",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3057.1702429347474,
+          "y": 1177.1617939899468
+        }
+      },
+      "id": "d1ba4c88-f40c-41a2-9554-8901ca541445",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3408.56845534455,
+          "y": 1239.8427823055613
+        }
+      },
+      "id": "6bf9dc15-5876-4cf4-834a-9c69cee8287f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3544.300695489429,
+          "y": 638.2674556493531
+        }
+      },
+      "id": "b6cda8c2-cc78-4b84-807d-ec67fe065134",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2777.5325570857526,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "cf2d17c1-2f0c-427e-884a-a467c67f7510",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1674.1532155353286,
+          "y": 878.4989627084676
+        }
+      },
+      "id": "5ef8d8db-c11c-4a9f-b9e4-a16baa54dda4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2659.382967282086,
+          "y": 703.8869291316398
+        }
+      },
+      "id": "e4ebcff4-77d6-464f-bc0b-150554a091c9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 269.3050277634248,
+          "y": 1930.6239155467463
+        }
+      },
+      "id": "20c36d29-3920-4502-b1d5-6ad94530f910",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1574.603332797172,
+          "y": 661.1778432712609
+        }
+      },
+      "id": "90b27a49-15a2-4259-8a54-3a75a53402fd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1111.513037612996,
+          "y": 877.4988581617391
+        }
+      },
+      "id": "bfd0e725-b42d-491e-baec-0288378b88c0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3381.122534520191,
+          "y": 617.3103642639203
+        }
+      },
+      "id": "628464b3-76d8-42e4-b363-99ff0979f707",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1187.2042797056151
+        }
+      },
+      "id": "32bb72f3-095d-403e-ada0-bf856f2196c5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3408.56845534455,
+          "y": 1409.4667330032094
+        }
+      },
+      "id": "6c119f0c-5be5-44c4-bf59-3497dc6ae173",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 323.1220516527308,
+          "y": 436.7109509568364
+        }
+      },
+      "id": "0667932d-4565-415e-b44e-8084b170f226",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2189.58633667898,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "56a3caf1-695e-4da6-bc49-d90b9e6b716e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3583.3368147411334,
+          "y": 367.7552493202302
+        }
+      },
+      "id": "17956876-fedb-459b-b6f3-0e8c2837ee1b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2332.7691353630507,
+          "y": 876.5929573503945
+        }
+      },
+      "id": "598ed6fb-890b-4df9-924b-395081fbdf95",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3408.56845534455,
+          "y": 1483.2676203713777
+        }
+      },
+      "id": "2990f2e9-9785-4085-b1d9-64ca11f7026f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2007.5819044950163,
+          "y": 662.9199268206262
+        }
+      },
+      "id": "06ddaa43-7507-46e8-9c77-3480c276eb03",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3919.3752380384913,
+          "y": 1926.037952196834
+        }
+      },
+      "id": "0b6c26da-e27d-4aed-bbc3-1ee599b48b43",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1508.704432193645,
+          "y": 508.3017348715491
+        }
+      },
+      "id": "ea581ea7-4cae-456d-9f06-811bd83059e8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2327.866174749765,
+          "y": 823.579909720994
+        }
+      },
+      "id": "2230c97f-2f92-45b5-953f-b7d0326d4b16",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 863.3407642956377,
+          "y": 1118.5057677333452
+        }
+      },
+      "id": "fd66c9a8-da2d-4f02-8b15-96b6d13a7786",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3095.0534381067555,
+          "y": 2402.1239189441885
+        }
+      },
+      "id": "c697061f-ebd5-46f9-8c9a-e8bdcc44a2c7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3431.683477460763,
+          "y": 1189.6852064475358
+        }
+      },
+      "id": "5b3e5ce2-ad76-4bd3-8355-99f4453689ec",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2979.4805149824924,
+          "y": 1941.3187883483918
+        }
+      },
+      "id": "ee802102-11d6-4e13-bcde-ee734c793d91",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3654.3625880505024,
+          "y": 755.6580407357931
+        }
+      },
+      "id": "8d051034-88e5-4903-ad3d-4186a302646a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.10188479409211,
+          "y": 2328.891790044514
+        }
+      },
+      "id": "bb3f9bb4-2604-4903-a70e-83fd875a2f20",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1461.5952842730535,
+          "y": 621.2117238852624
+        }
+      },
+      "id": "41942106-eaab-49fd-a3e3-93c814d6c03f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3721.433686706825,
+          "y": 1183.090987004973
+        }
+      },
+      "id": "55eb273b-7f64-442f-891a-172c6a964233",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 268.7282780005513,
+          "y": 1681.1789658005318
+        }
+      },
+      "id": "812ab729-c4c3-4e89-8dde-831caae05765",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.3671924876994,
+          "y": 1914.557201916371
+        }
+      },
+      "id": "e0ca4123-5a65-43c4-a7f4-692614920519",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 636.8207883022164,
+          "y": 1690.8253149121938
+        }
+      },
+      "id": "121d394e-db25-418e-9cc3-cfd0e8d40d2b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2248.419624628329,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "95f49965-6cef-43ed-8aa7-443e8c235e3d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3431.683477460763,
+          "y": 1033.7817594083986
+        }
+      },
+      "id": "0c3c6ad6-8749-43d7-8a27-cd64a4c9deeb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3478.8971396555803,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "dccf7a77-883b-41b8-a56f-cba6440b06ef",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 1733.1939698989024
+        }
+      },
+      "id": "98757982-ea09-43fc-858b-a20f004f30de",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3545.663630019985,
+          "y": 1053.0442658857892
+        }
+      },
+      "id": "c093541e-dfa9-43c6-a59a-28a670ad8e6b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 613.6788287274657,
+          "y": 812.0002339402788
+        }
+      },
+      "id": "9e965818-f37c-484f-af98-1e7e6385a0c4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2979.4805149824924,
+          "y": 2506.528381852342
+        }
+      },
+      "id": "9a16b136-2337-4957-b14a-9310d815ac12",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 861.0020541374932,
+          "y": 1716.8302776160024
+        }
+      },
+      "id": "d9fb27c4-6887-4c31-a3df-f48e91cedf08",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 435.9642884092182,
+          "y": 891.424699978973
+        }
+      },
+      "id": "fcb3f0ae-b0bf-426d-b223-57c1c1689d5b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3474.7575393632774,
+          "y": 367.78727779404784
+        }
+      },
+      "id": "2a9f84d3-103e-4c00-b9cb-83efc5602a29",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3509.6349999623826,
+          "y": 1220.3303165424575
+        }
+      },
+      "id": "03344be9-5863-4d31-baab-5df9418c984e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1438.3064344990278,
+          "y": 643.7162533316252
+        }
+      },
+      "id": "f97e3c16-d54b-4f07-882d-12f14b6e65b6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 630.3198100291061,
+          "y": 282.43017380012736
+        }
+      },
+      "id": "f7e89e24-5c57-4e1f-b22a-1860ed0eefe0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 1733.1939698989024
+        }
+      },
+      "id": "989cdf0e-3735-4ffe-9641-4dc8b113f6e2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2994.4803917425515,
+          "y": 1505.6241926954747
+        }
+      },
+      "id": "1e7c40e6-89f9-4d0e-a39c-75a17c8bfbfe",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2922.57783649013,
+          "y": 290.9987735806547
+        }
+      },
+      "id": "49563ad1-ada1-494c-8a97-b56df6baad0f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3485.1913516606846,
+          "y": 1916.1471801578625
+        }
+      },
+      "id": "e24bdd8e-0aa4-453a-976a-c7d7563249f3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2982.1064497569364,
+          "y": 313.5108069352702
+        }
+      },
+      "id": "6aa1c335-bc71-427f-b1a0-b4111ffb92f7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2974.598130209968,
+          "y": 882.7745066580967
+        }
+      },
+      "id": "1a5d481d-298c-486f-8da6-03a91d8ad30e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1135.300262446693,
+          "y": 502.7188298542178
+        }
+      },
+      "id": "72f2a485-a44b-4e91-9af9-56f13b94d018",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3233.8880095182376,
+          "y": 408.31655328011374
+        }
+      },
+      "id": "a8a81120-fc56-49f4-a5e0-8a9459c3adb4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 485.5320500406161,
+          "y": 891.424699978973
+        }
+      },
+      "id": "2fc1861a-f17e-4de7-bcf9-77c56f58be0f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 398.7770428713447,
+          "y": 891.424699978973
+        }
+      },
+      "id": "bfe7d8b7-a524-4e50-a2a5-ea11aba5c01e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 836.1142124968601,
+          "y": 1118.5057677333452
+        }
+      },
+      "id": "edb8e7eb-5b02-44f9-88d7-1b07d2a497f1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2980.269833816702,
+          "y": 1468.2847713654057
+        }
+      },
+      "id": "64a58a63-7ffe-461c-a488-7b6ec9ad3241",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3150.309675591229,
+          "y": 891.5894671287284
+        }
+      },
+      "id": "f23c5258-8a7f-4341-919b-82a4b3c98e83",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1881.6726978518734,
+          "y": 427.18353883577856
+        }
+      },
+      "id": "ed20c7a8-82be-4b75-bace-7f7d17b72668",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3500.9879110868583,
+          "y": 2652.778496905228
+        }
+      },
+      "id": "7a074aaa-20ba-4425-b192-7cbee08f52a0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1578.719282026001,
+          "y": 385.6768566340894
+        }
+      },
+      "id": "ba478e46-9db0-41a1-8878-bba1c8da5c21",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3080.554485238311,
+          "y": 1505.6241926954747
+        }
+      },
+      "id": "0c5b73d3-3f2e-4a25-a503-3975bf579690",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3266.460804354998,
+          "y": 629.636965272738
+        }
+      },
+      "id": "293fb30c-4dab-494c-a552-9a053ab0f401",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2248.419624628329,
+          "y": 652.6198984575805
+        }
+      },
+      "id": "1e664b02-3305-41cb-9067-1ef6eea770a5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1548.2608445283095,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "80ff6e6d-0347-41c3-a6d2-0fa20f1cd540",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3547.171621964041,
+          "y": 563.3541910727481
+        }
+      },
+      "id": "8d7ec5ff-3b75-4b6c-85c3-e2675eb73eb0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3388.1051707541974,
+          "y": 258.5752008705387
+        }
+      },
+      "id": "e6d54aa0-bcf1-4e58-8c4a-7420d59c3016",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.9333267168277,
+          "y": 782.6503352760603
+        }
+      },
+      "id": "e35ee918-1eed-4843-aa01-9c911c3f397a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 2694.5202312364127
+        }
+      },
+      "id": "f22b17b4-3f9e-4363-8396-25dfccecb4f9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2922.57783649013,
+          "y": 311.72717683566265
+        }
+      },
+      "id": "cf1a194d-36cc-4350-8638-0fe6c760924b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3607.8259321154783,
+          "y": 1041.6979076673367
+        }
+      },
+      "id": "3df9783e-d845-4952-9865-b3c74d84f1b6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 859.6027299572562,
+          "y": 1939.6167936007114
+        }
+      },
+      "id": "0e1a31a9-f643-4d22-8133-fecbc4204848",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 261.59088598651783,
+          "y": 2123.4392270365297
+        }
+      },
+      "id": "434cdee8-ee08-4e1c-91b1-d14c9e12bc1a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2023.5636656416013,
+          "y": 724.4785433639528
+        }
+      },
+      "id": "d2798efa-a7aa-493e-83f0-2105417d46d8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 857.884588627704,
+          "y": 1686.1587539589348
+        }
+      },
+      "id": "b6f7db9d-ac98-46c5-87e1-9be4e1325549",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2896.8887231542794,
+          "y": 1517.7971898835963
+        }
+      },
+      "id": "9c8d27b4-1a4e-49e5-a584-781cf229dc69",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 862.9076714536559,
+          "y": 1174.9765326185566
+        }
+      },
+      "id": "b57dab5f-c836-4048-8fc3-1872b791e136",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 650.8898080629926,
+          "y": 1757.045447061972
+        }
+      },
+      "id": "1ba97130-086a-4360-9a20-0ef585af5ba2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 981.44361104976,
+          "y": 502.71882985421786
+        }
+      },
+      "id": "1281371e-1aed-425d-9550-dd7c0731517d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3007.4686448802922,
+          "y": 626.7720869793195
+        }
+      },
+      "id": "87976b4b-f6b6-45f8-8606-bf857ad8d386",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1113.301478194975,
+          "y": 649.8641512868509
+        }
+      },
+      "id": "a5707551-20b8-4bea-983a-c63a65551777",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2007.5819044950163,
+          "y": 649.9227654420635
+        }
+      },
+      "id": "b533ca6e-134f-4afd-924f-cc00dc99336a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3585.2626128668917,
+          "y": 337.34766917892995
+        }
+      },
+      "id": "abf11696-dcdd-4aa8-9df7-b64a300ffff4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 796.5964086484454,
+          "y": 310.059437879005
+        }
+      },
+      "id": "836b2859-8cf0-49ea-b5ff-33b0b939ea0a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1841.4459640991872,
+          "y": 112.02657398583437
+        }
+      },
+      "id": "9091dfb9-70f0-4b7a-8f9d-ae2336b430fd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3369.188921756292,
+          "y": 234.9298896231574
+        }
+      },
+      "id": "d75dbf2a-aed2-4df5-a47e-982a30e6d0b4",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3585.0319348804173,
+          "y": 1029.042458039428
+        }
+      },
+      "id": "90a798a4-0611-4327-a4bc-aaf828f14cd6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2335.9033641593496,
+          "y": 879.2574741691932
+        }
+      },
+      "id": "b4bd5ceb-0998-4308-9abf-16b595771cec",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.1018847940921,
+          "y": 2087.236557505204
+        }
+      },
+      "id": "a98f2bfa-3b7b-4e05-a6f1-7b6e2f6592a9",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 270.7284963712683,
+          "y": 102.54190705277139
+        }
+      },
+      "id": "017367e6-98d9-4da0-b2f3-b3801258379d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1082.1044502359007,
+          "y": 2328.891790044514
+        }
+      },
+      "id": "e575b6a6-d0a0-4c78-8281-745fb7dbe155",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 283.0898665648739,
+          "y": 1156.8850192400746
+        }
+      },
+      "id": "c2120efe-8836-4bd8-81fd-ad86e1d101f3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 1033.7817594083986
+        }
+      },
+      "id": "0eefaf86-a7cc-47ef-9c95-5079a445c2b8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1350.7403645563468
+        }
+      },
+      "id": "385b6ba2-2a9f-4b05-b675-43cd1e29f6ae",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3478.8971396555803,
+          "y": 901.5774685526769
+        }
+      },
+      "id": "7ac9406d-5cb3-4560-a154-fb1451733318",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3607.8259321154783,
+          "y": 1053.0442658857892
+        }
+      },
+      "id": "1ae871af-3c5f-4112-a831-ad609aca9af2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1558.1499476119757,
+          "y": 387.259113127476
+        }
+      },
+      "id": "d60f77a0-dd71-4840-8b70-b6f0b9923be8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1321.8027517696219,
+          "y": 643.4314594313512
+        }
+      },
+      "id": "8dcbac87-8277-4949-8244-c9a0fb6ae599",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1919.9626234946072
+        }
+      },
+      "id": "fe2204d9-ff20-4627-862e-df36d7355ab8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1255.2152040540964,
+          "y": 502.7188298542178
+        }
+      },
+      "id": "c4876303-989e-43f2-a680-ded46119d2ce",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2777.5325570857526,
+          "y": 876.5929573503944
+        }
+      },
+      "id": "7b0c373a-27f4-4024-a61f-e0fc09e0378e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 666.1549293446969,
+          "y": 2115.7757971820242
+        }
+      },
+      "id": "f212515d-9d01-4c70-957a-73b9296f82fd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3288.3617459394895,
+          "y": 2252.0252434819904
+        }
+      },
+      "id": "662c774e-f965-442e-b443-2362b4fb6086",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1771.9175462514934,
+          "y": 714.3668921154693
+        }
+      },
+      "id": "2bd72108-065f-4a76-995d-1a5c7c8df60f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3119.5568088535765,
+          "y": 1506.5207978360554
+        }
+      },
+      "id": "f40ee762-3d60-47ab-9cd3-5d8f06a8dd26",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3379.848842998213,
+          "y": 1894.8815247834855
+        }
+      },
+      "id": "5130a54d-0a8f-4aa0-bc7e-2394668e5240",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 694.3679560102506,
+          "y": 1943.6551058129398
+        }
+      },
+      "id": "c71e4cbb-318b-41c7-9e23-a846c5494bb2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1909.7984908886142,
+          "y": 279.73050528462204
+        }
+      },
+      "id": "0a5caedb-21bd-4470-9d85-c5acadc877d3",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 284.63688359929796,
+          "y": 1081.6031342078722
+        }
+      },
+      "id": "1403eafb-c7f6-400f-be4b-95c06fb8264b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 839.9260101939714,
+          "y": 650.1942210962809
+        }
+      },
+      "id": "16ba6982-71dc-4b38-9116-a3a61ca9c8bf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3500.9879110868583,
+          "y": 2696.74573688925
+        }
+      },
+      "id": "efe9105c-c785-45c1-8bc2-7b53585c9246",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3639.982607590924,
+          "y": 886.6663125720994
+        }
+      },
+      "id": "c0f2a441-e77c-4185-a944-a8d64923e180",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3859.419310875399,
+          "y": 815.127019087074
+        }
+      },
+      "id": "32491150-7663-4e46-a686-9be5d9ed4ccc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 2320.206372737703
+        }
+      },
+      "id": "f488ad64-dc92-43e5-92f5-bafa12c87323",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 261.59088598651783,
+          "y": 2112.0073581376323
+        }
+      },
+      "id": "2a38b33c-c186-411d-b61a-d57b24ae752f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1892.973253525063,
+          "y": 351.7635527473255
+        }
+      },
+      "id": "d5df0f0a-d82d-4aa7-9264-d0139a47c3ef",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2890.9231719163845,
+          "y": 1740.0470643568171
+        }
+      },
+      "id": "da15da80-3b70-4ee1-bcd5-2f67a67a874d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1388.3555344369286,
+          "y": 287.3709587240027
+        }
+      },
+      "id": "12b00b05-5cd0-47be-aed7-0851707643a8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2311.0594727308744,
+          "y": 691.4784138834616
+        }
+      },
+      "id": "7fb573d6-f1d7-4333-8d6a-44515155956a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1668.6850374732178,
+          "y": 611.1343833371939
+        }
+      },
+      "id": "df613495-7f47-41af-98b0-791931f012c1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3550.6774858303497,
+          "y": 1558.1999299479808
+        }
+      },
+      "id": "6a633e2c-eb0c-4330-b62e-490beeec1a3f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2861.6748751239084,
+          "y": 1938.285520394709
+        }
+      },
+      "id": "733007fc-e36a-4634-8eec-12410bac6518",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3207.2934403188015,
+          "y": 1156.8885924878105
+        }
+      },
+      "id": "cb50ace9-5615-4c77-872f-fbf6624ee4c7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2988.8597059224344,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "8e076561-57bc-4917-841b-94729d4a2362",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1459.4490279555616
+        }
+      },
+      "id": "36436a6b-8024-4279-b5c1-34507876301f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 864.124408525882,
+          "y": 887.9062217641733
+        }
+      },
+      "id": "bc426e59-2a73-4ef8-b8db-9f12df7a61b2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3075.0886795751708,
+          "y": 1060.6221953452964
+        }
+      },
+      "id": "cc4cf5a1-8dc2-4c85-b1ad-aa4d95bc4167",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 866.0301767773874,
+          "y": 627.4048693171081
+        }
+      },
+      "id": "e202d921-4fc2-4a54-8e45-d84da9a83686",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 692.1954303546634,
+          "y": 1757.045447061972
+        }
+      },
+      "id": "94dd2de5-b549-4662-912b-111f58d51d66",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3301.3540974438183,
+          "y": 1187.2042797056151
+        }
+      },
+      "id": "9361254b-1bf9-446f-bfae-45e5226e2a00",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3023.5110962442177,
+          "y": 1377.7794314139076
+        }
+      },
+      "id": "1c657a73-a711-4707-8e12-5bb069387903",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 196.62281943475534,
+          "y": 730.6918698173022
+        }
+      },
+      "id": "1e4aca7c-bf28-4b6c-8501-20aa1942a301",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2049.141724178009,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "64bed161-4e0f-4536-9936-ffcb00de8358",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1135.300262446693,
+          "y": 583.3810387771834
+        }
+      },
+      "id": "30b94a7b-8041-43d0-9343-be2c0119d2bb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 662.1735204865292,
+          "y": 1098.4511132611774
+        }
+      },
+      "id": "b2acb671-93af-4282-9823-8b6585840cac",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.10188479409209,
+          "y": 1774.0112735882888
+        }
+      },
+      "id": "676b2baf-0025-4a06-8ab8-cef060c605ca",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3042.767157849521,
+          "y": 1066.1256844472382
+        }
+      },
+      "id": "b3d6ddd6-a38f-493f-92a5-169676901db6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2988.3107859430975,
+          "y": 152.2981411201287
+        }
+      },
+      "id": "da92457e-a494-4925-abfb-a74082eb33a5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 125.10188479409209,
+          "y": 1859.4691852142691
+        }
+      },
+      "id": "1617907d-6d25-4631-b393-fe7ce69d41a5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3410.5352753020497,
+          "y": 2331.1887038342616
+        }
+      },
+      "id": "1c9ea331-cbf3-4a7a-8fe0-fdf21ac98d54",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 866.0301767773874,
+          "y": 650.1942210962809
+        }
+      },
+      "id": "3e4eecd5-2734-4e72-8661-bd8f1a6731fd",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3485.1913516606846,
+          "y": 1736.862886381504
+        }
+      },
+      "id": "a384a24d-5b3f-41ed-b02d-d99332594757",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1644.3955482296187,
+          "y": 878.4989627084676
+        }
+      },
+      "id": "16fdffc0-5313-43ac-8505-06cc86d7cf31",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2022.7960791739404,
+          "y": 112.02657398583437
+        }
+      },
+      "id": "15aeadc4-7c73-4ba3-9187-78591b667aac",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 270.7284963712683,
+          "y": 303.5384128545552
+        }
+      },
+      "id": "86215793-c7bf-42e4-8b86-4bb12a11f561",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 694.3679560102506,
+          "y": 1916.3688905984422
+        }
+      },
+      "id": "877cb242-4e15-45a3-816d-248b7e7652b7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2974.598130209968,
+          "y": 973.2747674899165
+        }
+      },
+      "id": "e1bc2f8d-16e9-48e0-a39e-052a81c040fc",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 259.35395220129243,
+          "y": 527.4589379259464
+        }
+      },
+      "id": "d6bf474e-4456-4f68-b8e3-85173a86420f",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3613.3671924876994,
+          "y": 1736.862886381504
+        }
+      },
+      "id": "f9631fe5-4fb4-45f0-86b4-b6aef95b7230",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1885.7306722729713,
+          "y": 639.7306461566608
+        }
+      },
+      "id": "7f8a772c-7c45-4bdd-acb7-284d53f9c787",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3743.731745886195,
+          "y": 592.0304973069389
+        }
+      },
+      "id": "537a1720-f18a-4454-bff0-d2ed5719903d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2438.740055989017,
+          "y": 534.5461636300063
+        }
+      },
+      "id": "bb507627-e7de-4e3f-aa7f-e2fd63e3504a",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2616.4901914931966,
+          "y": 1221.4842207108607
+        }
+      },
+      "id": "b71c7cfd-a6d9-49bf-9e3b-1e435fedd8af",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 320.93817113933534,
+          "y": 1681.1789658005318
+        }
+      },
+      "id": "1fb53e83-0468-4da4-add4-d86dd54cdbcf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3544.4907654776375,
+          "y": 672.9082742270471
+        }
+      },
+      "id": "4c4431d3-889f-401d-b195-8cc7b6f16573",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2896.8887231542794,
+          "y": 1221.4842207108607
+        }
+      },
+      "id": "ed3dd0fd-8606-4fac-9d6f-31bbda438938",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 613.9070013115602,
+          "y": 1535.4306810174608
+        }
+      },
+      "id": "2fd63a32-3905-4cbd-b49e-fa0dff742a7d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3551.6029755505556,
+          "y": 1990.670901408742
+        }
+      },
+      "id": "d5ff6f97-81c8-4748-a94d-658d31fcae1e",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3544.942194361213,
+          "y": 755.182525959688
+        }
+      },
+      "id": "ecfeb10d-f825-497d-b6c8-2b0e68a8ea09",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1113.301478194975,
+          "y": 583.3810387771834
+        }
+      },
+      "id": "450db626-3282-4699-b626-53e7a2d7d7e8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3254.9862451755866,
+          "y": 1176.8684107626718
+        }
+      },
+      "id": "decb883d-f66d-45a8-a856-ce741793f352",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3899.9019164790384,
+          "y": 2695.6825153472246
+        }
+      },
+      "id": "cd07a027-758b-4f40-bd98-1dc7f7afa7cf",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3693.115955307451,
+          "y": 1493.5313149262483
+        }
+      },
+      "id": "003bec09-cc27-4664-8fa4-71a63a7119d6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1135.300262446693,
+          "y": 557.5001161281035
+        }
+      },
+      "id": "76232a4e-4cb9-4aaf-9534-8fea878a7cfb",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2659.951620118453,
+          "y": 650.0368361508176
+        }
+      },
+      "id": "581b3f50-71b5-4f05-bf44-c89061b5004d",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2983.894638780707,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "5690433a-f2b0-454d-a0bb-43fe7cc9ba0c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1438.9559627317517,
+          "y": 643.8510454265642
+        }
+      },
+      "id": "53df6d2f-2a8e-49cc-b245-d7be42a70937",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3249.9994266854083,
+          "y": 1060.6221953452964
+        }
+      },
+      "id": "c544f286-eca8-4667-896c-322995c8c459",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1135.300262446693,
+          "y": 649.8641512868509
+        }
+      },
+      "id": "68665e4e-81ef-402c-86b3-29e4f5d75ab1",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 159.7313312267991,
+          "y": 1554.188523400319
+        }
+      },
+      "id": "15b46ad8-bfba-4505-a6f7-c98e5d256053",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2039.578566241703,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "86a45806-58eb-42bd-ad65-55595633dd26",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3639.982607590924,
+          "y": 815.127019087074
+        }
+      },
+      "id": "83b8b9a5-b406-4f41-8e24-fa47048bce6c",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 277.7575177059677,
+          "y": 960.6385388541165
+        }
+      },
+      "id": "a354a45d-2efc-46ba-aefd-4108533dc458",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3535.9743452096727,
+          "y": 2331.647557135932
+        }
+      },
+      "id": "88053555-0172-4569-9a72-f33c255056b5",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3266.460804354998,
+          "y": 600.4980469747076
+        }
+      },
+      "id": "cc312325-a33c-419c-baa4-e02ffde8c136",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 612.1527784120092,
+          "y": 884.8691365033226
+        }
+      },
+      "id": "d1d2a51c-a519-4f8b-8106-b24d595d77a8",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 961.6602336033003,
+          "y": 287.3709587240027
+        }
+      },
+      "id": "d554817c-84f6-4770-9af1-64c57f4eb137",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 265.8555329682913,
+          "y": 1081.6031342078722
+        }
+      },
+      "id": "6db921f8-3a30-4839-8a8b-982f4ec979c6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2149.7873477720673,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "3d72e83b-e423-417e-8239-e048a2cd8b4b",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 868.1923685628728,
+          "y": 383.01795100243265
+        }
+      },
+      "id": "0c396968-de7a-4ad9-9ee4-c55cf79ff631",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3289.284311419272,
+          "y": 1545.5231214513215
+        }
+      },
+      "id": "35d845d4-2339-46ca-82c3-6929fab7d347",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1654.2720295852102,
+          "y": 423.6510124753672
+        }
+      },
+      "id": "0159a350-3ac3-4a5b-857a-b2a1137fc5d2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 1508.704432193645,
+          "y": 385.6768566340894
+        }
+      },
+      "id": "e6230e77-7d86-4206-8d99-f74e387f9295",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3654.3625880505024,
+          "y": 600.3487669167096
+        }
+      },
+      "id": "70c7c78d-216f-44b8-b5f6-20bcef780b43",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3377.826173747316,
+          "y": 1879.5092384766688
+        }
+      },
+      "id": "ab8b340f-4def-4a3b-8015-443a715dded2",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 981.44361104976,
+          "y": 649.8641512868509
+        }
+      },
+      "id": "1b02efe6-b964-4ec0-aec7-eebed25a2690",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2024.114689686358,
+          "y": 320.9417908759611
+        }
+      },
+      "id": "1f0a3bfd-e555-4acd-8848-0901f92310f6",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2540.394532950022,
+          "y": 629.7219541698473
+        }
+      },
+      "id": "8e881344-c0ca-4cdf-b616-026537f99da7",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 3547.171621964041,
+          "y": 580.908685283652
+        }
+      },
+      "id": "ec4e55df-4a40-4302-ada0-a0dc36a3c4f0",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 840.6567386310892,
+          "y": 284.69820095092354
+        }
+      },
+      "id": "8ac66c18-9ed2-47b8-aec0-15aa76417563",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2420.9333267168277,
+          "y": 876.5929573503945
+        }
+      },
+      "id": "25feb999-6f95-49a0-8a12-2006b78f1835",
+      "status": "CREATED"
+    },
+    {
+      "location": {
+        "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+        "coord": {
+          "x": 2289.6434184993327,
+          "y": 510.04957827924557
+        }
+      },
+      "id": "cfbd9b0e-6a1d-420e-9e8a-988f7bf0eea8",
+      "status": "CREATED"
+    }
+  ]
+}

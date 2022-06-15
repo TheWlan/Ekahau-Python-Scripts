@@ -1,0 +1,62 @@
+{
+  "projectHistorys": [
+    {
+      "parentIds": [],
+      "timestamp": "2021-12-17T12:10:41.990+11:00",
+      "projectId": "e8043037-2945-4c0d-85f9-ed0c89462af2",
+      "projectName": "SVPH East Melbourne - Main Building - Ground v0.5",
+      "productName": "Ekahau Pro",
+      "productVersion": "10.4.0.345",
+      "schemaVersion": "1.5.0",
+      "operation": "LOCAL_SAVE",
+      "platform": "Windows 10 64-bit",
+      "id": "d28bae32-ba7a-49f2-b9de-621f2f3623b7",
+      "status": "CREATED"
+    },
+    {
+      "parentIds": [
+        "d28bae32-ba7a-49f2-b9de-621f2f3623b7"
+      ],
+      "timestamp": "2021-12-17T12:15:12.251+11:00",
+      "projectId": "e8043037-2945-4c0d-85f9-ed0c89462af2",
+      "projectName": "SVPH East Melbourne - Main Building - Ground v0.5",
+      "productName": "Ekahau Pro",
+      "productVersion": "10.4.0.345",
+      "schemaVersion": "1.5.0",
+      "operation": "LOCAL_SAVE",
+      "platform": "Windows 10 64-bit",
+      "id": "1195b67e-7463-4e5f-9b97-4c98ec478445",
+      "status": "CREATED"
+    },
+    {
+      "parentIds": [
+        "1195b67e-7463-4e5f-9b97-4c98ec478445"
+      ],
+      "timestamp": "2021-12-17T12:17:25.822+11:00",
+      "projectId": "e8043037-2945-4c0d-85f9-ed0c89462af2",
+      "projectName": "SVPH East Melbourne - Main Building - Ground v0.5",
+      "productName": "Ekahau Pro",
+      "productVersion": "10.4.0.345",
+      "schemaVersion": "1.5.0",
+      "operation": "LOCAL_SAVE",
+      "platform": "Windows 10 64-bit",
+      "id": "0c6aa678-d6ad-45c2-84b3-6a760b1544a0",
+      "status": "CREATED"
+    },
+    {
+      "parentIds": [
+        "0c6aa678-d6ad-45c2-84b3-6a760b1544a0"
+      ],
+      "timestamp": "2022-01-05T13:20:50.321+11:00",
+      "projectId": "e8043037-2945-4c0d-85f9-ed0c89462af2",
+      "projectName": "SVPH East Melbourne - Main Building - Ground v0.5",
+      "productName": "Ekahau Pro",
+      "productVersion": "10.4.0.345",
+      "schemaVersion": "1.5.0",
+      "operation": "LOCAL_SAVE",
+      "platform": "Windows 10 64-bit",
+      "id": "e0748c6c-d039-44eb-ae37-e0c27ad236fd",
+      "status": "CREATED"
+    }
+  ]
+}

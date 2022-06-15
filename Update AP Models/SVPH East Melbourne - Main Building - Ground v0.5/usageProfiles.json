@@ -1,0 +1,182 @@
+{
+  "usageProfiles": [
+    {
+      "name": "High SLA (4 Mbps)",
+      "key": "UsageProfile.HighUsage",
+      "editable": false,
+      "applicationProfileIds": [
+        "40637b9e-0c92-48c3-a664-1d2159f9da39"
+      ],
+      "id": "77db1147-a2bd-4360-8a6c-6d8b39dcd55a",
+      "legacyId": 4,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, Cisco",
+      "key": "UsageProfile.VoIPCisco",
+      "editable": false,
+      "applicationProfileIds": [
+        "ceccedc1-fbbe-4256-9dc7-7aac4834c492"
+      ],
+      "id": "d01fc8c8-bae9-4f77-a283-5053acfa8761",
+      "legacyId": 9,
+      "status": "CREATED"
+    },
+    {
+      "name": "Association Only",
+      "key": "UsageProfile.AssociatedOnly",
+      "editable": false,
+      "applicationProfileIds": [
+        "a0a5797e-18a4-479b-864e-6ad15dfbd1e1"
+      ],
+      "id": "fd3baf5f-f94e-4d43-9475-62b5f4ad1bc6",
+      "legacyId": 15,
+      "status": "CREATED"
+    },
+    {
+      "name": "Low SLA (1 Mbps)",
+      "key": "UsageProfile.LowUsage",
+      "editable": false,
+      "applicationProfileIds": [
+        "ea14e58d-fc66-4da1-a173-6db187f9ab7f"
+      ],
+      "id": "f1f32d23-6fba-4ec3-891a-5e034dc5c151",
+      "legacyId": 2,
+      "status": "CREATED"
+    },
+    {
+      "name": "Very High SLA (10 Mbps)",
+      "key": "UsageProfile.VeryHighUsage",
+      "editable": false,
+      "applicationProfileIds": [
+        "fae4c880-345c-4948-be56-90fe0bf86a34"
+      ],
+      "id": "02bda0ba-e17a-4008-938b-938d0f8fe9d9",
+      "legacyId": 16,
+      "status": "CREATED"
+    },
+    {
+      "name": "Background Sync",
+      "key": "UsageProfile.BackgroundUsage",
+      "editable": false,
+      "applicationProfileIds": [
+        "fa459619-248a-4a76-8a5c-4d4c55012886"
+      ],
+      "id": "cb35cb74-e6b4-49a9-b6c8-ac92cd74f5b5",
+      "legacyId": 14,
+      "status": "CREATED"
+    },
+    {
+      "name": "Streaming, Video",
+      "key": "UsageProfile.StreamingVideo",
+      "editable": false,
+      "applicationProfileIds": [
+        "07ff5faa-dd6f-47ec-8a7d-0320c3e89473"
+      ],
+      "id": "999795de-4c99-4d2f-9f2a-e57fa7a9034b",
+      "legacyId": 12,
+      "status": "CREATED"
+    },
+    {
+      "name": "Web Email (2 Mbps)",
+      "key": "UsageProfile.WebAndEmail",
+      "editable": false,
+      "applicationProfileIds": [
+        "34b94987-0a2a-4dde-b2e0-892a296eed0f"
+      ],
+      "id": "42654d34-8603-404f-b958-88f6608ec694",
+      "legacyId": 5,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, Lync/Skype",
+      "key": "UsageProfile.VoIPLync",
+      "editable": false,
+      "applicationProfileIds": [
+        "a8e575f6-c2d7-44ce-8033-56c26fab8cea"
+      ],
+      "id": "5adb2d73-3480-4ad6-a6fe-d005ee874c48",
+      "legacyId": 8,
+      "status": "CREATED"
+    },
+    {
+      "name": "Very Low SLA (256 Kbps)",
+      "key": "UsageProfile.VeryLowSLA",
+      "editable": false,
+      "applicationProfileIds": [
+        "a834bc68-6bb0-4a9b-b873-e02d597798c9"
+      ],
+      "id": "a870b82d-ac9f-48e5-b184-7a89670afe0c",
+      "legacyId": 1,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, Normal (10 Mbps)",
+      "key": "UsageProfile.FileSharing",
+      "editable": false,
+      "applicationProfileIds": [
+        "2e1ce130-fb7b-43f4-b7da-7cc29d7fa98b"
+      ],
+      "id": "6a07ff98-f2e0-4b58-a174-410477edf20e",
+      "legacyId": 6,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, Generic",
+      "key": "UsageProfile.VoIPGeneric",
+      "editable": false,
+      "applicationProfileIds": [
+        "b579fc7e-0c45-498c-b8a5-e663275b7d4c"
+      ],
+      "id": "0de10150-b14f-4f5b-8bd1-bd1ee79d6dc2",
+      "legacyId": 7,
+      "status": "CREATED"
+    },
+    {
+      "name": "Normal SLA (2 Mbps)",
+      "key": "UsageProfile.MediumUsage",
+      "editable": false,
+      "applicationProfileIds": [
+        "6cf1fcaf-90eb-409d-82b5-d0dd77734ca5"
+      ],
+      "id": "3582ee8b-33de-43eb-83d4-a02b60c0bfba",
+      "legacyId": 3,
+      "status": "CREATED"
+    },
+    {
+      "name": "Conferencing, GoToMeeting",
+      "key": "UsageProfile.ConferencingGoToMeeting",
+      "editable": false,
+      "applicationProfileIds": [
+        "0d7006ba-0d14-4de1-8ba3-09ab6f070a84",
+        "99ffee68-2ef8-4158-a9a3-c8a401992e05"
+      ],
+      "id": "c34362bf-e1c3-4cec-b953-f21379c5d94c",
+      "legacyId": 11,
+      "status": "CREATED"
+    },
+    {
+      "name": "Conferencing, Lync/Skype",
+      "key": "UsageProfile.ConferencingLync",
+      "editable": false,
+      "applicationProfileIds": [
+        "6ef71f60-c854-41aa-95b4-e5382725aca8",
+        "a8e575f6-c2d7-44ce-8033-56c26fab8cea"
+      ],
+      "id": "a5c043eb-874f-4257-83ae-4a39c72eaf71",
+      "legacyId": 10,
+      "status": "CREATED"
+    },
+    {
+      "name": "Streaming, Music",
+      "key": "UsageProfile.StreamingMusic",
+      "editable": false,
+      "applicationProfileIds": [
+        "a9ee748c-05f3-467a-b0e6-b0b1313338bf"
+      ],
+      "id": "4ac033a0-0bb4-4645-b822-a603f8a1a82c",
+      "legacyId": 13,
+      "status": "CREATED"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "floorPlans": [
+    {
+      "name": "F1",
+      "width": 3973.0,
+      "height": 2806.0,
+      "metersPerUnit": 0.02113550689216905,
+      "imageId": "81cba13d-1fd9-47cd-895d-d7b67447c54e",
+      "gpsReferencePoints": [],
+      "floorPlanType": "FSPL",
+      "cropMinX": 0.0,
+      "cropMinY": 0.0,
+      "cropMaxX": 3973.0,
+      "cropMaxY": 2806.0,
+      "rotateUpDirection": "UP",
+      "tags": [],
+      "id": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+      "status": "CREATED"
+    }
+  ]
+}

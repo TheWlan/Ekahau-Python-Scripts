@@ -1,0 +1,1176 @@
+{
+    "accessPoints": [
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1005.1265298751748,
+                    "y": 1490.7151015218649
+                }
+            },
+            "name": "Simulated AP-90",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120AXE + AIR-ANT2566P4WR",
+            "tags": [],
+            "id": "ff558313-697e-46c5-807f-5839cd4a4f71",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2673.128532744555,
+                    "y": 580.9203432483532
+                }
+            },
+            "name": "Simulated AP-81",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "341320d3-1384-40aa-9f9f-de9fbb7a2115",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 680.93316218933,
+                    "y": 1333.8599096751373
+                }
+            },
+            "name": "Simulated AP-64",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "d49042ee-bb8b-462d-828f-e852d81d841a",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2217.6331778938084,
+                    "y": 579.1277396785356
+                }
+            },
+            "name": "Simulated AP-4",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "a92efd95-a658-45ef-8c35-53e5f5706d2a",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3420.797097072619,
+                    "y": 1781.074911752272
+                }
+            },
+            "name": "Simulated AP-61",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "0c96e57d-9318-48df-872a-066ad8bf1e55",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3344.5085793929425,
+                    "y": 816.7870817994808
+                }
+            },
+            "name": "Simulated AP-86",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "e69b1d3c-5898-4fdd-9787-ed2eb3072e4a",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 307.76807521602717,
+                    "y": 146.9551248104226
+                }
+            },
+            "name": "Simulated AP-16",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "6e3437ea-8d4c-4a69-aa5a-e339000b8c1a",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2078.5959725455623,
+                    "y": 1085.6683713838966
+                }
+            },
+            "name": "Simulated AP-77",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "712d2296-9a0e-42fb-9808-a55c495d5c49",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 177.94439113263468,
+                    "y": 1026.5447001237148
+                }
+            },
+            "name": "Simulated AP-55",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "b2c71215-277d-47e0-8b33-2ee1fcce1643",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3032.5249286511776,
+                    "y": 2015.2250099623984
+                }
+            },
+            "name": "Simulated AP-39",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "5ee29183-f5c4-4579-b0de-28ae3c74304f",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3660.3660756343925,
+                    "y": 2174.117767205181
+                }
+            },
+            "name": "Simulated AP-87",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "2288f5df-3ade-440a-bad3-5eecfda56e00",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1916.190924542086,
+                    "y": 945.0025817745861
+                }
+            },
+            "name": "Simulated AP-68",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "2ea5576c-55df-43e5-87d2-203f3cd48056",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2289.4176333767127,
+                    "y": 835.1432771094392
+                }
+            },
+            "name": "Simulated AP-66",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "f7b6e017-22b5-4797-be8d-fa121593c910",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2933.4968081786947,
+                    "y": 346.70299108922035
+                }
+            },
+            "name": "Simulated AP-25",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "477f109e-ebe6-40fb-a335-3110890b05f2",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2841.171148451595,
+                    "y": 1171.5886225338363
+                }
+            },
+            "name": "Simulated AP-42",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "cab081a2-857d-423f-9d1c-08d8ba288f9e",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 939.808545087204,
+                    "y": 947.5904165408958
+                }
+            },
+            "name": "Simulated AP-65",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "d2f9d6c6-8974-4a18-9585-3735a72814e9",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 184.96030543355255,
+                    "y": 2258.8923650483275
+                }
+            },
+            "name": "Simulated AP-51",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "color": "#FF0000",
+            "id": "bc88104d-2d78-438e-ad5f-52e3a0a8ed03",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3468.1404941168057,
+                    "y": 1234.0588140626073
+                }
+            },
+            "name": "Simulated AP-49",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "4366bce8-c5a8-4271-a2e9-265dea413787",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3506.6791896926516,
+                    "y": 543.4048222954588
+                }
+            },
+            "name": "Simulated AP-82",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "317c9f2f-dc32-404b-92dc-9c5b38eed66f",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 574.5115489313549,
+                    "y": 933.9344541395417
+                }
+            },
+            "name": "Simulated AP-21",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "67c6596a-73ea-4817-bea9-8adffc07bf0d",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3029.03851879651,
+                    "y": 1629.39565271246
+                }
+            },
+            "name": "Simulated AP-88",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "b0257fae-dfcd-43c5-b2aa-7a382aacd890",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1745.6463485300997,
+                    "y": 855.5899922322934
+                }
+            },
+            "name": "Simulated AP-3",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "edc21a53-99ca-43c0-a2ce-6eda090ccbb3",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 436.5876937100728,
+                    "y": 623.8026622252356
+                }
+            },
+            "name": "Simulated AP-19",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "fee31379-b7fb-4486-b35b-686954968e70",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3524.8663543760895,
+                    "y": 152.4529552421761
+                }
+            },
+            "name": "Simulated AP-29",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "2b0f4805-24c1-4f9d-9226-b915dbe211b3",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2933.445261363664,
+                    "y": 828.8241420619814
+                }
+            },
+            "name": "Simulated AP-76",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "644a888a-78ca-4045-8040-3147fcda6a27",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1723.6002840017575,
+                    "y": 368.8763225379776
+                }
+            },
+            "name": "Simulated AP-78",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "d45324e6-e7c7-4543-8bc3-dee779be721e",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 171.2859452482162,
+                    "y": 1740.726424655204
+                }
+            },
+            "name": "Simulated AP-53",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "d99b15eb-2b15-41f8-8c01-c1807cf71dd1",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3099.3258889250783,
+                    "y": 543.9573745241073
+                }
+            },
+            "name": "Simulated AP-74",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "f3725bde-4cfe-45f1-8512-032978d73b74",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1280.2463092784685,
+                    "y": 747.7657402933137
+                }
+            },
+            "name": "Simulated AP-2",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "5b5d7419-328e-4332-a912-58f506f55e55",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 679.5035375599823,
+                    "y": 148.6288674365909
+                }
+            },
+            "name": "Simulated AP-17",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "55dabcf1-11db-414c-9a95-dc44b98e3adc",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1017.5149787282987,
+                    "y": 2263.0760568739292
+                }
+            },
+            "name": "Simulated AP-50",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "e67301f6-90ca-4786-a703-9a1507f3286c",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3819.045459096883,
+                    "y": 465.31325494440085
+                }
+            },
+            "name": "Simulated AP-73",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "36dd5147-f5d1-415f-9e9a-a067b433f01b",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3686.9297388878786,
+                    "y": 911.0064178083815
+                }
+            },
+            "name": "Simulated AP-47",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "bdf24a5e-3f51-472f-a2da-811d382b397d",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1260.830033776233,
+                    "y": 340.7391784742678
+                }
+            },
+            "name": "Simulated AP-85",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "41c7ea5a-fa31-49e5-87d6-8fa5b05df0a3",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3459.8540081336387,
+                    "y": 1235.0195684724795
+                }
+            },
+            "name": "Simulated AP-10",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "4e11b8e3-b861-42fb-8d1f-41757a3839f0",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 467.6970524373511,
+                    "y": 1467.3570628113398
+                }
+            },
+            "name": "Simulated AP-15",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "ad35a85e-c294-4f46-86e0-1b347c519a77",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3836.9950027626887,
+                    "y": 2619.602152826167
+                }
+            },
+            "name": "Simulated AP-36",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "23163bb8-c2ec-46a7-8ddc-6c8c6d5e59a0",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2086.242347151686,
+                    "y": 584.5622338871844
+                }
+            },
+            "name": "Simulated AP-75",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "418c02fc-6770-4212-af27-7f409d254a04",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2875.429339418075,
+                    "y": 1508.4967185529554
+                }
+            },
+            "name": "Simulated AP-89",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120AXE + AIR-ANT2566P4WR",
+            "tags": [],
+            "id": "b817859d-ed3d-46a7-ae18-9bc788577c4c",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 617.3613241191179,
+                    "y": 537.6020719490896
+                }
+            },
+            "name": "Simulated AP-7",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "d68ec389-7296-4979-b221-6518c7977593",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 924.6445995717928,
+                    "y": 1787.9180567636427
+                }
+            },
+            "name": "Simulated AP-70",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "e7cb67e7-42ac-42db-b85b-5c992c939a52",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1768.474135607504,
+                    "y": 422.0909116789544
+                }
+            },
+            "name": "Simulated AP-6",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "59b27ea3-6f13-43f8-9b88-109245f7c14d",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3033.0974816561866,
+                    "y": 2615.220167687352
+                }
+            },
+            "name": "Simulated AP-37",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "770b0e6e-503b-4725-bbf4-7e8dcc9e2747",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 617.4475384801756,
+                    "y": 542.426351546188
+                }
+            },
+            "name": "Simulated AP-1",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "559f1f26-84e7-470f-8865-d45cd5e4e5d3",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2937.563283479362,
+                    "y": 1231.9302252696593
+                }
+            },
+            "name": "Simulated AP-14",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "20cedecf-5918-4228-9975-e07a7e24b545",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1523.5205980835476,
+                    "y": 640.8947719323977
+                }
+            },
+            "name": "Simulated AP-71",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "55738e53-38fe-413a-84ef-6a4c56378c93",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 917.6759679023105,
+                    "y": 457.36122042164
+                }
+            },
+            "name": "Simulated AP-18",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "eec406ab-3926-4cdf-a1c0-15b1b0f5de77",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 248.51643734590084,
+                    "y": 1815.4805197598002
+                }
+            },
+            "name": "Simulated AP-43",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "color": "#FF0000",
+            "id": "ceff9d27-5ddc-4baf-a0c9-aba1309518b3",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3384.4675480936808,
+                    "y": 2567.2822395409125
+                }
+            },
+            "name": "Simulated AP-12",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "ff479a2f-3d24-4d99-bec4-223f90b5a7f2",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 556.6112981120024,
+                    "y": 1951.1324208497754
+                }
+            },
+            "name": "Simulated AP-84",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "3b47c39e-e676-4705-a04e-62e3c455f939",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 1983.1494545379132,
+                    "y": 162.28316428473056
+                }
+            },
+            "name": "Simulated AP-79",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "1e668fbd-b20c-4385-8fa5-b72f7ccb4fe3",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3828.17263000287,
+                    "y": 1815.9295217449242
+                }
+            },
+            "name": "Simulated AP-58",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "ceef0cde-9e71-4026-b37c-f25150f84ac2",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 443.50531082743777,
+                    "y": 801.3462748199695
+                }
+            },
+            "name": "Simulated AP-28",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "de8a37f8-eb98-4d20-8dba-c981488f4c0d",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3814.419870204514,
+                    "y": 1447.1976802986958
+                }
+            },
+            "name": "Simulated AP-34",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "0c21f4a4-062c-4104-b007-c2f034b00d99",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 240.66784576912025,
+                    "y": 1892.3560846034893
+                }
+            },
+            "name": "Simulated AP-44",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "182ff557-f167-481a-9686-cbcfdf1f9220",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3611.3501371924076,
+                    "y": 482.42275397103685
+                }
+            },
+            "name": "Simulated AP-8",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "4cc5a3c6-fdf2-4d32-b54c-d998b2fe7c9d",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3347.5555144478994,
+                    "y": 2285.717510193349
+                }
+            },
+            "name": "Simulated AP-69",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "34e95d71-d5c0-4572-bd05-5802cbae8b76",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3218.5727207522773,
+                    "y": 1282.6030088204006
+                }
+            },
+            "name": "Simulated AP-83",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "f2f9feb1-fe21-40ab-aee3-85d382e032e7",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3559.9443204487698,
+                    "y": 569.0566105004604
+                }
+            },
+            "name": "Simulated AP-9",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "9c3ea5e4-dbfe-49dd-be33-0b22469bec04",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2797.9687053778443,
+                    "y": 580.5114000954369
+                }
+            },
+            "name": "Simulated AP-5",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "4c036478-3417-4913-9277-994f9ef7ecc9",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3036.4451477759926,
+                    "y": 1608.4877686386621
+                }
+            },
+            "name": "Simulated AP-13",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "6edf8cbb-3fbe-4cc6-9a20-7032e13ce4c9",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3389.138161679463,
+                    "y": 1627.907542975034
+                }
+            },
+            "name": "Simulated AP-11",
+            "mine": true,
+            "userDefinedPosition": false,
+            "noteIds": [],
+            "vendor": "Generic",
+            "model": ".11n/ac Dual Radio",
+            "tags": [],
+            "id": "e3d78349-56ee-4041-93dd-3c0fffa6d4b9",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 3255.0534803844184,
+                    "y": 263.9307064702902
+                }
+            },
+            "name": "Simulated AP-26",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "90b80bcb-4cc6-48df-9782-e2ad5ecdb6f4",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2345.196162163387,
+                    "y": 347.5195021309777
+                }
+            },
+            "name": "Simulated AP-24",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "b2dadd66-4730-4f1b-a24a-69b2a2ea50fb",
+            "status": "CREATED"
+        },
+        {
+            "location": {
+                "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+                "coord": {
+                    "x": 2936.489461392793,
+                    "y": 1358.0049358121184
+                }
+            },
+            "name": "Simulated AP-41",
+            "mine": true,
+            "userDefinedPosition": true,
+            "noteIds": [],
+            "vendor": "Cisco",
+            "model": "C9120i 2.4GHz + 5GHz",
+            "tags": [],
+            "id": "311b15ef-eef6-485b-ae4a-49f41ea7973f",
+            "status": "CREATED"
+        }
+    ]
+}

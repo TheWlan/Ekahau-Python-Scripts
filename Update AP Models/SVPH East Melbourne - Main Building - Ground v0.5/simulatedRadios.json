@@ -1,0 +1,5410 @@
+{
+  "simulatedRadios": [
+    {
+      "accessPointId": "e7cb67e7-42ac-42db-b85b-5c992c939a52",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "2444ba20-76ff-4e89-8baa-f16539ea6f36",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "770b0e6e-503b-4725-bbf4-7e8dcc9e2747",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "6f66b098-177d-48b1-9a06-76f73a3685f4",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f2f9feb1-fe21-40ab-aee3-85d382e032e7",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "486ac252-4dbb-44fb-aec8-88cccb577628",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4e11b8e3-b861-42fb-8d1f-41757a3839f0",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "1f0dcaf8-6c2c-434d-b79f-8e0be6ff22fb",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b2c71215-277d-47e0-8b33-2ee1fcce1643",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "c23302e0-ead4-49db-9a14-f49f0dca5d98",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "34e95d71-d5c0-4572-bd05-5802cbae8b76",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "dfd44c6f-1a35-4db8-ae1a-3646f6355f58",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2ea5576c-55df-43e5-87d2-203f3cd48056",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "9d8445ed-8af3-458c-bd33-f2ca5f5962be",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2b0f4805-24c1-4f9d-9226-b915dbe211b3",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "0af914c9-5c27-4139-a803-d106590bad2b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "edc21a53-99ca-43c0-a2ce-6eda090ccbb3",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "13be0400-791f-4ff5-8f40-bee4af4601ba",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f3725bde-4cfe-45f1-8512-032978d73b74",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "16ad550f-b6cc-4c95-b1df-291dbadc41e9",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "712d2296-9a0e-42fb-9808-a55c495d5c49",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "cc1a1a36-4f6d-406d-9a40-d7efc1d4435a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e7cb67e7-42ac-42db-b85b-5c992c939a52",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "945ba1e9-e3f6-48ba-bcee-4eeb63e46f11",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "0c96e57d-9318-48df-872a-066ad8bf1e55",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "6fe7c5c5-b492-4508-a146-cb426fec5d40",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ceef0cde-9e71-4026-b37c-f25150f84ac2",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "26817ecf-6b65-4cc4-8834-d499c372e721",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "311b15ef-eef6-485b-ae4a-49f41ea7973f",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "bec365dc-9fab-4ec7-b77f-303bfdfc7fda",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "36dd5147-f5d1-415f-9e9a-a067b433f01b",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "56290282-5cce-4cf5-aef0-192f2476df2b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "341320d3-1384-40aa-9f9f-de9fbb7a2115",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "bbabd52a-0ea7-4c5b-9a71-0a7ec9858fe4",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "317c9f2f-dc32-404b-92dc-9c5b38eed66f",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "978a7996-1faa-4d0a-9bad-6a2de805ff2a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "a92efd95-a658-45ef-8c35-53e5f5706d2a",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "b5491c3c-7849-465a-ba02-92b9962a2ce1",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "34e95d71-d5c0-4572-bd05-5802cbae8b76",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "29184827-579a-436b-bb19-d51daf782ea5",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2b0f4805-24c1-4f9d-9226-b915dbe211b3",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "6a0d3c3e-5435-4428-9a7b-6333e9d3a4ae",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f3725bde-4cfe-45f1-8512-032978d73b74",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "56bd1565-3143-4694-a40d-d14d6c6f253b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "eec406ab-3926-4cdf-a1c0-15b1b0f5de77",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "840da6cb-62b7-40e6-9046-004b4f3ed1bf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ceff9d27-5ddc-4baf-a0c9-aba1309518b3",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": false,
+      "id": "df5deed3-0b12-4c2a-965d-fd68baf2fe6d",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "bdf24a5e-3f51-472f-a2da-811d382b397d",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "bc9b6b03-5a29-4f72-8352-9bb3958065bf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "341320d3-1384-40aa-9f9f-de9fbb7a2115",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "531df895-9323-4795-bf04-b62cb3d252db",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2288f5df-3ade-440a-bad3-5eecfda56e00",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "7a88a963-88fc-46bd-8c7a-0ade8e585072",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f2f9feb1-fe21-40ab-aee3-85d382e032e7",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "9d540420-6b8f-4266-9b39-0a2f8360a8cf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "fee31379-b7fb-4486-b35b-686954968e70",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "ec1416b4-ff34-479f-888f-48dc0113596e",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "36dd5147-f5d1-415f-9e9a-a067b433f01b",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "5caa4f36-194e-4dac-bf3e-7bc5ec5d16fd",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ad35a85e-c294-4f46-86e0-1b347c519a77",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "7909fd33-ef52-4dc2-b6bf-c5fc1a1bebd7",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "41c7ea5a-fa31-49e5-87d6-8fa5b05df0a3",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "2ca30fd7-35a0-4905-811e-1c4438c42164",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ff558313-697e-46c5-807f-5839cd4a4f71",
+      "accessPointIndex": 2,
+      "transmitPower": 0.0,
+      "antennaTypeId": "557306ac-a898-428b-bf13-84438ae5e062",
+      "antennaDirection": 90.35150343987392,
+      "antennaTilt": 0.0,
+      "antennaHeight": 3.5,
+      "antennaMounting": "WALL",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "557306ac-a898-428b-bf13-84438ae5e062"
+        }
+      ],
+      "enabled": true,
+      "id": "c961d645-abdc-4ce4-b7d3-3150edf3d45d",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "5ee29183-f5c4-4579-b0de-28ae3c74304f",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "4b96a623-1f46-49ef-8802-ff9fbddfbd6b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e67301f6-90ca-4786-a703-9a1507f3286c",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "23a8dffd-620f-4390-ac1b-2c158420bad3",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "0c21f4a4-062c-4104-b007-c2f034b00d99",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "0aec4fac-bc9f-4be5-a1ef-b72f83e53324",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2ea5576c-55df-43e5-87d2-203f3cd48056",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "f1ea68db-7fbb-49ae-b046-7401b3e136be",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4c036478-3417-4913-9277-994f9ef7ecc9",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "00ac5bfb-a342-4310-9879-f6b5ce1cea94",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "55738e53-38fe-413a-84ef-6a4c56378c93",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "c0567f81-34cd-408f-811c-4b5125e10c7a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "67c6596a-73ea-4817-bea9-8adffc07bf0d",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "9a36fe4c-8e5e-46ac-8343-126574d0583b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2b0f4805-24c1-4f9d-9226-b915dbe211b3",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "29c0c6ce-b75c-44f6-b45b-61437191f568",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "3b47c39e-e676-4705-a04e-62e3c455f939",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "ebc6fd44-a40b-4f0f-8c54-24ed308f55f9",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "0c96e57d-9318-48df-872a-066ad8bf1e55",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "21829cd3-351e-4918-a441-fbc2763d3da3",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4cc5a3c6-fdf2-4d32-b54c-d998b2fe7c9d",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "11648d50-ef3c-4704-8a2b-cd601cdf6fd4",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "bc88104d-2d78-438e-ad5f-52e3a0a8ed03",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "1f8b31cc-3b05-491f-bd0d-24016ca062bf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ff558313-697e-46c5-807f-5839cd4a4f71",
+      "accessPointIndex": 0,
+      "transmitPower": 11.0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "cb45763a-25ca-4d2d-81bb-1fd4ae71a5e1",
+      "antennaDirection": 90.35150343987392,
+      "antennaTilt": 0.0,
+      "antennaHeight": 3.5,
+      "antennaMounting": "WALL",
+      "technology": "AX",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 4,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "cb45763a-25ca-4d2d-81bb-1fd4ae71a5e1"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "ed255682-21ef-42a5-b43b-c0355fabf250"
+        }
+      ],
+      "enabled": true,
+      "id": "f94b65dc-d272-4824-a3c2-51b7c317ceed",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e67301f6-90ca-4786-a703-9a1507f3286c",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "55a22e9c-357b-4cc8-8550-1a8fe59de680",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "59b27ea3-6f13-43f8-9b88-109245f7c14d",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "e7f5b1ef-5e6f-4c26-ab56-defec76c85d8",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "67c6596a-73ea-4817-bea9-8adffc07bf0d",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "00cd8532-9880-46f8-95e2-5d98ca6071cd",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e3d78349-56ee-4041-93dd-3c0fffa6d4b9",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "649b9cd5-93d8-4f1d-a30b-ec98ac507618",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "6e3437ea-8d4c-4a69-aa5a-e339000b8c1a",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "394bbcbc-9cd2-4139-8854-3fe802f9280a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d49042ee-bb8b-462d-828f-e852d81d841a",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "b4c5efca-1a44-47de-9c75-61efdc484013",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4366bce8-c5a8-4271-a2e9-265dea413787",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "fec50f1b-3b6a-4bad-9b50-4a218f8e8eb0",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "559f1f26-84e7-470f-8865-d45cd5e4e5d3",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "40f06c07-916c-4768-897d-64df88be97b9",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "20cedecf-5918-4228-9975-e07a7e24b545",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "94bb280e-85ca-4ac0-9f9d-0047dda70f9b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "317c9f2f-dc32-404b-92dc-9c5b38eed66f",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "0ef9bc53-d810-4101-aa70-ee067e2faab8",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b2c71215-277d-47e0-8b33-2ee1fcce1643",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "02fe495a-34c8-433f-a813-4a3f889eb4ba",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "a92efd95-a658-45ef-8c35-53e5f5706d2a",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "1162d201-393f-48a5-8a7b-bed1c510fb1f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e69b1d3c-5898-4fdd-9787-ed2eb3072e4a",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "1e8b183d-2a99-4ce2-b164-bd0bb67f7982",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "9c3ea5e4-dbfe-49dd-be33-0b22469bec04",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "b65e05f1-0ed8-4217-8224-5d1081f96ff2",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "311b15ef-eef6-485b-ae4a-49f41ea7973f",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "ffbe6707-5162-4e16-ae9b-f3501b487511",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "1e668fbd-b20c-4385-8fa5-b72f7ccb4fe3",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "5bccc5bb-2beb-499f-b31e-e6eddf228fb2",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "311b15ef-eef6-485b-ae4a-49f41ea7973f",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "0a97d3fb-5e28-4321-a0c8-5d2bdc68d08f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f7b6e017-22b5-4797-be8d-fa121593c910",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "9a46e25e-021e-4168-a770-77710a43304f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "41c7ea5a-fa31-49e5-87d6-8fa5b05df0a3",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "2eef03be-8f34-4de5-ad37-b7b5a6c992a8",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "5ee29183-f5c4-4579-b0de-28ae3c74304f",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "bba229ee-64a7-4852-ab86-9969df9664a4",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e69b1d3c-5898-4fdd-9787-ed2eb3072e4a",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "217c3a9c-333b-49c3-a3f0-ed6bc0d5f830",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "fee31379-b7fb-4486-b35b-686954968e70",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "975bd73d-8f00-407e-9a38-c70b81151c59",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d68ec389-7296-4979-b221-6518c7977593",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "8d8b1084-c622-4a53-a0e6-3b87eaecac94",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "644a888a-78ca-4045-8040-3147fcda6a27",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "a863083f-2dbf-4f39-8ac1-f57c5de7f2e8",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "0c21f4a4-062c-4104-b007-c2f034b00d99",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "acd5ea5e-32d4-470d-9a18-33f5996ab5bd",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "bc88104d-2d78-438e-ad5f-52e3a0a8ed03",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": false,
+      "id": "65159bbb-d131-4c54-a1be-7fab3875cac1",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ad35a85e-c294-4f46-86e0-1b347c519a77",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "7777c31e-af1c-44d8-bfd8-148b783227a3",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "eec406ab-3926-4cdf-a1c0-15b1b0f5de77",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "8a262bf5-d54e-4bda-b133-4abc45de8a67",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "eec406ab-3926-4cdf-a1c0-15b1b0f5de77",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "77f1f8e4-9dcf-4df0-8f28-91a9be8a5752",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ff479a2f-3d24-4d99-bec4-223f90b5a7f2",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "82d43540-6b4d-43e9-a9b7-fe7a0ad13e58",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "182ff557-f167-481a-9686-cbcfdf1f9220",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "12f63549-c004-4ae7-bae6-efa44ab48bdf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "182ff557-f167-481a-9686-cbcfdf1f9220",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "2729f0f5-148f-488e-b6ce-7ba3fd4ba18d",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b817859d-ed3d-46a7-ae18-9bc788577c4c",
+      "accessPointIndex": 1,
+      "transmitPower": 11.0,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "ed255682-21ef-42a5-b43b-c0355fabf250",
+      "antennaDirection": 269.14170046996844,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "WALL",
+      "technology": "AX",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 4,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "cb45763a-25ca-4d2d-81bb-1fd4ae71a5e1"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "ed255682-21ef-42a5-b43b-c0355fabf250"
+        }
+      ],
+      "enabled": true,
+      "id": "c326024d-ca20-42c9-a4cc-c3ad0fbd4326",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ceef0cde-9e71-4026-b37c-f25150f84ac2",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "7ef3b0e7-fc15-4697-b284-a968ac8fcf8c",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d45324e6-e7c7-4543-8bc3-dee779be721e",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "07de237b-d90c-4d79-a9a8-cec7f1795fba",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "de8a37f8-eb98-4d20-8dba-c981488f4c0d",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "88948c73-7eba-40a1-b00f-a8ea15464620",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d99b15eb-2b15-41f8-8c01-c1807cf71dd1",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "dcd80394-4fa7-45f9-8008-b2b154615d4b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "770b0e6e-503b-4725-bbf4-7e8dcc9e2747",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "b29f1e12-c210-442f-8acc-4ad63ddb96f2",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "5b5d7419-328e-4332-a912-58f506f55e55",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "617de657-c737-4f6b-9060-9a27335c8eee",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "90b80bcb-4cc6-48df-9782-e2ad5ecdb6f4",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "6e437feb-c0b4-4fb1-be9c-b60fd2e62a5d",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ff558313-697e-46c5-807f-5839cd4a4f71",
+      "accessPointIndex": 1,
+      "transmitPower": 11.0,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "ed255682-21ef-42a5-b43b-c0355fabf250",
+      "antennaDirection": 90.35150343987392,
+      "antennaTilt": 0.0,
+      "antennaHeight": 3.5,
+      "antennaMounting": "WALL",
+      "technology": "AX",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 4,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "cb45763a-25ca-4d2d-81bb-1fd4ae71a5e1"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "ed255682-21ef-42a5-b43b-c0355fabf250"
+        }
+      ],
+      "enabled": true,
+      "id": "fe8ac701-84fb-48bc-87ad-130d224267a7",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b2c71215-277d-47e0-8b33-2ee1fcce1643",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "2c51afd9-26f0-4323-8020-76ee194f7850",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "3b47c39e-e676-4705-a04e-62e3c455f939",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "7e954158-3c25-46db-8c81-559cfb00e5a4",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "644a888a-78ca-4045-8040-3147fcda6a27",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "ec50ccce-99a0-41fd-b580-1e3fa0653495",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "bdf24a5e-3f51-472f-a2da-811d382b397d",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "4d6d5115-98dc-4375-95b9-382887f7023a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d68ec389-7296-4979-b221-6518c7977593",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "05b8f116-19ea-4e30-bd17-887fdb4b63d9",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f3725bde-4cfe-45f1-8512-032978d73b74",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "0f1a267c-42f0-4870-a5e6-4642d77015a0",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "23163bb8-c2ec-46a7-8ddc-6c8c6d5e59a0",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "672d84ac-f95c-4118-b138-2f26d44a6103",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ff479a2f-3d24-4d99-bec4-223f90b5a7f2",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "6485ffee-7ed4-446b-9e56-66ad9bbe9403",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "de8a37f8-eb98-4d20-8dba-c981488f4c0d",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "152b6a99-f7e4-4771-b5eb-356c391d462f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "712d2296-9a0e-42fb-9808-a55c495d5c49",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "926f2477-4b94-4c22-8f60-59b313b6485e",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "5b5d7419-328e-4332-a912-58f506f55e55",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "8aefc787-32e3-42ef-a2dc-7fdbd1cf0639",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "3b47c39e-e676-4705-a04e-62e3c455f939",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "2fdee669-ba9e-4921-9356-46a94322e440",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b0257fae-dfcd-43c5-b2aa-7a382aacd890",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "15e2b1a7-b9f4-458f-bb4f-04f60ba291bf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "55dabcf1-11db-414c-9a95-dc44b98e3adc",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "ab46e7ff-410c-4628-99c9-2b22fcc12b2d",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "36dd5147-f5d1-415f-9e9a-a067b433f01b",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "7389216a-98b8-4fa0-ae80-bde9ffa144af",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "341320d3-1384-40aa-9f9f-de9fbb7a2115",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "acb48187-1396-48ff-8088-fb34c4c1e3ba",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "67c6596a-73ea-4817-bea9-8adffc07bf0d",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "02b6391e-2fc5-4c04-b07b-837b5c9d1a69",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4366bce8-c5a8-4271-a2e9-265dea413787",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "856802df-5ad2-47fd-9241-f71b756a0837",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "559f1f26-84e7-470f-8865-d45cd5e4e5d3",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "b0599c9a-afcf-4eaf-842c-02fa9387e06d",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "55738e53-38fe-413a-84ef-6a4c56378c93",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "954db965-8563-459e-b535-0184890968cd",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "712d2296-9a0e-42fb-9808-a55c495d5c49",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "0aac396e-e499-4382-8ebb-1d964d563b03",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2ea5576c-55df-43e5-87d2-203f3cd48056",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "ab1a499d-d63b-4e3d-8820-caed7ec60529",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f7b6e017-22b5-4797-be8d-fa121593c910",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "dbd47b45-8f9a-4fff-8039-75f0488a7f14",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "418c02fc-6770-4212-af27-7f409d254a04",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "0cb5f8dc-e0a2-4499-ba35-49f7db50e563",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "34e95d71-d5c0-4572-bd05-5802cbae8b76",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "e8d95be8-8512-492a-a1a2-8365f2fb4091",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d49042ee-bb8b-462d-828f-e852d81d841a",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "74c5e031-f56d-47d1-afc3-73b5b9198082",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "477f109e-ebe6-40fb-a335-3110890b05f2",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "57003bcf-31b6-40fd-9371-7576eaa78181",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "90b80bcb-4cc6-48df-9782-e2ad5ecdb6f4",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "f6b3a145-371f-407b-9cc9-00b8707af73f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "de8a37f8-eb98-4d20-8dba-c981488f4c0d",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "f72be1f8-fb57-42a8-9ede-089b569c4852",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "9c3ea5e4-dbfe-49dd-be33-0b22469bec04",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "3e152ed4-d733-44c3-a155-d2876815fe51",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d99b15eb-2b15-41f8-8c01-c1807cf71dd1",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "9e7014a3-eaa5-44df-8d99-fd95e91d6b10",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b817859d-ed3d-46a7-ae18-9bc788577c4c",
+      "accessPointIndex": 0,
+      "transmitPower": 11.0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "cb45763a-25ca-4d2d-81bb-1fd4ae71a5e1",
+      "antennaDirection": 269.14170046996844,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "WALL",
+      "technology": "AX",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 4,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "cb45763a-25ca-4d2d-81bb-1fd4ae71a5e1"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "ed255682-21ef-42a5-b43b-c0355fabf250"
+        }
+      ],
+      "enabled": true,
+      "id": "cf2efac6-d34d-4801-88cc-2abecbe7d699",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "cab081a2-857d-423f-9d1c-08d8ba288f9e",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "998f6f11-35f4-41f6-b66e-963ffa461c22",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "418c02fc-6770-4212-af27-7f409d254a04",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "2c22d72e-5e5a-46bb-ab9a-b16baded1c5a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "317c9f2f-dc32-404b-92dc-9c5b38eed66f",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "dab647d6-ec7c-4767-b2e8-52abf22544b1",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "6e3437ea-8d4c-4a69-aa5a-e339000b8c1a",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "9c37caf9-8e40-4cd9-b34e-010b00cef173",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "cab081a2-857d-423f-9d1c-08d8ba288f9e",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "b2d27b94-5f93-40c2-8539-9f7442cd2e38",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d99b15eb-2b15-41f8-8c01-c1807cf71dd1",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "51188571-6b05-4203-ab00-b0d9c601dd18",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "0c96e57d-9318-48df-872a-066ad8bf1e55",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "5b9fe5a1-057e-4ce8-a777-443de88afed8",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b2dadd66-4730-4f1b-a24a-69b2a2ea50fb",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "1adbc0ba-5107-4751-907d-f9ca7cebd4da",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "477f109e-ebe6-40fb-a335-3110890b05f2",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "f2e44980-16bf-4b5d-8a60-a5dd6f146e9c",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "55738e53-38fe-413a-84ef-6a4c56378c93",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "68a88934-1aa5-4037-9ecc-96c355c98f7c",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f7b6e017-22b5-4797-be8d-fa121593c910",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "c0e9f78e-ebe7-4e2d-8d16-00e50876149e",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d49042ee-bb8b-462d-828f-e852d81d841a",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "7a75cbee-84d2-407f-8ad9-e9199ab210f3",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b2dadd66-4730-4f1b-a24a-69b2a2ea50fb",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "4dd14612-5068-4570-9d1e-42cd12b1a50e",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "1e668fbd-b20c-4385-8fa5-b72f7ccb4fe3",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "d920285d-82f5-4a30-92f5-a70fe5611f9a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e67301f6-90ca-4786-a703-9a1507f3286c",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "251e89b5-2b62-4180-95db-e26acfedf0af",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "23163bb8-c2ec-46a7-8ddc-6c8c6d5e59a0",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "de16ebd0-3607-486d-ba09-9db1b4029faa",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "477f109e-ebe6-40fb-a335-3110890b05f2",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "cd9bfbcb-bdde-4abe-99a5-abcad48bb26b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "770b0e6e-503b-4725-bbf4-7e8dcc9e2747",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "da3b1f8e-34a2-47f7-b62f-edbc9433ab80",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ceff9d27-5ddc-4baf-a0c9-aba1309518b3",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "62f13812-f146-4284-99d2-6840d6cd95bf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "6e3437ea-8d4c-4a69-aa5a-e339000b8c1a",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "4071dbf1-ad4c-4870-a8f3-cb6add564fb0",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b2dadd66-4730-4f1b-a24a-69b2a2ea50fb",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "a1d1cf09-c456-4a99-9caa-ce72487f3576",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "fee31379-b7fb-4486-b35b-686954968e70",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "8042984c-3509-489a-82bc-f62ea1996451",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "bdf24a5e-3f51-472f-a2da-811d382b397d",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "a4bee419-22ec-4042-82ad-861bb3cd54bb",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4cc5a3c6-fdf2-4d32-b54c-d998b2fe7c9d",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "17077ca4-c66f-4ca8-9769-26745861f8d2",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b0257fae-dfcd-43c5-b2aa-7a382aacd890",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "064c50d7-e3a9-449a-9488-cb0fa8ef830b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e3d78349-56ee-4041-93dd-3c0fffa6d4b9",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "b84e425d-a69f-45c9-953a-3b9316b4b195",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "edc21a53-99ca-43c0-a2ce-6eda090ccbb3",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "901eac90-6ac3-4635-a1b4-4b8e05425dcf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "59b27ea3-6f13-43f8-9b88-109245f7c14d",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "9e6e2302-1e0b-4d31-8fb9-0f4781989bff",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "5ee29183-f5c4-4579-b0de-28ae3c74304f",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "9543ee00-9748-47eb-b087-8f51d0f81f1e",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b0257fae-dfcd-43c5-b2aa-7a382aacd890",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "e88c9de5-b437-4d04-a136-8df92837cc72",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "bc88104d-2d78-438e-ad5f-52e3a0a8ed03",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": false,
+      "id": "0832b576-cf56-452b-8b1d-807315bf943b",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "6edf8cbb-3fbe-4cc6-9a20-7032e13ce4c9",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "e38597e0-5e27-4ee8-96b4-d44d53b73937",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4e11b8e3-b861-42fb-8d1f-41757a3839f0",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "784253f1-986d-456f-86f5-372da7bb3d07",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "20cedecf-5918-4228-9975-e07a7e24b545",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "e3d46a23-12bd-4c4c-8246-2ee72070a10e",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "b817859d-ed3d-46a7-ae18-9bc788577c4c",
+      "accessPointIndex": 2,
+      "transmitPower": 0.0,
+      "antennaTypeId": "557306ac-a898-428b-bf13-84438ae5e062",
+      "antennaDirection": 269.14170046996844,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "WALL",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "557306ac-a898-428b-bf13-84438ae5e062"
+        }
+      ],
+      "enabled": true,
+      "id": "55b67cb7-a8f5-4826-9714-bac5fe173cce",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "418c02fc-6770-4212-af27-7f409d254a04",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "3532abde-8022-4402-b7e3-75ce255c1666",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ceef0cde-9e71-4026-b37c-f25150f84ac2",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "ad67e9cd-cf13-455c-88b0-4fda069222c6",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "f2f9feb1-fe21-40ab-aee3-85d382e032e7",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "d4efeed6-9a2c-46ea-a855-98c5630f20bc",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "6edf8cbb-3fbe-4cc6-9a20-7032e13ce4c9",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "040eece0-c047-4bd8-9273-a8db8564e160",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4c036478-3417-4913-9277-994f9ef7ecc9",
+      "accessPointIndex": 0,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c"
+        }
+      ],
+      "enabled": false,
+      "id": "ed37f788-2dbf-4a19-ae2b-b14d7b92d80f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "90b80bcb-4cc6-48df-9782-e2ad5ecdb6f4",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "99ad501c-3010-4d20-b5b2-1efe7dc3e0ea",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "644a888a-78ca-4045-8040-3147fcda6a27",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "38af0f60-0265-4ab3-8e20-515d323659b7",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "55dabcf1-11db-414c-9a95-dc44b98e3adc",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "ae1e6eb3-2e7a-46cc-a822-b011a9f96f36",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "cab081a2-857d-423f-9d1c-08d8ba288f9e",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "81e23cc8-b845-4553-a9e4-ac3a80228828",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d45324e6-e7c7-4543-8bc3-dee779be721e",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "d8215caf-8522-4a98-bb3c-6762a5cd924f",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "0c21f4a4-062c-4104-b007-c2f034b00d99",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "57cda5be-4fa8-4d55-a6de-4dcbe7bff0cf",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2288f5df-3ade-440a-bad3-5eecfda56e00",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "231573cd-b563-4209-95a9-7fb338af8eeb",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "ceff9d27-5ddc-4baf-a0c9-aba1309518b3",
+      "accessPointIndex": 1,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": false,
+      "id": "d9c0875d-79ba-442c-b915-05fdf8f2a8fc",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d2f9d6c6-8974-4a18-9585-3735a72814e9",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "9c088c3a-cb67-4f2b-9a21-a5b1772b6c2a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "23163bb8-c2ec-46a7-8ddc-6c8c6d5e59a0",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "b2136e31-d62d-45df-af6c-dfd3fb4c4ad1",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "41c7ea5a-fa31-49e5-87d6-8fa5b05df0a3",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "5423c4ed-dcd3-4d96-bd52-48ac4e3122b1",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d45324e6-e7c7-4543-8bc3-dee779be721e",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "f5e9e12a-23ac-4cc0-8806-8652a474d278",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "1e668fbd-b20c-4385-8fa5-b72f7ccb4fe3",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "f6ddeb10-62dd-48b5-b7f4-520fb9ef4248",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e69b1d3c-5898-4fdd-9787-ed2eb3072e4a",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "564d7df2-02f0-4bb5-9c9f-df6814ef0818",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d2f9d6c6-8974-4a18-9585-3735a72814e9",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "7acc189b-1cb1-4a30-b94f-07ba4048a091",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "d2f9d6c6-8974-4a18-9585-3735a72814e9",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "127e0a07-c946-4b39-93d0-fe663500194a",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "182ff557-f167-481a-9686-cbcfdf1f9220",
+      "accessPointIndex": 0,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        1
+      ],
+      "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "N",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "d36eff3b-ab72-498a-998a-2ded4ae08b7a"
+        }
+      ],
+      "enabled": true,
+      "id": "c3a4557a-9792-4c4a-ad03-2a3bc3973553",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "4366bce8-c5a8-4271-a2e9-265dea413787",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "13f99ee9-f066-4f38-b4ea-72d5a8dfa655",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "55dabcf1-11db-414c-9a95-dc44b98e3adc",
+      "accessPointIndex": 1,
+      "transmitPower": 10.969100130080564,
+      "channel": [
+        36
+      ],
+      "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "technology": "AC",
+      "radioTechnology": "IEEE802_11",
+      "spatialStreamCount": 3,
+      "shortGuardInterval": true,
+      "greenfield": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e"
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "antennaTypeId": "4750474b-adae-475f-815f-d9c40e3e1295"
+        }
+      ],
+      "enabled": true,
+      "id": "f74fd194-1f82-45fc-bfb7-67cac5c931ed",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "e7cb67e7-42ac-42db-b85b-5c992c939a52",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "e84c7d8d-7082-49bf-9c07-eecad60413c8",
+      "status": "CREATED"
+    },
+    {
+      "accessPointId": "2288f5df-3ade-440a-bad3-5eecfda56e00",
+      "accessPointIndex": 2,
+      "transmitPower": 10.969100130080564,
+      "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "antennaDirection": 0.0,
+      "antennaTilt": 0.0,
+      "antennaHeight": 2.4,
+      "antennaMounting": "CEILING",
+      "radioTechnology": "BLUETOOTH",
+      "spatialStreamCount": 1,
+      "shortGuardInterval": false,
+      "defaultAntennas": [
+        {
+          "radioTechnology": "BLUETOOTH",
+          "frequencyBand": "TWO",
+          "antennaTypeId": "0d154e97-0a37-47f0-b764-91cbe055167d"
+        }
+      ],
+      "enabled": true,
+      "id": "9d779a85-203a-45cb-84b9-9430e932ce46",
+      "status": "CREATED"
+    }
+  ]
+}

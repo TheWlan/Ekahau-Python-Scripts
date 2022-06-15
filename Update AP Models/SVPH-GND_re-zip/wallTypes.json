@@ -1,0 +1,603 @@
+{
+  "wallTypes": [
+    {
+      "name": "Door, Steel Rollup",
+      "key": "SteelRollupDoor",
+      "color": "#646D7E",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 289.47
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 289.47
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 289.47
+        }
+      ],
+      "thickness": 0.038,
+      "lowerEdge": 0.0,
+      "id": "72f05b60-df56-4121-8eab-af8df72f53a7",
+      "legacyId": 15,
+      "status": "CREATED"
+    },
+    {
+      "name": "9) Elevator Shaft",
+      "color": "#FFFF00",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 150.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 150.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 150.0
+        }
+      ],
+      "thickness": 0.2,
+      "lowerEdge": 0.0,
+      "id": "1a394f2d-156e-43df-8635-36e6844c41b0",
+      "status": "CREATED"
+    },
+    {
+      "name": "Door, Solid Wood",
+      "key": "SolidWoodDoor",
+      "color": "#78512D",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 150.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 150.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 150.0
+        }
+      ],
+      "thickness": 0.04,
+      "lowerEdge": 0.0,
+      "id": "170a5390-427b-4e93-82ce-249f72a5208a",
+      "legacyId": 11,
+      "status": "CREATED"
+    },
+    {
+      "name": "Window, Thick",
+      "key": "ThickWindow",
+      "color": "#ADE1FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 200.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 200.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 200.0
+        }
+      ],
+      "thickness": 0.015,
+      "lowerEdge": 0.0,
+      "id": "059f64e2-d790-4c46-805f-6fac67b071a5",
+      "legacyId": 6,
+      "status": "CREATED"
+    },
+    {
+      "name": "A3) Wall, Exterior",
+      "color": "#0000FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 12.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 12.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 12.0
+        }
+      ],
+      "thickness": 1.0,
+      "lowerEdge": 0.0,
+      "id": "7a8511a7-4c01-4155-b457-09e4d5ba2070",
+      "status": "CREATED"
+    },
+    {
+      "name": "Door, Thin",
+      "key": "ThinDoor",
+      "color": "#205070",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 25.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 25.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 25.0
+        }
+      ],
+      "thickness": 0.08,
+      "lowerEdge": 0.0,
+      "id": "a8392325-8be6-4022-a11e-5f23d7ed0818",
+      "legacyId": 9,
+      "status": "CREATED"
+    },
+    {
+      "name": "5) Wall, Cinder Block",
+      "color": "#FFCCFF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 20.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 20.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 20.0
+        }
+      ],
+      "thickness": 0.25,
+      "lowerEdge": 0.0,
+      "id": "43e40c2a-46f3-44c2-b403-849fc1a24490",
+      "status": "CREATED"
+    },
+    {
+      "name": "6) Wall, Brick",
+      "color": "#E1390B",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 33.33
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 33.33
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 33.33
+        }
+      ],
+      "thickness": 0.3,
+      "lowerEdge": 0.0,
+      "id": "df16ad15-e88b-410a-92bb-77df2fcb70bf",
+      "status": "CREATED"
+    },
+    {
+      "name": "Marble",
+      "key": "Marble",
+      "color": "#E09B8E",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 120.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 120.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 120.0
+        }
+      ],
+      "thickness": 0.05,
+      "lowerEdge": 0.0,
+      "id": "493aacb5-4ea0-4f99-b8a0-145082902f42",
+      "legacyId": 16,
+      "status": "CREATED"
+    },
+    {
+      "name": "7) Wall, Concrete",
+      "color": "#8E8E8E",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 24.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 24.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 24.0
+        }
+      ],
+      "thickness": 0.5,
+      "lowerEdge": 0.0,
+      "id": "0957df79-a988-4a6b-8f97-79ae71f66e56",
+      "status": "CREATED"
+    },
+    {
+      "name": "Bookshelf",
+      "key": "Bookshelf",
+      "color": "#B07842",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 5.71
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 5.71
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 5.71
+        }
+      ],
+      "thickness": 0.35,
+      "lowerEdge": 0.0,
+      "id": "c5d4f84e-f17f-45e3-9153-bdc513593ed3",
+      "legacyId": 10,
+      "status": "CREATED"
+    },
+    {
+      "name": "1) Unknown",
+      "color": "#9999FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 0.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 0.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 0.0
+        }
+      ],
+      "thickness": 0.04,
+      "lowerEdge": 0.0,
+      "id": "99f01759-549a-450d-8626-418a334c6704",
+      "status": "CREATED"
+    },
+    {
+      "name": "Door, Steel Fire/Exit",
+      "key": "SteelFire/ExitDoor",
+      "color": "#999999",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 325.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 325.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 325.0
+        }
+      ],
+      "thickness": 0.04,
+      "lowerEdge": 0.0,
+      "id": "b85daf4a-4532-4ab9-b3cb-d06c7345e99f",
+      "legacyId": 14,
+      "status": "CREATED"
+    },
+    {
+      "name": "Shelf, Retail",
+      "key": "RetailShelf",
+      "color": "#00FA9A",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 5.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 5.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 5.0
+        }
+      ],
+      "thickness": 1.0,
+      "lowerEdge": 0.0,
+      "id": "f6bfdde1-05b6-487d-8ed6-9090d6093df8",
+      "legacyId": 19,
+      "status": "CREATED"
+    },
+    {
+      "name": "4) Wall, Dry",
+      "color": "#C3A480",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 30.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 30.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 30.0
+        }
+      ],
+      "thickness": 0.1,
+      "lowerEdge": 0.0,
+      "id": "f24e49bd-ef71-4578-9049-19271f932222",
+      "status": "CREATED"
+    },
+    {
+      "name": "Shelf, Warehouse",
+      "key": "WarehouseRack",
+      "color": "#404040",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 18.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 18.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 18.0
+        }
+      ],
+      "thickness": 1.5,
+      "lowerEdge": 0.0,
+      "id": "84cfa5e9-9cbc-4fb6-8c72-0f06a7a2441d",
+      "legacyId": 20,
+      "status": "CREATED"
+    },
+    {
+      "name": "A4) Wall, Theatre",
+      "color": "#FF00FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 24.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 24.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 24.0
+        }
+      ],
+      "thickness": 0.5,
+      "lowerEdge": 0.0,
+      "id": "29127e33-7b4e-43fa-b9ff-018380ad98ed",
+      "status": "CREATED"
+    },
+    {
+      "name": "Door, Hollow Wood",
+      "key": "HollowWoodDoor",
+      "color": "#966F33",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 100.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 100.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 100.0
+        }
+      ],
+      "thickness": 0.04,
+      "lowerEdge": 0.0,
+      "id": "64a48d3d-9115-491b-a847-ee5c823d325a",
+      "legacyId": 12,
+      "status": "CREATED"
+    },
+    {
+      "name": "8) Wall, Emergency Stair",
+      "color": "#00FF00",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 24.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 24.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 24.0
+        }
+      ],
+      "thickness": 0.5,
+      "lowerEdge": 0.0,
+      "id": "89a2668e-a359-4402-a46a-1f6c8bc6fc1a",
+      "status": "CREATED"
+    },
+    {
+      "name": "A2) Fire Wall - 2 hour",
+      "color": "#FF0000",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 110.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 110.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 110.0
+        }
+      ],
+      "thickness": 0.1,
+      "lowerEdge": 0.0,
+      "id": "506d62f7-288c-451f-8681-57ce45656f0d",
+      "status": "CREATED"
+    },
+    {
+      "name": "Door, Interior Office",
+      "key": "InteriorOfficeDoor",
+      "color": "#969063",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 100.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 100.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 100.0
+        }
+      ],
+      "thickness": 0.04,
+      "lowerEdge": 0.0,
+      "id": "0ebb7594-2a63-4c6d-8329-4dc61c853c24",
+      "legacyId": 13,
+      "status": "CREATED"
+    },
+    {
+      "name": "A1) Fire Wall - 1 hour",
+      "color": "#FF8000",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 80.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 80.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 80.0
+        }
+      ],
+      "thickness": 0.1,
+      "lowerEdge": 0.0,
+      "id": "69d8164b-8e1a-448d-b824-9228eeb6720e",
+      "status": "CREATED"
+    },
+    {
+      "name": "Window, Interior",
+      "key": "Window",
+      "color": "#ADE1FF",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 200.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 200.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 200.0
+        }
+      ],
+      "thickness": 0.005,
+      "lowerEdge": 0.0,
+      "id": "268e3c53-defd-4461-9adf-4eccb5e4cbc5",
+      "legacyId": 5,
+      "status": "CREATED"
+    },
+    {
+      "name": "3) Wall, Dry, Hollow",
+      "color": "#D4B99B",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 20.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 20.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 20.0
+        }
+      ],
+      "thickness": 0.1,
+      "lowerEdge": 0.0,
+      "id": "836924ec-b3ae-4e8d-abe6-a9594159bef4",
+      "status": "CREATED"
+    },
+    {
+      "name": "2) Cubicle",
+      "color": "#DCDCDC",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 10.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 10.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 10.0
+        }
+      ],
+      "thickness": 0.1,
+      "lowerEdge": 0.0,
+      "upperEdge": 1.4,
+      "id": "9363ca5a-fb59-4f70-aee4-cf12dec3ab1f",
+      "status": "CREATED"
+    },
+    {
+      "name": "Network Cabling",
+      "key": "NetworkCabling",
+      "color": "#CCCCCC",
+      "propagationProperties": [
+        {
+          "band": "FIVE",
+          "attenuationFactor": 0.0
+        },
+        {
+          "band": "TWO",
+          "attenuationFactor": 0.0
+        },
+        {
+          "band": "SIX",
+          "attenuationFactor": 0.0
+        }
+      ],
+      "thickness": 0.005,
+      "lowerEdge": 0.0,
+      "id": "46f9347d-2c6a-4fc2-b277-fed0691ba0ec",
+      "legacyId": 18,
+      "status": "CREATED"
+    }
+  ]
+}

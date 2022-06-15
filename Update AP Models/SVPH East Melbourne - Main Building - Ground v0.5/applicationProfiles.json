@@ -1,0 +1,470 @@
+{
+  "applicationProfiles": [
+    {
+      "name": "Video, Apple TV 720p",
+      "key": "ApplicationProfile.VideoAppletv720p",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 6291456.0,
+      "fullDuplex": false,
+      "id": "248d0325-6abb-4987-832d-5c33593f9134",
+      "legacyId": 19,
+      "status": "CREATED"
+    },
+    {
+      "name": "Music, Apple Music",
+      "key": "ApplicationProfile.StreamingMusicApple",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 268435.456,
+      "fullDuplex": false,
+      "id": "04373785-3fc9-410a-93f1-0954a6964200",
+      "legacyId": 15,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video Conf, Webex",
+      "key": "ApplicationProfile.H2641080pRealtime",
+      "accessCategory": "AC_VI",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 5242880.0,
+      "fullDuplex": false,
+      "id": "68eaea3a-e5d9-46f5-b631-d7022b0e1cc3",
+      "legacyId": 26,
+      "status": "CREATED"
+    },
+    {
+      "name": "Web Email, Heavy",
+      "key": "ApplicationProfile.WebEmailHeavy",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 4194304.0,
+      "fullDuplex": false,
+      "id": "976431a2-0bfb-4f3c-a662-e5ce68ea5381",
+      "legacyId": 12,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video, Netflix 1080p",
+      "key": "ApplicationProfile.VideoNetflix1080p",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 7340032.0,
+      "fullDuplex": false,
+      "id": "d4fedfeb-e2bc-4aa7-b56e-6d78667c8e63",
+      "legacyId": 17,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, OneDrive Upload",
+      "key": "ApplicationProfile.FileSharingOnedriveUpload",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 5242880.0,
+      "fullDuplex": false,
+      "id": "2ad1d860-c447-43c5-aca8-252394a06090",
+      "legacyId": 5,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video Conf, Wi-Fi Calling",
+      "key": "ApplicationProfile.ConferencingWificallingVideo",
+      "accessCategory": "AC_VI",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 2831155.2,
+      "fullDuplex": false,
+      "id": "d7fa1610-f7ee-4326-bba1-c9992a793aef",
+      "legacyId": 23,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, Normal",
+      "key": "ApplicationProfile.FileSharingNormal",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 1.048576E7,
+      "fullDuplex": false,
+      "id": "2e1ce130-fb7b-43f4-b7da-7cc29d7fa98b",
+      "legacyId": 9,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video, YouTube 720p",
+      "key": "ApplicationProfile.VideoYoutube720p",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 3145728.0,
+      "fullDuplex": false,
+      "id": "07ff5faa-dd6f-47ec-8a7d-0320c3e89473",
+      "legacyId": 21,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, OneDrive Download",
+      "key": "ApplicationProfile.FileSharingOnedriveDownload",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 1.572864E7,
+      "fullDuplex": false,
+      "id": "40922727-a1bd-4193-b7de-a639a59c95b2",
+      "legacyId": 6,
+      "status": "CREATED"
+    },
+    {
+      "name": "SLA, Very Heavy",
+      "key": "ApplicationProfile.VeryHighSla",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 1.048576E7,
+      "fullDuplex": false,
+      "id": "fae4c880-345c-4948-be56-90fe0bf86a34",
+      "legacyId": 4,
+      "status": "CREATED"
+    },
+    {
+      "name": "SLA, Normal",
+      "key": "ApplicationProfile.NormalSla",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 2097152.0,
+      "fullDuplex": false,
+      "id": "6cf1fcaf-90eb-409d-82b5-d0dd77734ca5",
+      "legacyId": 2,
+      "status": "CREATED"
+    },
+    {
+      "name": "SLA, Very Low",
+      "key": "ApplicationProfile.VeryLowSla",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 268435.456,
+      "fullDuplex": false,
+      "id": "a834bc68-6bb0-4a9b-b873-e02d597798c9",
+      "legacyId": 0,
+      "status": "CREATED"
+    },
+    {
+      "name": "SLA, Low",
+      "key": "ApplicationProfile.LowSla",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 1048576.0,
+      "fullDuplex": false,
+      "id": "ea14e58d-fc66-4da1-a173-6db187f9ab7f",
+      "legacyId": 1,
+      "status": "CREATED"
+    },
+    {
+      "name": "Music, Spotify Premium",
+      "key": "ApplicationProfile.StreamingMusicPremium",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 335544.32,
+      "fullDuplex": false,
+      "id": "b10f5f21-bcfc-4b18-a941-78d851ec1a25",
+      "legacyId": 14,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, Dropbox Upload",
+      "key": "ApplicationProfile.FileSharingDropboxUpload",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 5242880.0,
+      "fullDuplex": false,
+      "id": "48488076-e61b-438a-8cdf-5045b053c6fd",
+      "legacyId": 7,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, Heavy",
+      "key": "ApplicationProfile.FileSharingHeavy",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 2.097152E7,
+      "fullDuplex": false,
+      "id": "35484f61-880f-4b92-bc2b-451ccce93ef4",
+      "legacyId": 10,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, Wi-Fi Calling",
+      "key": "ApplicationProfile.VoipGeneric",
+      "accessCategory": "AC_VO",
+      "applicationProtocols": [
+        "UDP",
+        "RTP"
+      ],
+      "packetSize": 200,
+      "bitRate": 83886.08,
+      "fullDuplex": true,
+      "id": "b579fc7e-0c45-498c-b8a5-e663275b7d4c",
+      "legacyId": 27,
+      "status": "CREATED"
+    },
+    {
+      "name": "Web Email, Normal",
+      "key": "ApplicationProfile.WebEmailNormal",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 2097152.0,
+      "fullDuplex": false,
+      "id": "34b94987-0a2a-4dde-b2e0-892a296eed0f",
+      "legacyId": 11,
+      "status": "CREATED"
+    },
+    {
+      "name": "Association Only",
+      "key": "ApplicationProfile.AssociationOnly",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 0,
+      "bitRate": 0.0,
+      "fullDuplex": false,
+      "id": "a0a5797e-18a4-479b-864e-6ad15dfbd1e1",
+      "legacyId": 32,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video, YouTube 1080p",
+      "key": "ApplicationProfile.VideoYoutube1080p",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 5242880.0,
+      "fullDuplex": false,
+      "id": "a0b9283b-70aa-45d3-b746-a904b182131e",
+      "legacyId": 22,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video, Netflix 720p",
+      "key": "ApplicationProfile.VideoNetflix720p",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 5242880.0,
+      "fullDuplex": false,
+      "id": "b347e2c3-1c71-4fe4-b369-b12079efd8d1",
+      "legacyId": 16,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video, Apple TV 1080p",
+      "key": "ApplicationProfile.VideoAppletv1080p",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 8388608.0,
+      "fullDuplex": false,
+      "id": "ea70f69b-c32e-405e-9aaf-18ff6f92007e",
+      "legacyId": 20,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video Conf, Lync / Skype 1080p",
+      "key": "ApplicationProfile.SkypeH2641080pRealtime",
+      "accessCategory": "AC_VI",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 4194304.0,
+      "fullDuplex": false,
+      "id": "6ef71f60-c854-41aa-95b4-e5382725aca8",
+      "legacyId": 25,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, Cisco",
+      "key": "ApplicationProfile.VoipCisco",
+      "accessCategory": "AC_VO",
+      "applicationProtocols": [
+        "UDP",
+        "RTP"
+      ],
+      "packetSize": 200,
+      "bitRate": 67108.864,
+      "fullDuplex": true,
+      "id": "ceccedc1-fbbe-4256-9dc7-7aac4834c492",
+      "legacyId": 29,
+      "status": "CREATED"
+    },
+    {
+      "name": "SLA, Heavy",
+      "key": "ApplicationProfile.HighSla",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 4194304.0,
+      "fullDuplex": false,
+      "id": "40637b9e-0c92-48c3-a664-1d2159f9da39",
+      "legacyId": 3,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video, Netflix 4k",
+      "key": "ApplicationProfile.VideoNetflix4k",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 2.62144E7,
+      "fullDuplex": false,
+      "id": "0e1f870d-f4f6-4924-b114-5e0aec948f20",
+      "legacyId": 18,
+      "status": "CREATED"
+    },
+    {
+      "name": "Video Conf, GoToMeeting",
+      "key": "ApplicationProfile.ConferencingGotomeetingVideo",
+      "accessCategory": "AC_VI",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 5242880.0,
+      "fullDuplex": false,
+      "id": "99ffee68-2ef8-4158-a9a3-c8a401992e05",
+      "legacyId": 24,
+      "status": "CREATED"
+    },
+    {
+      "name": "Music, Spotify",
+      "key": "ApplicationProfile.StreamingMusicSpotify",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 167772.16,
+      "fullDuplex": false,
+      "id": "a9ee748c-05f3-467a-b0e6-b0b1313338bf",
+      "legacyId": 13,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, GoToMeeting",
+      "key": "ApplicationProfile.VoipGotomeeting",
+      "accessCategory": "AC_VO",
+      "applicationProtocols": [
+        "UDP",
+        "RTP"
+      ],
+      "packetSize": 200,
+      "bitRate": 67108.864,
+      "fullDuplex": true,
+      "id": "0d7006ba-0d14-4de1-8ba3-09ab6f070a84",
+      "legacyId": 28,
+      "status": "CREATED"
+    },
+    {
+      "name": "Mobile, Background Sync",
+      "key": "ApplicationProfile.BackgroundSla",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 524288.0,
+      "fullDuplex": false,
+      "id": "fa459619-248a-4a76-8a5c-4d4c55012886",
+      "legacyId": 31,
+      "status": "CREATED"
+    },
+    {
+      "name": "VoIP, Lync / Skype",
+      "key": "ApplicationProfile.VoipLync",
+      "accessCategory": "AC_VO",
+      "applicationProtocols": [
+        "UDP",
+        "RTP"
+      ],
+      "packetSize": 200,
+      "bitRate": 67108.864,
+      "fullDuplex": true,
+      "id": "a8e575f6-c2d7-44ce-8033-56c26fab8cea",
+      "legacyId": 30,
+      "status": "CREATED"
+    },
+    {
+      "name": "File Sharing, Dropbox Download",
+      "key": "ApplicationProfile.FileSharingDropboxDownload",
+      "accessCategory": "AC_BE",
+      "applicationProtocols": [
+        "UNKNOWN"
+      ],
+      "packetSize": 1500,
+      "bitRate": 1.6777216E7,
+      "fullDuplex": false,
+      "id": "527a8e5b-a85d-4409-a6d9-458634848b90",
+      "legacyId": 8,
+      "status": "CREATED"
+    }
+  ]
+}

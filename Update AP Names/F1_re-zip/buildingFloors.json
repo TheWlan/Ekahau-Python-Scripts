@@ -1,0 +1,14 @@
+{
+  "buildingFloors": [
+    {
+      "floorPlanId": "f87e808f-72f2-4308-9f8b-d0160a2edd73",
+      "buildingId": "85b8a141-498b-4eff-a92d-f0fa4054ce5c",
+      "floorTypeId": "b3ccbeb0-9c97-45a3-b0ed-da4b1541cf96",
+      "floorNumber": 0,
+      "height": 3.5,
+      "thickness": 0.5,
+      "id": "1b73febe-f03d-434c-ac4b-61cbdbea759b",
+      "status": "CREATED"
+    }
+  ]
+}

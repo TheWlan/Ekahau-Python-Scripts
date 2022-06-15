@@ -1,0 +1,134 @@
+{
+  "notes": [
+    {
+      "text": "primary and secondary coverage hole",
+      "history": {
+        "modifiedAt": "2019-10-18T01:00:22.588Z",
+        "modifiedBy": "Mark McSherry",
+        "createdAt": "2019-10-18T00:47:05.670Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "633c6d04-8e43-4622-9547-7b9423d33559",
+      "status": "CREATED"
+    },
+    {
+      "text": "food storage",
+      "history": {
+        "createdAt": "2019-10-16T04:27:12.584Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "958be79d-0367-4ce7-b254-e16f029a36b3",
+      "status": "CREATED"
+    },
+    {
+      "text": "v0.1 - template creation - HB",
+      "imageIds": [],
+      "id": "04e84547-7899-49f7-af72-4a0ea56d06f8",
+      "status": "CREATED"
+    },
+    {
+      "text": "inside comms cabin",
+      "history": {
+        "createdAt": "2019-10-14T05:23:10.588Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "b30a503e-242a-46c9-9001-c6d851ced4aa",
+      "status": "CREATED"
+    },
+    {
+      "text": "primary coverage hole",
+      "history": {
+        "createdAt": "2019-10-18T00:47:14.414Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "4d58590d-4ff5-4650-9f73-c4613c5ad753",
+      "status": "CREATED"
+    },
+    {
+      "text": "AP placed to cover lifts",
+      "history": {
+        "createdAt": "2019-10-18T00:35:39.511Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "f903145f-64a9-4482-9529-d34a93eb47d1",
+      "status": "CREATED"
+    },
+    {
+      "text": "food storage",
+      "history": {
+        "createdAt": "2019-10-16T04:27:06.930Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "8640bb73-3d29-4190-8389-16dc19c9c6c7",
+      "status": "CREATED"
+    },
+    {
+      "text": "primary coverage hole, external area",
+      "history": {
+        "createdAt": "2019-10-18T00:46:15.934Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "64dbcb59-c07d-4e1d-842b-f6dd24253d23",
+      "status": "CREATED"
+    },
+    {
+      "text": "no door or wall",
+      "history": {
+        "createdAt": "2019-10-14T05:51:01.147Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "4bb5ec9c-8ec3-4e3e-8f38-83a9aa434590",
+      "status": "CREATED"
+    },
+    {
+      "text": "leads outside, the WAP here may be unnecessary",
+      "history": {
+        "createdAt": "2021-12-17T01:09:57.532Z",
+        "createdBy": "Mark De Souza"
+      },
+      "imageIds": [],
+      "id": "3c8319c6-7ef9-42b4-ae3e-7c12ba6dd411",
+      "status": "CREATED"
+    },
+    {
+      "text": "two existing APs, one ceiling mounted, one wall mounted",
+      "history": {
+        "modifiedAt": "2019-10-15T23:15:50.957Z",
+        "modifiedBy": "Mark McSherry",
+        "createdAt": "2019-10-14T05:25:01.752Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "960e41b7-9bec-4be4-a3bb-b87264eb8acb",
+      "status": "CREATED"
+    },
+    {
+      "text": "glass",
+      "history": {
+        "createdAt": "2019-10-14T05:51:14.915Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "5e29a137-bcdc-447e-92f2-398914a7eaba",
+      "status": "CREATED"
+    },
+    {
+      "text": "wall mounted",
+      "history": {
+        "createdAt": "2019-10-14T05:25:39.033Z",
+        "createdBy": "Mark McSherry"
+      },
+      "imageIds": [],
+      "id": "59de47c7-697c-487e-9c53-bafd065548dd",
+      "status": "CREATED"
+    }
+  ]
+}

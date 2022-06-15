@@ -1,0 +1,6659 @@
+{
+  "antennaTypes": [
+    {
+      "name": "Cisco AP4800 Micro 5GHz",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "FIVE",
+      "apVendor": "Cisco",
+      "apModel": "AP4800",
+      "maxGain": 4.87,
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -4.69
+          },
+          {
+            "angle": 3.0,
+            "gain": -4.74
+          },
+          {
+            "angle": 6.0,
+            "gain": -4.7
+          },
+          {
+            "angle": 9.0,
+            "gain": -4.43
+          },
+          {
+            "angle": 12.0,
+            "gain": -3.96
+          },
+          {
+            "angle": 15.0,
+            "gain": -3.69
+          },
+          {
+            "angle": 18.0,
+            "gain": -4.02
+          },
+          {
+            "angle": 21.0,
+            "gain": -4.76
+          },
+          {
+            "angle": 24.0,
+            "gain": -5.44
+          },
+          {
+            "angle": 27.0,
+            "gain": -5.48
+          },
+          {
+            "angle": 30.0,
+            "gain": -5.11
+          },
+          {
+            "angle": 33.0,
+            "gain": -4.8
+          },
+          {
+            "angle": 36.0,
+            "gain": -4.71
+          },
+          {
+            "angle": 39.0,
+            "gain": -4.72
+          },
+          {
+            "angle": 42.0,
+            "gain": -4.89
+          },
+          {
+            "angle": 45.0,
+            "gain": -5.16
+          },
+          {
+            "angle": 48.0,
+            "gain": -5.59
+          },
+          {
+            "angle": 51.0,
+            "gain": -6.08
+          },
+          {
+            "angle": 54.0,
+            "gain": -6.15
+          },
+          {
+            "angle": 57.0,
+            "gain": -5.89
+          },
+          {
+            "angle": 60.0,
+            "gain": -5.7
+          },
+          {
+            "angle": 63.0,
+            "gain": -5.93
+          },
+          {
+            "angle": 66.0,
+            "gain": -6.01
+          },
+          {
+            "angle": 69.0,
+            "gain": -5.55
+          },
+          {
+            "angle": 72.0,
+            "gain": -4.77
+          },
+          {
+            "angle": 75.0,
+            "gain": -4.4
+          },
+          {
+            "angle": 78.0,
+            "gain": -4.62
+          },
+          {
+            "angle": 81.0,
+            "gain": -5.09
+          },
+          {
+            "angle": 84.0,
+            "gain": -5.22
+          },
+          {
+            "angle": 87.0,
+            "gain": -4.82
+          },
+          {
+            "angle": 90.0,
+            "gain": -4.49
+          },
+          {
+            "angle": 93.0,
+            "gain": -4.4
+          },
+          {
+            "angle": 96.0,
+            "gain": -4.34
+          },
+          {
+            "angle": 99.0,
+            "gain": -4.11
+          },
+          {
+            "angle": 102.0,
+            "gain": -3.85
+          },
+          {
+            "angle": 105.0,
+            "gain": -3.77
+          },
+          {
+            "angle": 108.0,
+            "gain": -3.92
+          },
+          {
+            "angle": 111.0,
+            "gain": -4.21
+          },
+          {
+            "angle": 114.0,
+            "gain": -4.26
+          },
+          {
+            "angle": 117.0,
+            "gain": -4.15
+          },
+          {
+            "angle": 120.0,
+            "gain": -4.15
+          },
+          {
+            "angle": 123.0,
+            "gain": -4.35
+          },
+          {
+            "angle": 126.0,
+            "gain": -4.7
+          },
+          {
+            "angle": 129.0,
+            "gain": -4.97
+          },
+          {
+            "angle": 132.0,
+            "gain": -5.05
+          },
+          {
+            "angle": 135.0,
+            "gain": -5.21
+          },
+          {
+            "angle": 138.0,
+            "gain": -5.39
+          },
+          {
+            "angle": 141.0,
+            "gain": -5.58
+          },
+          {
+            "angle": 144.0,
+            "gain": -5.57
+          },
+          {
+            "angle": 147.0,
+            "gain": -5.47
+          },
+          {
+            "angle": 150.0,
+            "gain": -5.53
+          },
+          {
+            "angle": 153.0,
+            "gain": -5.86
+          },
+          {
+            "angle": 156.0,
+            "gain": -6.09
+          },
+          {
+            "angle": 159.0,
+            "gain": -6.2
+          },
+          {
+            "angle": 162.0,
+            "gain": -6.14
+          },
+          {
+            "angle": 165.0,
+            "gain": -6.11
+          },
+          {
+            "angle": 168.0,
+            "gain": -6.04
+          },
+          {
+            "angle": 171.0,
+            "gain": -5.69
+          },
+          {
+            "angle": 174.0,
+            "gain": -5.12
+          },
+          {
+            "angle": 177.0,
+            "gain": -4.61
+          },
+          {
+            "angle": 180.0,
+            "gain": -4.62
+          },
+          {
+            "angle": 183.0,
+            "gain": -4.95
+          },
+          {
+            "angle": 186.0,
+            "gain": -5.41
+          },
+          {
+            "angle": 189.0,
+            "gain": -5.72
+          },
+          {
+            "angle": 192.0,
+            "gain": -5.64
+          },
+          {
+            "angle": 195.0,
+            "gain": -5.57
+          },
+          {
+            "angle": 198.0,
+            "gain": -5.78
+          },
+          {
+            "angle": 201.0,
+            "gain": -6.34
+          },
+          {
+            "angle": 204.0,
+            "gain": -6.77
+          },
+          {
+            "angle": 207.0,
+            "gain": -6.9
+          },
+          {
+            "angle": 210.0,
+            "gain": -6.95
+          },
+          {
+            "angle": 213.0,
+            "gain": -6.89
+          },
+          {
+            "angle": 216.0,
+            "gain": -6.76
+          },
+          {
+            "angle": 219.0,
+            "gain": -6.48
+          },
+          {
+            "angle": 222.0,
+            "gain": -6.16
+          },
+          {
+            "angle": 225.0,
+            "gain": -6.09
+          },
+          {
+            "angle": 228.0,
+            "gain": -6.07
+          },
+          {
+            "angle": 231.0,
+            "gain": -5.8
+          },
+          {
+            "angle": 234.0,
+            "gain": -5.44
+          },
+          {
+            "angle": 237.0,
+            "gain": -5.06
+          },
+          {
+            "angle": 240.0,
+            "gain": -4.98
+          },
+          {
+            "angle": 243.0,
+            "gain": -5.15
+          },
+          {
+            "angle": 246.0,
+            "gain": -5.37
+          },
+          {
+            "angle": 249.0,
+            "gain": -5.63
+          },
+          {
+            "angle": 252.0,
+            "gain": -5.91
+          },
+          {
+            "angle": 255.0,
+            "gain": -6.26
+          },
+          {
+            "angle": 258.0,
+            "gain": -6.71
+          },
+          {
+            "angle": 261.0,
+            "gain": -7.12
+          },
+          {
+            "angle": 264.0,
+            "gain": -7.28
+          },
+          {
+            "angle": 267.0,
+            "gain": -7.23
+          },
+          {
+            "angle": 270.0,
+            "gain": -6.93
+          },
+          {
+            "angle": 273.0,
+            "gain": -6.79
+          },
+          {
+            "angle": 276.0,
+            "gain": -7.0
+          },
+          {
+            "angle": 279.0,
+            "gain": -7.38
+          },
+          {
+            "angle": 282.0,
+            "gain": -7.38
+          },
+          {
+            "angle": 285.0,
+            "gain": -6.98
+          },
+          {
+            "angle": 288.0,
+            "gain": -6.53
+          },
+          {
+            "angle": 291.0,
+            "gain": -6.4
+          },
+          {
+            "angle": 294.0,
+            "gain": -6.61
+          },
+          {
+            "angle": 297.0,
+            "gain": -6.71
+          },
+          {
+            "angle": 300.0,
+            "gain": -6.67
+          },
+          {
+            "angle": 303.0,
+            "gain": -6.72
+          },
+          {
+            "angle": 306.0,
+            "gain": -6.97
+          },
+          {
+            "angle": 309.0,
+            "gain": -6.77
+          },
+          {
+            "angle": 312.0,
+            "gain": -5.94
+          },
+          {
+            "angle": 315.0,
+            "gain": -5.39
+          },
+          {
+            "angle": 318.0,
+            "gain": -5.53
+          },
+          {
+            "angle": 321.0,
+            "gain": -5.8
+          },
+          {
+            "angle": 324.0,
+            "gain": -5.49
+          },
+          {
+            "angle": 327.0,
+            "gain": -5.05
+          },
+          {
+            "angle": 330.0,
+            "gain": -5.09
+          },
+          {
+            "angle": 333.0,
+            "gain": -5.61
+          },
+          {
+            "angle": 336.0,
+            "gain": -6.14
+          },
+          {
+            "angle": 339.0,
+            "gain": -6.14
+          },
+          {
+            "angle": 342.0,
+            "gain": -5.84
+          },
+          {
+            "angle": 345.0,
+            "gain": -5.5
+          },
+          {
+            "angle": 348.0,
+            "gain": -5.26
+          },
+          {
+            "angle": 351.0,
+            "gain": -4.91
+          },
+          {
+            "angle": 354.0,
+            "gain": -4.55
+          },
+          {
+            "angle": 357.0,
+            "gain": -4.5
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 270.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -23.22
+          },
+          {
+            "angle": 3.0,
+            "gain": -22.94
+          },
+          {
+            "angle": 6.0,
+            "gain": -21.29
+          },
+          {
+            "angle": 9.0,
+            "gain": -23.03
+          },
+          {
+            "angle": 12.0,
+            "gain": -21.63
+          },
+          {
+            "angle": 15.0,
+            "gain": -18.21
+          },
+          {
+            "angle": 18.0,
+            "gain": -18.62
+          },
+          {
+            "angle": 21.0,
+            "gain": -21.64
+          },
+          {
+            "angle": 24.0,
+            "gain": -20.54
+          },
+          {
+            "angle": 27.0,
+            "gain": -19.41
+          },
+          {
+            "angle": 30.0,
+            "gain": -20.56
+          },
+          {
+            "angle": 33.0,
+            "gain": -21.68
+          },
+          {
+            "angle": 36.0,
+            "gain": -21.74
+          },
+          {
+            "angle": 39.0,
+            "gain": -20.85
+          },
+          {
+            "angle": 42.0,
+            "gain": -19.96
+          },
+          {
+            "angle": 45.0,
+            "gain": -19.27
+          },
+          {
+            "angle": 48.0,
+            "gain": -17.52
+          },
+          {
+            "angle": 51.0,
+            "gain": -16.46
+          },
+          {
+            "angle": 54.0,
+            "gain": -16.57
+          },
+          {
+            "angle": 57.0,
+            "gain": -16.31
+          },
+          {
+            "angle": 60.0,
+            "gain": -15.5
+          },
+          {
+            "angle": 63.0,
+            "gain": -14.94
+          },
+          {
+            "angle": 66.0,
+            "gain": -14.27
+          },
+          {
+            "angle": 69.0,
+            "gain": -12.78
+          },
+          {
+            "angle": 72.0,
+            "gain": -11.27
+          },
+          {
+            "angle": 75.0,
+            "gain": -10.26
+          },
+          {
+            "angle": 78.0,
+            "gain": -9.48
+          },
+          {
+            "angle": 81.0,
+            "gain": -8.72
+          },
+          {
+            "angle": 84.0,
+            "gain": -7.7
+          },
+          {
+            "angle": 87.0,
+            "gain": -6.67
+          },
+          {
+            "angle": 90.0,
+            "gain": -5.77
+          },
+          {
+            "angle": 93.0,
+            "gain": -4.75
+          },
+          {
+            "angle": 96.0,
+            "gain": -3.83
+          },
+          {
+            "angle": 99.0,
+            "gain": -3.01
+          },
+          {
+            "angle": 102.0,
+            "gain": -2.13
+          },
+          {
+            "angle": 105.0,
+            "gain": -1.38
+          },
+          {
+            "angle": 108.0,
+            "gain": -0.83
+          },
+          {
+            "angle": 111.0,
+            "gain": -0.51
+          },
+          {
+            "angle": 114.0,
+            "gain": -0.22
+          },
+          {
+            "angle": 117.0,
+            "gain": -0.02
+          },
+          {
+            "angle": 120.0,
+            "gain": 0.16
+          },
+          {
+            "angle": 123.0,
+            "gain": 0.3
+          },
+          {
+            "angle": 126.0,
+            "gain": 0.56
+          },
+          {
+            "angle": 129.0,
+            "gain": 0.86
+          },
+          {
+            "angle": 132.0,
+            "gain": 1.25
+          },
+          {
+            "angle": 135.0,
+            "gain": 1.61
+          },
+          {
+            "angle": 138.0,
+            "gain": 1.86
+          },
+          {
+            "angle": 141.0,
+            "gain": 1.9
+          },
+          {
+            "angle": 144.0,
+            "gain": 1.92
+          },
+          {
+            "angle": 147.0,
+            "gain": 1.96
+          },
+          {
+            "angle": 150.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 153.0,
+            "gain": 2.71
+          },
+          {
+            "angle": 156.0,
+            "gain": 3.32
+          },
+          {
+            "angle": 159.0,
+            "gain": 3.79
+          },
+          {
+            "angle": 162.0,
+            "gain": 3.96
+          },
+          {
+            "angle": 165.0,
+            "gain": 3.9
+          },
+          {
+            "angle": 168.0,
+            "gain": 3.82
+          },
+          {
+            "angle": 171.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 174.0,
+            "gain": 4.44
+          },
+          {
+            "angle": 177.0,
+            "gain": 4.8
+          },
+          {
+            "angle": 180.0,
+            "gain": 4.87
+          },
+          {
+            "angle": 183.0,
+            "gain": 4.65
+          },
+          {
+            "angle": 186.0,
+            "gain": 4.31
+          },
+          {
+            "angle": 189.0,
+            "gain": 3.99
+          },
+          {
+            "angle": 192.0,
+            "gain": 3.84
+          },
+          {
+            "angle": 195.0,
+            "gain": 3.85
+          },
+          {
+            "angle": 198.0,
+            "gain": 3.86
+          },
+          {
+            "angle": 201.0,
+            "gain": 3.78
+          },
+          {
+            "angle": 204.0,
+            "gain": 3.54
+          },
+          {
+            "angle": 207.0,
+            "gain": 3.21
+          },
+          {
+            "angle": 210.0,
+            "gain": 2.96
+          },
+          {
+            "angle": 213.0,
+            "gain": 2.8
+          },
+          {
+            "angle": 216.0,
+            "gain": 2.65
+          },
+          {
+            "angle": 219.0,
+            "gain": 2.47
+          },
+          {
+            "angle": 222.0,
+            "gain": 2.19
+          },
+          {
+            "angle": 225.0,
+            "gain": 1.75
+          },
+          {
+            "angle": 228.0,
+            "gain": 1.17
+          },
+          {
+            "angle": 231.0,
+            "gain": 0.52
+          },
+          {
+            "angle": 234.0,
+            "gain": -0.16
+          },
+          {
+            "angle": 237.0,
+            "gain": -0.82
+          },
+          {
+            "angle": 240.0,
+            "gain": -1.43
+          },
+          {
+            "angle": 243.0,
+            "gain": -1.98
+          },
+          {
+            "angle": 246.0,
+            "gain": -2.46
+          },
+          {
+            "angle": 249.0,
+            "gain": -2.91
+          },
+          {
+            "angle": 252.0,
+            "gain": -3.41
+          },
+          {
+            "angle": 255.0,
+            "gain": -4.02
+          },
+          {
+            "angle": 258.0,
+            "gain": -4.78
+          },
+          {
+            "angle": 261.0,
+            "gain": -5.61
+          },
+          {
+            "angle": 264.0,
+            "gain": -6.39
+          },
+          {
+            "angle": 267.0,
+            "gain": -7.12
+          },
+          {
+            "angle": 270.0,
+            "gain": -7.75
+          },
+          {
+            "angle": 273.0,
+            "gain": -8.19
+          },
+          {
+            "angle": 276.0,
+            "gain": -8.89
+          },
+          {
+            "angle": 279.0,
+            "gain": -9.78
+          },
+          {
+            "angle": 282.0,
+            "gain": -10.46
+          },
+          {
+            "angle": 285.0,
+            "gain": -11.08
+          },
+          {
+            "angle": 288.0,
+            "gain": -11.65
+          },
+          {
+            "angle": 291.0,
+            "gain": -12.43
+          },
+          {
+            "angle": 294.0,
+            "gain": -13.24
+          },
+          {
+            "angle": 297.0,
+            "gain": -13.75
+          },
+          {
+            "angle": 300.0,
+            "gain": -14.06
+          },
+          {
+            "angle": 303.0,
+            "gain": -14.43
+          },
+          {
+            "angle": 306.0,
+            "gain": -15.54
+          },
+          {
+            "angle": 309.0,
+            "gain": -17.42
+          },
+          {
+            "angle": 312.0,
+            "gain": -18.72
+          },
+          {
+            "angle": 315.0,
+            "gain": -19.05
+          },
+          {
+            "angle": 318.0,
+            "gain": -19.71
+          },
+          {
+            "angle": 321.0,
+            "gain": -20.28
+          },
+          {
+            "angle": 324.0,
+            "gain": -20.76
+          },
+          {
+            "angle": 327.0,
+            "gain": -22.07
+          },
+          {
+            "angle": 330.0,
+            "gain": -21.61
+          },
+          {
+            "angle": 333.0,
+            "gain": -19.7
+          },
+          {
+            "angle": 336.0,
+            "gain": -18.74
+          },
+          {
+            "angle": 339.0,
+            "gain": -19.31
+          },
+          {
+            "angle": 342.0,
+            "gain": -22.31
+          },
+          {
+            "angle": 345.0,
+            "gain": -22.58
+          },
+          {
+            "angle": 348.0,
+            "gain": -18.48
+          },
+          {
+            "angle": 351.0,
+            "gain": -17.32
+          },
+          {
+            "angle": 354.0,
+            "gain": -17.81
+          },
+          {
+            "angle": 357.0,
+            "gain": -19.77
+          }
+        ]
+      },
+      "antennaWcsMapping": {
+        "apModel": "AP4800",
+        "antennaName": "Internal-4800-5GHz",
+        "antennaType": "Internal"
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "CEILING",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "d36eff3b-ab72-498a-998a-2ded4ae08b7a",
+      "status": "CREATED"
+    },
+    {
+      "name": "Generic 2.2dBi Omni",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "maxGain": 2.2,
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 2.2
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 90.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -24.4
+          },
+          {
+            "angle": 5.0,
+            "gain": -20.0
+          },
+          {
+            "angle": 10.0,
+            "gain": -15.2
+          },
+          {
+            "angle": 15.0,
+            "gain": -11.8
+          },
+          {
+            "angle": 20.0,
+            "gain": -9.4
+          },
+          {
+            "angle": 25.0,
+            "gain": -7.2
+          },
+          {
+            "angle": 30.0,
+            "gain": -5.6
+          },
+          {
+            "angle": 35.0,
+            "gain": -4.8
+          },
+          {
+            "angle": 40.0,
+            "gain": -3.6
+          },
+          {
+            "angle": 45.0,
+            "gain": -2.4
+          },
+          {
+            "angle": 50.0,
+            "gain": -1.6
+          },
+          {
+            "angle": 55.0,
+            "gain": -0.4
+          },
+          {
+            "angle": 60.0,
+            "gain": 0.4
+          },
+          {
+            "angle": 65.0,
+            "gain": 1.0
+          },
+          {
+            "angle": 70.0,
+            "gain": 1.6
+          },
+          {
+            "angle": 75.0,
+            "gain": 1.8
+          },
+          {
+            "angle": 80.0,
+            "gain": 1.8
+          },
+          {
+            "angle": 85.0,
+            "gain": 2.0
+          },
+          {
+            "angle": 90.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 95.0,
+            "gain": 2.0
+          },
+          {
+            "angle": 100.0,
+            "gain": 2.0
+          },
+          {
+            "angle": 105.0,
+            "gain": 1.6
+          },
+          {
+            "angle": 110.0,
+            "gain": 1.0
+          },
+          {
+            "angle": 115.0,
+            "gain": -0.2
+          },
+          {
+            "angle": 120.0,
+            "gain": -1.4
+          },
+          {
+            "angle": 125.0,
+            "gain": -2.6
+          },
+          {
+            "angle": 130.0,
+            "gain": -3.8
+          },
+          {
+            "angle": 135.0,
+            "gain": -5.2
+          },
+          {
+            "angle": 140.0,
+            "gain": -6.8
+          },
+          {
+            "angle": 145.0,
+            "gain": -7.0
+          },
+          {
+            "angle": 150.0,
+            "gain": -4.4
+          },
+          {
+            "angle": 155.0,
+            "gain": -6.8
+          },
+          {
+            "angle": 160.0,
+            "gain": -9.4
+          },
+          {
+            "angle": 165.0,
+            "gain": -11.6
+          },
+          {
+            "angle": 170.0,
+            "gain": -14.4
+          },
+          {
+            "angle": 175.0,
+            "gain": -14.0
+          },
+          {
+            "angle": 180.0,
+            "gain": -29.4
+          },
+          {
+            "angle": 185.0,
+            "gain": -15.2
+          },
+          {
+            "angle": 190.0,
+            "gain": -17.8
+          },
+          {
+            "angle": 195.0,
+            "gain": -12.8
+          },
+          {
+            "angle": 200.0,
+            "gain": -11.4
+          },
+          {
+            "angle": 205.0,
+            "gain": -8.0
+          },
+          {
+            "angle": 210.0,
+            "gain": -5.2
+          },
+          {
+            "angle": 215.0,
+            "gain": -5.8
+          },
+          {
+            "angle": 220.0,
+            "gain": -6.6
+          },
+          {
+            "angle": 225.0,
+            "gain": -6.6
+          },
+          {
+            "angle": 230.0,
+            "gain": -5.2
+          },
+          {
+            "angle": 235.0,
+            "gain": -3.2
+          },
+          {
+            "angle": 240.0,
+            "gain": -1.6
+          },
+          {
+            "angle": 245.0,
+            "gain": -0.4
+          },
+          {
+            "angle": 250.0,
+            "gain": 0.4
+          },
+          {
+            "angle": 255.0,
+            "gain": 1.4
+          },
+          {
+            "angle": 260.0,
+            "gain": 1.6
+          },
+          {
+            "angle": 265.0,
+            "gain": 1.8
+          },
+          {
+            "angle": 270.0,
+            "gain": 2.0
+          },
+          {
+            "angle": 275.0,
+            "gain": 1.4
+          },
+          {
+            "angle": 280.0,
+            "gain": 1.2
+          },
+          {
+            "angle": 285.0,
+            "gain": 1.2
+          },
+          {
+            "angle": 290.0,
+            "gain": 1.2
+          },
+          {
+            "angle": 295.0,
+            "gain": 0.8
+          },
+          {
+            "angle": 300.0,
+            "gain": -0.2
+          },
+          {
+            "angle": 305.0,
+            "gain": -1.0
+          },
+          {
+            "angle": 310.0,
+            "gain": -1.8
+          },
+          {
+            "angle": 315.0,
+            "gain": -2.6
+          },
+          {
+            "angle": 320.0,
+            "gain": -3.6
+          },
+          {
+            "angle": 325.0,
+            "gain": -5.0
+          },
+          {
+            "angle": 330.0,
+            "gain": -6.0
+          },
+          {
+            "angle": 335.0,
+            "gain": -7.8
+          },
+          {
+            "angle": 340.0,
+            "gain": -9.0
+          },
+          {
+            "angle": 345.0,
+            "gain": -10.8
+          },
+          {
+            "angle": 350.0,
+            "gain": -14.2
+          },
+          {
+            "angle": 355.0,
+            "gain": -18.6
+          }
+        ]
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "CEILING",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "abfd18d9-9551-4080-9bb2-4b6cda06dd3c",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AIR-ANT2588P3M-N 2.4GHz 8dBi",
+      "directional": true,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "TWO",
+      "apVendor": "Cisco",
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 8.0
+          },
+          {
+            "angle": 5.0,
+            "gain": 8.0
+          },
+          {
+            "angle": 10.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 15.0,
+            "gain": 6.47
+          },
+          {
+            "angle": 20.0,
+            "gain": 6.47
+          },
+          {
+            "angle": 25.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 30.0,
+            "gain": 7.78
+          },
+          {
+            "angle": 35.0,
+            "gain": 7.78
+          },
+          {
+            "angle": 40.0,
+            "gain": 7.56
+          },
+          {
+            "angle": 45.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 50.0,
+            "gain": 6.47
+          },
+          {
+            "angle": 55.0,
+            "gain": 6.03
+          },
+          {
+            "angle": 60.0,
+            "gain": 5.6
+          },
+          {
+            "angle": 65.0,
+            "gain": 5.16
+          },
+          {
+            "angle": 70.0,
+            "gain": 4.5
+          },
+          {
+            "angle": 75.0,
+            "gain": 3.85
+          },
+          {
+            "angle": 80.0,
+            "gain": 2.97
+          },
+          {
+            "angle": 85.0,
+            "gain": 2.32
+          },
+          {
+            "angle": 90.0,
+            "gain": 1.44
+          },
+          {
+            "angle": 95.0,
+            "gain": 1.22
+          },
+          {
+            "angle": 100.0,
+            "gain": 0.57
+          },
+          {
+            "angle": 105.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 110.0,
+            "gain": -0.96
+          },
+          {
+            "angle": 115.0,
+            "gain": -1.18
+          },
+          {
+            "angle": 120.0,
+            "gain": -1.62
+          },
+          {
+            "angle": 125.0,
+            "gain": -2.05
+          },
+          {
+            "angle": 130.0,
+            "gain": -2.27
+          },
+          {
+            "angle": 135.0,
+            "gain": -2.05
+          },
+          {
+            "angle": 140.0,
+            "gain": -3.58
+          },
+          {
+            "angle": 145.0,
+            "gain": -7.3
+          },
+          {
+            "angle": 150.0,
+            "gain": -7.52
+          },
+          {
+            "angle": 155.0,
+            "gain": -4.46
+          },
+          {
+            "angle": 160.0,
+            "gain": -3.8
+          },
+          {
+            "angle": 165.0,
+            "gain": -5.99
+          },
+          {
+            "angle": 170.0,
+            "gain": -8.83
+          },
+          {
+            "angle": 175.0,
+            "gain": -8.83
+          },
+          {
+            "angle": 180.0,
+            "gain": -9.05
+          },
+          {
+            "angle": 185.0,
+            "gain": -13.2
+          },
+          {
+            "angle": 190.0,
+            "gain": -20.85
+          },
+          {
+            "angle": 195.0,
+            "gain": -9.27
+          },
+          {
+            "angle": 200.0,
+            "gain": -7.3
+          },
+          {
+            "angle": 205.0,
+            "gain": -9.27
+          },
+          {
+            "angle": 210.0,
+            "gain": -19.1
+          },
+          {
+            "angle": 215.0,
+            "gain": -13.86
+          },
+          {
+            "angle": 220.0,
+            "gain": -9.49
+          },
+          {
+            "angle": 225.0,
+            "gain": -8.17
+          },
+          {
+            "angle": 230.0,
+            "gain": -9.7
+          },
+          {
+            "angle": 235.0,
+            "gain": -12.55
+          },
+          {
+            "angle": 240.0,
+            "gain": -18.01
+          },
+          {
+            "angle": 245.0,
+            "gain": -11.02
+          },
+          {
+            "angle": 250.0,
+            "gain": -6.64
+          },
+          {
+            "angle": 255.0,
+            "gain": -3.8
+          },
+          {
+            "angle": 260.0,
+            "gain": -2.05
+          },
+          {
+            "angle": 265.0,
+            "gain": -0.31
+          },
+          {
+            "angle": 270.0,
+            "gain": 0.79
+          },
+          {
+            "angle": 275.0,
+            "gain": 2.97
+          },
+          {
+            "angle": 280.0,
+            "gain": 4.28
+          },
+          {
+            "angle": 285.0,
+            "gain": 5.6
+          },
+          {
+            "angle": 290.0,
+            "gain": 6.47
+          },
+          {
+            "angle": 295.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 300.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 305.0,
+            "gain": 7.34
+          },
+          {
+            "angle": 310.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 315.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 320.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 325.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 330.0,
+            "gain": 7.78
+          },
+          {
+            "angle": 335.0,
+            "gain": 7.34
+          },
+          {
+            "angle": 340.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 345.0,
+            "gain": 6.25
+          },
+          {
+            "angle": 350.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 355.0,
+            "gain": 7.34
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 7.78
+          },
+          {
+            "angle": 5.0,
+            "gain": 7.57
+          },
+          {
+            "angle": 10.0,
+            "gain": 6.86
+          },
+          {
+            "angle": 15.0,
+            "gain": 5.83
+          },
+          {
+            "angle": 20.0,
+            "gain": 4.31
+          },
+          {
+            "angle": 25.0,
+            "gain": 2.13
+          },
+          {
+            "angle": 30.0,
+            "gain": -1.13
+          },
+          {
+            "angle": 35.0,
+            "gain": -5.04
+          },
+          {
+            "angle": 40.0,
+            "gain": -13.15
+          },
+          {
+            "angle": 45.0,
+            "gain": -18.85
+          },
+          {
+            "angle": 50.0,
+            "gain": -11.06
+          },
+          {
+            "angle": 55.0,
+            "gain": -8.3
+          },
+          {
+            "angle": 60.0,
+            "gain": -6.34
+          },
+          {
+            "angle": 65.0,
+            "gain": -5.26
+          },
+          {
+            "angle": 70.0,
+            "gain": -3.52
+          },
+          {
+            "angle": 75.0,
+            "gain": -3.23
+          },
+          {
+            "angle": 80.0,
+            "gain": -4.48
+          },
+          {
+            "angle": 85.0,
+            "gain": -7.15
+          },
+          {
+            "angle": 90.0,
+            "gain": -9.45
+          },
+          {
+            "angle": 95.0,
+            "gain": -10.1
+          },
+          {
+            "angle": 100.0,
+            "gain": -11.41
+          },
+          {
+            "angle": 105.0,
+            "gain": -27.62
+          },
+          {
+            "angle": 110.0,
+            "gain": -21.29
+          },
+          {
+            "angle": 115.0,
+            "gain": -13.97
+          },
+          {
+            "angle": 120.0,
+            "gain": -15.73
+          },
+          {
+            "angle": 125.0,
+            "gain": -26.13
+          },
+          {
+            "angle": 130.0,
+            "gain": -19.41
+          },
+          {
+            "angle": 135.0,
+            "gain": -18.57
+          },
+          {
+            "angle": 140.0,
+            "gain": -20.37
+          },
+          {
+            "angle": 145.0,
+            "gain": -14.02
+          },
+          {
+            "angle": 150.0,
+            "gain": -9.49
+          },
+          {
+            "angle": 155.0,
+            "gain": -6.13
+          },
+          {
+            "angle": 160.0,
+            "gain": -3.95
+          },
+          {
+            "angle": 165.0,
+            "gain": -3.08
+          },
+          {
+            "angle": 170.0,
+            "gain": -3.22
+          },
+          {
+            "angle": 175.0,
+            "gain": -4.0
+          },
+          {
+            "angle": 180.0,
+            "gain": -6.78
+          },
+          {
+            "angle": 185.0,
+            "gain": -5.87
+          },
+          {
+            "angle": 190.0,
+            "gain": -4.52
+          },
+          {
+            "angle": 195.0,
+            "gain": -4.17
+          },
+          {
+            "angle": 200.0,
+            "gain": -5.04
+          },
+          {
+            "angle": 205.0,
+            "gain": -6.13
+          },
+          {
+            "angle": 210.0,
+            "gain": -7.21
+          },
+          {
+            "angle": 215.0,
+            "gain": -8.74
+          },
+          {
+            "angle": 220.0,
+            "gain": -9.41
+          },
+          {
+            "angle": 225.0,
+            "gain": -12.23
+          },
+          {
+            "angle": 230.0,
+            "gain": -12.77
+          },
+          {
+            "angle": 235.0,
+            "gain": -8.88
+          },
+          {
+            "angle": 240.0,
+            "gain": -8.37
+          },
+          {
+            "angle": 245.0,
+            "gain": -9.98
+          },
+          {
+            "angle": 250.0,
+            "gain": -13.32
+          },
+          {
+            "angle": 255.0,
+            "gain": -14.02
+          },
+          {
+            "angle": 260.0,
+            "gain": -10.3
+          },
+          {
+            "angle": 265.0,
+            "gain": -7.15
+          },
+          {
+            "angle": 270.0,
+            "gain": -5.15
+          },
+          {
+            "angle": 275.0,
+            "gain": -5.26
+          },
+          {
+            "angle": 280.0,
+            "gain": -4.06
+          },
+          {
+            "angle": 285.0,
+            "gain": -2.84
+          },
+          {
+            "angle": 290.0,
+            "gain": -1.94
+          },
+          {
+            "angle": 295.0,
+            "gain": -3.03
+          },
+          {
+            "angle": 300.0,
+            "gain": -4.54
+          },
+          {
+            "angle": 305.0,
+            "gain": -6.81
+          },
+          {
+            "angle": 310.0,
+            "gain": -9.7
+          },
+          {
+            "angle": 315.0,
+            "gain": -12.6
+          },
+          {
+            "angle": 320.0,
+            "gain": -17.12
+          },
+          {
+            "angle": 325.0,
+            "gain": -5.52
+          },
+          {
+            "angle": 330.0,
+            "gain": 0.3
+          },
+          {
+            "angle": 335.0,
+            "gain": 2.78
+          },
+          {
+            "angle": 340.0,
+            "gain": 4.74
+          },
+          {
+            "angle": 345.0,
+            "gain": 5.83
+          },
+          {
+            "angle": 350.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 355.0,
+            "gain": 7.35
+          }
+        ]
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "WALL",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "57e3bb3d-85a1-48a9-a11f-108f5541e3d6",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AP4800 BLE",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "TWO",
+      "apVendor": "Cisco",
+      "maxGain": 1.85,
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 0.27
+          },
+          {
+            "angle": 3.0,
+            "gain": 0.05
+          },
+          {
+            "angle": 6.0,
+            "gain": -0.26
+          },
+          {
+            "angle": 9.0,
+            "gain": -0.63
+          },
+          {
+            "angle": 12.0,
+            "gain": -1.07
+          },
+          {
+            "angle": 15.0,
+            "gain": -1.53
+          },
+          {
+            "angle": 18.0,
+            "gain": -2.0
+          },
+          {
+            "angle": 21.0,
+            "gain": -2.42
+          },
+          {
+            "angle": 24.0,
+            "gain": -2.78
+          },
+          {
+            "angle": 27.0,
+            "gain": -3.07
+          },
+          {
+            "angle": 30.0,
+            "gain": -3.24
+          },
+          {
+            "angle": 33.0,
+            "gain": -3.4
+          },
+          {
+            "angle": 36.0,
+            "gain": -3.52
+          },
+          {
+            "angle": 39.0,
+            "gain": -3.64
+          },
+          {
+            "angle": 42.0,
+            "gain": -3.82
+          },
+          {
+            "angle": 45.0,
+            "gain": -3.96
+          },
+          {
+            "angle": 48.0,
+            "gain": -4.11
+          },
+          {
+            "angle": 51.0,
+            "gain": -4.23
+          },
+          {
+            "angle": 54.0,
+            "gain": -4.38
+          },
+          {
+            "angle": 57.0,
+            "gain": -4.56
+          },
+          {
+            "angle": 60.0,
+            "gain": -4.67
+          },
+          {
+            "angle": 63.0,
+            "gain": -4.71
+          },
+          {
+            "angle": 66.0,
+            "gain": -4.62
+          },
+          {
+            "angle": 69.0,
+            "gain": -4.34
+          },
+          {
+            "angle": 72.0,
+            "gain": -3.91
+          },
+          {
+            "angle": 75.0,
+            "gain": -3.36
+          },
+          {
+            "angle": 78.0,
+            "gain": -2.76
+          },
+          {
+            "angle": 81.0,
+            "gain": -2.18
+          },
+          {
+            "angle": 84.0,
+            "gain": -1.67
+          },
+          {
+            "angle": 87.0,
+            "gain": -1.28
+          },
+          {
+            "angle": 90.0,
+            "gain": -1.05
+          },
+          {
+            "angle": 93.0,
+            "gain": -0.92
+          },
+          {
+            "angle": 96.0,
+            "gain": -0.91
+          },
+          {
+            "angle": 99.0,
+            "gain": -1.05
+          },
+          {
+            "angle": 102.0,
+            "gain": -1.3
+          },
+          {
+            "angle": 105.0,
+            "gain": -1.69
+          },
+          {
+            "angle": 108.0,
+            "gain": -2.18
+          },
+          {
+            "angle": 111.0,
+            "gain": -2.72
+          },
+          {
+            "angle": 114.0,
+            "gain": -3.33
+          },
+          {
+            "angle": 117.0,
+            "gain": -3.91
+          },
+          {
+            "angle": 120.0,
+            "gain": -4.41
+          },
+          {
+            "angle": 123.0,
+            "gain": -4.82
+          },
+          {
+            "angle": 126.0,
+            "gain": -5.06
+          },
+          {
+            "angle": 129.0,
+            "gain": -5.2
+          },
+          {
+            "angle": 132.0,
+            "gain": -5.2
+          },
+          {
+            "angle": 135.0,
+            "gain": -5.15
+          },
+          {
+            "angle": 138.0,
+            "gain": -5.05
+          },
+          {
+            "angle": 141.0,
+            "gain": -4.95
+          },
+          {
+            "angle": 144.0,
+            "gain": -4.91
+          },
+          {
+            "angle": 147.0,
+            "gain": -4.94
+          },
+          {
+            "angle": 150.0,
+            "gain": -5.08
+          },
+          {
+            "angle": 153.0,
+            "gain": -5.26
+          },
+          {
+            "angle": 156.0,
+            "gain": -5.57
+          },
+          {
+            "angle": 159.0,
+            "gain": -5.96
+          },
+          {
+            "angle": 162.0,
+            "gain": -6.39
+          },
+          {
+            "angle": 165.0,
+            "gain": -6.83
+          },
+          {
+            "angle": 168.0,
+            "gain": -7.32
+          },
+          {
+            "angle": 171.0,
+            "gain": -7.76
+          },
+          {
+            "angle": 174.0,
+            "gain": -8.18
+          },
+          {
+            "angle": 177.0,
+            "gain": -8.35
+          },
+          {
+            "angle": 180.0,
+            "gain": -8.4
+          },
+          {
+            "angle": 183.0,
+            "gain": -8.16
+          },
+          {
+            "angle": 186.0,
+            "gain": -7.74
+          },
+          {
+            "angle": 189.0,
+            "gain": -7.15
+          },
+          {
+            "angle": 192.0,
+            "gain": -6.45
+          },
+          {
+            "angle": 195.0,
+            "gain": -5.71
+          },
+          {
+            "angle": 198.0,
+            "gain": -5.0
+          },
+          {
+            "angle": 201.0,
+            "gain": -4.31
+          },
+          {
+            "angle": 204.0,
+            "gain": -3.73
+          },
+          {
+            "angle": 207.0,
+            "gain": -3.27
+          },
+          {
+            "angle": 210.0,
+            "gain": -2.9
+          },
+          {
+            "angle": 213.0,
+            "gain": -2.74
+          },
+          {
+            "angle": 216.0,
+            "gain": -2.69
+          },
+          {
+            "angle": 219.0,
+            "gain": -2.84
+          },
+          {
+            "angle": 222.0,
+            "gain": -3.06
+          },
+          {
+            "angle": 225.0,
+            "gain": -3.34
+          },
+          {
+            "angle": 228.0,
+            "gain": -3.56
+          },
+          {
+            "angle": 231.0,
+            "gain": -3.72
+          },
+          {
+            "angle": 234.0,
+            "gain": -3.74
+          },
+          {
+            "angle": 237.0,
+            "gain": -3.65
+          },
+          {
+            "angle": 240.0,
+            "gain": -3.4
+          },
+          {
+            "angle": 243.0,
+            "gain": -3.05
+          },
+          {
+            "angle": 246.0,
+            "gain": -2.61
+          },
+          {
+            "angle": 249.0,
+            "gain": -2.11
+          },
+          {
+            "angle": 252.0,
+            "gain": -1.6
+          },
+          {
+            "angle": 255.0,
+            "gain": -1.15
+          },
+          {
+            "angle": 258.0,
+            "gain": -0.79
+          },
+          {
+            "angle": 261.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 264.0,
+            "gain": -0.35
+          },
+          {
+            "angle": 267.0,
+            "gain": -0.29
+          },
+          {
+            "angle": 270.0,
+            "gain": -0.37
+          },
+          {
+            "angle": 273.0,
+            "gain": -0.58
+          },
+          {
+            "angle": 276.0,
+            "gain": -0.93
+          },
+          {
+            "angle": 279.0,
+            "gain": -1.4
+          },
+          {
+            "angle": 282.0,
+            "gain": -1.96
+          },
+          {
+            "angle": 285.0,
+            "gain": -2.56
+          },
+          {
+            "angle": 288.0,
+            "gain": -3.21
+          },
+          {
+            "angle": 291.0,
+            "gain": -3.76
+          },
+          {
+            "angle": 294.0,
+            "gain": -4.22
+          },
+          {
+            "angle": 297.0,
+            "gain": -4.4
+          },
+          {
+            "angle": 300.0,
+            "gain": -4.32
+          },
+          {
+            "angle": 303.0,
+            "gain": -4.05
+          },
+          {
+            "angle": 306.0,
+            "gain": -3.65
+          },
+          {
+            "angle": 309.0,
+            "gain": -3.23
+          },
+          {
+            "angle": 312.0,
+            "gain": -2.85
+          },
+          {
+            "angle": 315.0,
+            "gain": -2.48
+          },
+          {
+            "angle": 318.0,
+            "gain": -2.18
+          },
+          {
+            "angle": 321.0,
+            "gain": -1.9
+          },
+          {
+            "angle": 324.0,
+            "gain": -1.68
+          },
+          {
+            "angle": 327.0,
+            "gain": -1.42
+          },
+          {
+            "angle": 330.0,
+            "gain": -1.18
+          },
+          {
+            "angle": 333.0,
+            "gain": -0.96
+          },
+          {
+            "angle": 336.0,
+            "gain": -0.7
+          },
+          {
+            "angle": 339.0,
+            "gain": -0.43
+          },
+          {
+            "angle": 342.0,
+            "gain": -0.16
+          },
+          {
+            "angle": 345.0,
+            "gain": 0.11
+          },
+          {
+            "angle": 348.0,
+            "gain": 0.28
+          },
+          {
+            "angle": 351.0,
+            "gain": 0.41
+          },
+          {
+            "angle": 354.0,
+            "gain": 0.46
+          },
+          {
+            "angle": 357.0,
+            "gain": 0.42
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 270.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -11.45
+          },
+          {
+            "angle": 3.0,
+            "gain": -10.94
+          },
+          {
+            "angle": 6.0,
+            "gain": -10.1
+          },
+          {
+            "angle": 9.0,
+            "gain": -9.38
+          },
+          {
+            "angle": 12.0,
+            "gain": -8.96
+          },
+          {
+            "angle": 15.0,
+            "gain": -9.0
+          },
+          {
+            "angle": 18.0,
+            "gain": -9.41
+          },
+          {
+            "angle": 21.0,
+            "gain": -10.24
+          },
+          {
+            "angle": 24.0,
+            "gain": -11.26
+          },
+          {
+            "angle": 27.0,
+            "gain": -12.02
+          },
+          {
+            "angle": 30.0,
+            "gain": -12.16
+          },
+          {
+            "angle": 33.0,
+            "gain": -11.63
+          },
+          {
+            "angle": 36.0,
+            "gain": -10.59
+          },
+          {
+            "angle": 39.0,
+            "gain": -9.49
+          },
+          {
+            "angle": 42.0,
+            "gain": -8.53
+          },
+          {
+            "angle": 45.0,
+            "gain": -7.86
+          },
+          {
+            "angle": 48.0,
+            "gain": -7.48
+          },
+          {
+            "angle": 51.0,
+            "gain": -7.38
+          },
+          {
+            "angle": 54.0,
+            "gain": -7.66
+          },
+          {
+            "angle": 57.0,
+            "gain": -8.15
+          },
+          {
+            "angle": 60.0,
+            "gain": -8.82
+          },
+          {
+            "angle": 63.0,
+            "gain": -9.31
+          },
+          {
+            "angle": 66.0,
+            "gain": -9.33
+          },
+          {
+            "angle": 69.0,
+            "gain": -8.78
+          },
+          {
+            "angle": 72.0,
+            "gain": -7.71
+          },
+          {
+            "angle": 75.0,
+            "gain": -6.5
+          },
+          {
+            "angle": 78.0,
+            "gain": -5.22
+          },
+          {
+            "angle": 81.0,
+            "gain": -4.0
+          },
+          {
+            "angle": 84.0,
+            "gain": -2.88
+          },
+          {
+            "angle": 87.0,
+            "gain": -1.92
+          },
+          {
+            "angle": 90.0,
+            "gain": -1.07
+          },
+          {
+            "angle": 93.0,
+            "gain": -0.36
+          },
+          {
+            "angle": 96.0,
+            "gain": 0.18
+          },
+          {
+            "angle": 99.0,
+            "gain": 0.6
+          },
+          {
+            "angle": 102.0,
+            "gain": 0.88
+          },
+          {
+            "angle": 105.0,
+            "gain": 1.11
+          },
+          {
+            "angle": 108.0,
+            "gain": 1.28
+          },
+          {
+            "angle": 111.0,
+            "gain": 1.42
+          },
+          {
+            "angle": 114.0,
+            "gain": 1.54
+          },
+          {
+            "angle": 117.0,
+            "gain": 1.64
+          },
+          {
+            "angle": 120.0,
+            "gain": 1.73
+          },
+          {
+            "angle": 123.0,
+            "gain": 1.78
+          },
+          {
+            "angle": 126.0,
+            "gain": 1.84
+          },
+          {
+            "angle": 129.0,
+            "gain": 1.85
+          },
+          {
+            "angle": 132.0,
+            "gain": 1.83
+          },
+          {
+            "angle": 135.0,
+            "gain": 1.72
+          },
+          {
+            "angle": 138.0,
+            "gain": 1.53
+          },
+          {
+            "angle": 141.0,
+            "gain": 1.25
+          },
+          {
+            "angle": 144.0,
+            "gain": 0.87
+          },
+          {
+            "angle": 147.0,
+            "gain": 0.43
+          },
+          {
+            "angle": 150.0,
+            "gain": -0.05
+          },
+          {
+            "angle": 153.0,
+            "gain": -0.54
+          },
+          {
+            "angle": 156.0,
+            "gain": -1.0
+          },
+          {
+            "angle": 159.0,
+            "gain": -1.34
+          },
+          {
+            "angle": 162.0,
+            "gain": -1.59
+          },
+          {
+            "angle": 165.0,
+            "gain": -1.74
+          },
+          {
+            "angle": 168.0,
+            "gain": -1.83
+          },
+          {
+            "angle": 171.0,
+            "gain": -1.86
+          },
+          {
+            "angle": 174.0,
+            "gain": -1.82
+          },
+          {
+            "angle": 177.0,
+            "gain": -1.82
+          },
+          {
+            "angle": 180.0,
+            "gain": -1.78
+          },
+          {
+            "angle": 183.0,
+            "gain": -1.75
+          },
+          {
+            "angle": 186.0,
+            "gain": -1.75
+          },
+          {
+            "angle": 189.0,
+            "gain": -1.74
+          },
+          {
+            "angle": 192.0,
+            "gain": -1.77
+          },
+          {
+            "angle": 195.0,
+            "gain": -1.83
+          },
+          {
+            "angle": 198.0,
+            "gain": -1.88
+          },
+          {
+            "angle": 201.0,
+            "gain": -1.93
+          },
+          {
+            "angle": 204.0,
+            "gain": -1.88
+          },
+          {
+            "angle": 207.0,
+            "gain": -1.75
+          },
+          {
+            "angle": 210.0,
+            "gain": -1.55
+          },
+          {
+            "angle": 213.0,
+            "gain": -1.24
+          },
+          {
+            "angle": 216.0,
+            "gain": -0.87
+          },
+          {
+            "angle": 219.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 222.0,
+            "gain": -0.2
+          },
+          {
+            "angle": 225.0,
+            "gain": 0.03
+          },
+          {
+            "angle": 228.0,
+            "gain": 0.18
+          },
+          {
+            "angle": 231.0,
+            "gain": 0.24
+          },
+          {
+            "angle": 234.0,
+            "gain": 0.21
+          },
+          {
+            "angle": 237.0,
+            "gain": 0.18
+          },
+          {
+            "angle": 240.0,
+            "gain": 0.09
+          },
+          {
+            "angle": 243.0,
+            "gain": 0.0
+          },
+          {
+            "angle": 246.0,
+            "gain": -0.09
+          },
+          {
+            "angle": 249.0,
+            "gain": -0.17
+          },
+          {
+            "angle": 252.0,
+            "gain": -0.25
+          },
+          {
+            "angle": 255.0,
+            "gain": -0.35
+          },
+          {
+            "angle": 258.0,
+            "gain": -0.47
+          },
+          {
+            "angle": 261.0,
+            "gain": -0.65
+          },
+          {
+            "angle": 264.0,
+            "gain": -0.89
+          },
+          {
+            "angle": 267.0,
+            "gain": -1.23
+          },
+          {
+            "angle": 270.0,
+            "gain": -1.64
+          },
+          {
+            "angle": 273.0,
+            "gain": -2.17
+          },
+          {
+            "angle": 276.0,
+            "gain": -2.81
+          },
+          {
+            "angle": 279.0,
+            "gain": -3.56
+          },
+          {
+            "angle": 282.0,
+            "gain": -4.5
+          },
+          {
+            "angle": 285.0,
+            "gain": -5.63
+          },
+          {
+            "angle": 288.0,
+            "gain": -6.95
+          },
+          {
+            "angle": 291.0,
+            "gain": -8.32
+          },
+          {
+            "angle": 294.0,
+            "gain": -9.5
+          },
+          {
+            "angle": 297.0,
+            "gain": -9.93
+          },
+          {
+            "angle": 300.0,
+            "gain": -9.55
+          },
+          {
+            "angle": 303.0,
+            "gain": -8.81
+          },
+          {
+            "angle": 306.0,
+            "gain": -8.16
+          },
+          {
+            "angle": 309.0,
+            "gain": -7.72
+          },
+          {
+            "angle": 312.0,
+            "gain": -7.65
+          },
+          {
+            "angle": 315.0,
+            "gain": -7.83
+          },
+          {
+            "angle": 318.0,
+            "gain": -8.33
+          },
+          {
+            "angle": 321.0,
+            "gain": -9.01
+          },
+          {
+            "angle": 324.0,
+            "gain": -9.76
+          },
+          {
+            "angle": 327.0,
+            "gain": -10.46
+          },
+          {
+            "angle": 330.0,
+            "gain": -10.92
+          },
+          {
+            "angle": 333.0,
+            "gain": -10.89
+          },
+          {
+            "angle": 336.0,
+            "gain": -10.43
+          },
+          {
+            "angle": 339.0,
+            "gain": -9.85
+          },
+          {
+            "angle": 342.0,
+            "gain": -9.38
+          },
+          {
+            "angle": 345.0,
+            "gain": -9.09
+          },
+          {
+            "angle": 348.0,
+            "gain": -9.28
+          },
+          {
+            "angle": 351.0,
+            "gain": -9.77
+          },
+          {
+            "angle": 354.0,
+            "gain": -10.59
+          },
+          {
+            "angle": 357.0,
+            "gain": -11.26
+          }
+        ]
+      },
+      "radioTechnology": "BLUETOOTH",
+      "defaultMounting": "CEILING",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "0d154e97-0a37-47f0-b764-91cbe055167d",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AIR-ANT2547V-N 5GHz 7dBi",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "FIVE",
+      "apVendor": "Cisco",
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 5.6
+          },
+          {
+            "angle": 5.0,
+            "gain": 5.4
+          },
+          {
+            "angle": 10.0,
+            "gain": 5.4
+          },
+          {
+            "angle": 15.0,
+            "gain": 5.4
+          },
+          {
+            "angle": 20.0,
+            "gain": 5.6
+          },
+          {
+            "angle": 25.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 30.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 35.0,
+            "gain": 5.4
+          },
+          {
+            "angle": 40.0,
+            "gain": 5.4
+          },
+          {
+            "angle": 45.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 50.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 55.0,
+            "gain": 5.0
+          },
+          {
+            "angle": 60.0,
+            "gain": 5.0
+          },
+          {
+            "angle": 65.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 70.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 75.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 80.0,
+            "gain": 5.2
+          },
+          {
+            "angle": 85.0,
+            "gain": 5.6
+          },
+          {
+            "angle": 90.0,
+            "gain": 5.8
+          },
+          {
+            "angle": 95.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 100.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 105.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 110.0,
+            "gain": 6.4
+          },
+          {
+            "angle": 115.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 120.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 125.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 130.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 135.0,
+            "gain": 7.0
+          },
+          {
+            "angle": 140.0,
+            "gain": 7.0
+          },
+          {
+            "angle": 145.0,
+            "gain": 7.0
+          },
+          {
+            "angle": 150.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 155.0,
+            "gain": 6.4
+          },
+          {
+            "angle": 160.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 165.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 170.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 175.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 180.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 185.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 190.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 195.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 200.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 205.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 210.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 215.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 220.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 225.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 230.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 235.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 240.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 245.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 250.0,
+            "gain": 5.8
+          },
+          {
+            "angle": 255.0,
+            "gain": 5.8
+          },
+          {
+            "angle": 260.0,
+            "gain": 5.8
+          },
+          {
+            "angle": 265.0,
+            "gain": 5.8
+          },
+          {
+            "angle": 270.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 275.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 280.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 285.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 290.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 295.0,
+            "gain": 6.4
+          },
+          {
+            "angle": 300.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 305.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 310.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 315.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 320.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 325.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 330.0,
+            "gain": 6.4
+          },
+          {
+            "angle": 335.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 340.0,
+            "gain": 6.2
+          },
+          {
+            "angle": 345.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 350.0,
+            "gain": 6.0
+          },
+          {
+            "angle": 355.0,
+            "gain": 5.8
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 90.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -12.8
+          },
+          {
+            "angle": 5.0,
+            "gain": -12.0
+          },
+          {
+            "angle": 10.0,
+            "gain": -10.4
+          },
+          {
+            "angle": 15.0,
+            "gain": -9.2
+          },
+          {
+            "angle": 20.0,
+            "gain": -12.8
+          },
+          {
+            "angle": 25.0,
+            "gain": -13.2
+          },
+          {
+            "angle": 30.0,
+            "gain": -7.8
+          },
+          {
+            "angle": 35.0,
+            "gain": -10.8
+          },
+          {
+            "angle": 40.0,
+            "gain": -10.0
+          },
+          {
+            "angle": 45.0,
+            "gain": -7.6
+          },
+          {
+            "angle": 50.0,
+            "gain": -14.6
+          },
+          {
+            "angle": 55.0,
+            "gain": -10.4
+          },
+          {
+            "angle": 60.0,
+            "gain": -11.2
+          },
+          {
+            "angle": 65.0,
+            "gain": -3.8
+          },
+          {
+            "angle": 70.0,
+            "gain": -5.0
+          },
+          {
+            "angle": 75.0,
+            "gain": -13.6
+          },
+          {
+            "angle": 80.0,
+            "gain": -3.6
+          },
+          {
+            "angle": 85.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 90.0,
+            "gain": 6.8
+          },
+          {
+            "angle": 95.0,
+            "gain": 6.6
+          },
+          {
+            "angle": 100.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 105.0,
+            "gain": -5.8
+          },
+          {
+            "angle": 110.0,
+            "gain": -14.0
+          },
+          {
+            "angle": 115.0,
+            "gain": -7.4
+          },
+          {
+            "angle": 120.0,
+            "gain": -10.6
+          },
+          {
+            "angle": 125.0,
+            "gain": -15.8
+          },
+          {
+            "angle": 130.0,
+            "gain": -24.8
+          },
+          {
+            "angle": 135.0,
+            "gain": -18.6
+          },
+          {
+            "angle": 140.0,
+            "gain": -15.6
+          },
+          {
+            "angle": 145.0,
+            "gain": -16.6
+          },
+          {
+            "angle": 150.0,
+            "gain": -20.0
+          },
+          {
+            "angle": 155.0,
+            "gain": -25.6
+          },
+          {
+            "angle": 160.0,
+            "gain": -25.6
+          },
+          {
+            "angle": 165.0,
+            "gain": -20.8
+          },
+          {
+            "angle": 170.0,
+            "gain": -22.2
+          },
+          {
+            "angle": 175.0,
+            "gain": -27.4
+          },
+          {
+            "angle": 180.0,
+            "gain": -27.0
+          },
+          {
+            "angle": 185.0,
+            "gain": -26.2
+          },
+          {
+            "angle": 190.0,
+            "gain": -24.2
+          },
+          {
+            "angle": 195.0,
+            "gain": -20.4
+          },
+          {
+            "angle": 200.0,
+            "gain": -24.6
+          },
+          {
+            "angle": 205.0,
+            "gain": -25.2
+          },
+          {
+            "angle": 210.0,
+            "gain": -25.4
+          },
+          {
+            "angle": 215.0,
+            "gain": -19.4
+          },
+          {
+            "angle": 220.0,
+            "gain": -17.0
+          },
+          {
+            "angle": 225.0,
+            "gain": -19.4
+          },
+          {
+            "angle": 230.0,
+            "gain": -18.0
+          },
+          {
+            "angle": 235.0,
+            "gain": -17.4
+          },
+          {
+            "angle": 240.0,
+            "gain": -14.4
+          },
+          {
+            "angle": 245.0,
+            "gain": -11.2
+          },
+          {
+            "angle": 250.0,
+            "gain": -10.2
+          },
+          {
+            "angle": 255.0,
+            "gain": -13.4
+          },
+          {
+            "angle": 260.0,
+            "gain": -3.0
+          },
+          {
+            "angle": 265.0,
+            "gain": 3.0
+          },
+          {
+            "angle": 270.0,
+            "gain": 5.8
+          },
+          {
+            "angle": 275.0,
+            "gain": 4.8
+          },
+          {
+            "angle": 280.0,
+            "gain": 0.0
+          },
+          {
+            "angle": 285.0,
+            "gain": -10.4
+          },
+          {
+            "angle": 290.0,
+            "gain": -9.8
+          },
+          {
+            "angle": 295.0,
+            "gain": -3.4
+          },
+          {
+            "angle": 300.0,
+            "gain": -4.6
+          },
+          {
+            "angle": 305.0,
+            "gain": -13.0
+          },
+          {
+            "angle": 310.0,
+            "gain": -12.2
+          },
+          {
+            "angle": 315.0,
+            "gain": -17.8
+          },
+          {
+            "angle": 320.0,
+            "gain": -9.8
+          },
+          {
+            "angle": 325.0,
+            "gain": -19.2
+          },
+          {
+            "angle": 330.0,
+            "gain": -10.0
+          },
+          {
+            "angle": 335.0,
+            "gain": -8.4
+          },
+          {
+            "angle": 340.0,
+            "gain": -11.0
+          },
+          {
+            "angle": 345.0,
+            "gain": -12.0
+          },
+          {
+            "angle": 350.0,
+            "gain": -12.4
+          },
+          {
+            "angle": 355.0,
+            "gain": -13.0
+          }
+        ]
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "WALL",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "8761f212-a2fb-43c1-869b-a68dd32d7387",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AP4800 Macro 2.4GHz",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "TWO",
+      "apVendor": "Cisco",
+      "apModel": "AP4800",
+      "maxGain": 2.5,
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -0.41
+          },
+          {
+            "angle": 3.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 6.0,
+            "gain": -0.64
+          },
+          {
+            "angle": 9.0,
+            "gain": -0.67
+          },
+          {
+            "angle": 12.0,
+            "gain": -0.57
+          },
+          {
+            "angle": 15.0,
+            "gain": -0.34
+          },
+          {
+            "angle": 18.0,
+            "gain": -0.06
+          },
+          {
+            "angle": 21.0,
+            "gain": 0.2
+          },
+          {
+            "angle": 24.0,
+            "gain": 0.41
+          },
+          {
+            "angle": 27.0,
+            "gain": 0.54
+          },
+          {
+            "angle": 30.0,
+            "gain": 0.6
+          },
+          {
+            "angle": 33.0,
+            "gain": 0.62
+          },
+          {
+            "angle": 36.0,
+            "gain": 0.59
+          },
+          {
+            "angle": 39.0,
+            "gain": 0.54
+          },
+          {
+            "angle": 42.0,
+            "gain": 0.49
+          },
+          {
+            "angle": 45.0,
+            "gain": 0.46
+          },
+          {
+            "angle": 48.0,
+            "gain": 0.47
+          },
+          {
+            "angle": 51.0,
+            "gain": 0.53
+          },
+          {
+            "angle": 54.0,
+            "gain": 0.6
+          },
+          {
+            "angle": 57.0,
+            "gain": 0.63
+          },
+          {
+            "angle": 60.0,
+            "gain": 0.6
+          },
+          {
+            "angle": 63.0,
+            "gain": 0.47
+          },
+          {
+            "angle": 66.0,
+            "gain": 0.23
+          },
+          {
+            "angle": 69.0,
+            "gain": -0.09
+          },
+          {
+            "angle": 72.0,
+            "gain": -0.44
+          },
+          {
+            "angle": 75.0,
+            "gain": -0.77
+          },
+          {
+            "angle": 78.0,
+            "gain": -1.05
+          },
+          {
+            "angle": 81.0,
+            "gain": -1.24
+          },
+          {
+            "angle": 84.0,
+            "gain": -1.32
+          },
+          {
+            "angle": 87.0,
+            "gain": -1.3
+          },
+          {
+            "angle": 90.0,
+            "gain": -1.18
+          },
+          {
+            "angle": 93.0,
+            "gain": -0.94
+          },
+          {
+            "angle": 96.0,
+            "gain": -0.74
+          },
+          {
+            "angle": 99.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 102.0,
+            "gain": -0.29
+          },
+          {
+            "angle": 105.0,
+            "gain": -0.05
+          },
+          {
+            "angle": 108.0,
+            "gain": 0.23
+          },
+          {
+            "angle": 111.0,
+            "gain": 0.54
+          },
+          {
+            "angle": 114.0,
+            "gain": 0.9
+          },
+          {
+            "angle": 117.0,
+            "gain": 1.25
+          },
+          {
+            "angle": 120.0,
+            "gain": 1.56
+          },
+          {
+            "angle": 123.0,
+            "gain": 1.77
+          },
+          {
+            "angle": 126.0,
+            "gain": 1.89
+          },
+          {
+            "angle": 129.0,
+            "gain": 1.93
+          },
+          {
+            "angle": 132.0,
+            "gain": 1.92
+          },
+          {
+            "angle": 135.0,
+            "gain": 1.92
+          },
+          {
+            "angle": 138.0,
+            "gain": 1.93
+          },
+          {
+            "angle": 141.0,
+            "gain": 1.95
+          },
+          {
+            "angle": 144.0,
+            "gain": 1.95
+          },
+          {
+            "angle": 147.0,
+            "gain": 1.92
+          },
+          {
+            "angle": 150.0,
+            "gain": 1.87
+          },
+          {
+            "angle": 153.0,
+            "gain": 1.83
+          },
+          {
+            "angle": 156.0,
+            "gain": 1.83
+          },
+          {
+            "angle": 159.0,
+            "gain": 1.89
+          },
+          {
+            "angle": 162.0,
+            "gain": 1.99
+          },
+          {
+            "angle": 165.0,
+            "gain": 2.11
+          },
+          {
+            "angle": 168.0,
+            "gain": 2.22
+          },
+          {
+            "angle": 171.0,
+            "gain": 2.31
+          },
+          {
+            "angle": 174.0,
+            "gain": 2.35
+          },
+          {
+            "angle": 177.0,
+            "gain": 2.35
+          },
+          {
+            "angle": 180.0,
+            "gain": 2.33
+          },
+          {
+            "angle": 183.0,
+            "gain": 2.26
+          },
+          {
+            "angle": 186.0,
+            "gain": 2.23
+          },
+          {
+            "angle": 189.0,
+            "gain": 2.23
+          },
+          {
+            "angle": 192.0,
+            "gain": 2.25
+          },
+          {
+            "angle": 195.0,
+            "gain": 2.27
+          },
+          {
+            "angle": 198.0,
+            "gain": 2.28
+          },
+          {
+            "angle": 201.0,
+            "gain": 2.3
+          },
+          {
+            "angle": 204.0,
+            "gain": 2.33
+          },
+          {
+            "angle": 207.0,
+            "gain": 2.36
+          },
+          {
+            "angle": 210.0,
+            "gain": 2.38
+          },
+          {
+            "angle": 213.0,
+            "gain": 2.35
+          },
+          {
+            "angle": 216.0,
+            "gain": 2.25
+          },
+          {
+            "angle": 219.0,
+            "gain": 2.1
+          },
+          {
+            "angle": 222.0,
+            "gain": 1.95
+          },
+          {
+            "angle": 225.0,
+            "gain": 1.84
+          },
+          {
+            "angle": 228.0,
+            "gain": 1.81
+          },
+          {
+            "angle": 231.0,
+            "gain": 1.88
+          },
+          {
+            "angle": 234.0,
+            "gain": 2.01
+          },
+          {
+            "angle": 237.0,
+            "gain": 2.15
+          },
+          {
+            "angle": 240.0,
+            "gain": 2.25
+          },
+          {
+            "angle": 243.0,
+            "gain": 2.27
+          },
+          {
+            "angle": 246.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 249.0,
+            "gain": 2.05
+          },
+          {
+            "angle": 252.0,
+            "gain": 1.84
+          },
+          {
+            "angle": 255.0,
+            "gain": 1.59
+          },
+          {
+            "angle": 258.0,
+            "gain": 1.32
+          },
+          {
+            "angle": 261.0,
+            "gain": 1.08
+          },
+          {
+            "angle": 264.0,
+            "gain": 0.87
+          },
+          {
+            "angle": 267.0,
+            "gain": 0.71
+          },
+          {
+            "angle": 270.0,
+            "gain": 0.6
+          },
+          {
+            "angle": 273.0,
+            "gain": 0.43
+          },
+          {
+            "angle": 276.0,
+            "gain": 0.43
+          },
+          {
+            "angle": 279.0,
+            "gain": 0.48
+          },
+          {
+            "angle": 282.0,
+            "gain": 0.56
+          },
+          {
+            "angle": 285.0,
+            "gain": 0.69
+          },
+          {
+            "angle": 288.0,
+            "gain": 0.85
+          },
+          {
+            "angle": 291.0,
+            "gain": 1.04
+          },
+          {
+            "angle": 294.0,
+            "gain": 1.24
+          },
+          {
+            "angle": 297.0,
+            "gain": 1.43
+          },
+          {
+            "angle": 300.0,
+            "gain": 1.57
+          },
+          {
+            "angle": 303.0,
+            "gain": 1.65
+          },
+          {
+            "angle": 306.0,
+            "gain": 1.68
+          },
+          {
+            "angle": 309.0,
+            "gain": 1.67
+          },
+          {
+            "angle": 312.0,
+            "gain": 1.64
+          },
+          {
+            "angle": 315.0,
+            "gain": 1.62
+          },
+          {
+            "angle": 318.0,
+            "gain": 1.62
+          },
+          {
+            "angle": 321.0,
+            "gain": 1.62
+          },
+          {
+            "angle": 324.0,
+            "gain": 1.6
+          },
+          {
+            "angle": 327.0,
+            "gain": 1.53
+          },
+          {
+            "angle": 330.0,
+            "gain": 1.38
+          },
+          {
+            "angle": 333.0,
+            "gain": 1.14
+          },
+          {
+            "angle": 336.0,
+            "gain": 0.81
+          },
+          {
+            "angle": 339.0,
+            "gain": 0.44
+          },
+          {
+            "angle": 342.0,
+            "gain": 0.06
+          },
+          {
+            "angle": 345.0,
+            "gain": -0.27
+          },
+          {
+            "angle": 348.0,
+            "gain": -0.47
+          },
+          {
+            "angle": 351.0,
+            "gain": -0.53
+          },
+          {
+            "angle": 354.0,
+            "gain": -0.49
+          },
+          {
+            "angle": 357.0,
+            "gain": -0.41
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 270.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -5.6
+          },
+          {
+            "angle": 3.0,
+            "gain": -5.02
+          },
+          {
+            "angle": 6.0,
+            "gain": -4.45
+          },
+          {
+            "angle": 9.0,
+            "gain": -3.93
+          },
+          {
+            "angle": 12.0,
+            "gain": -3.48
+          },
+          {
+            "angle": 15.0,
+            "gain": -3.1
+          },
+          {
+            "angle": 18.0,
+            "gain": -2.84
+          },
+          {
+            "angle": 21.0,
+            "gain": -2.73
+          },
+          {
+            "angle": 24.0,
+            "gain": -2.76
+          },
+          {
+            "angle": 27.0,
+            "gain": -2.88
+          },
+          {
+            "angle": 30.0,
+            "gain": -3.01
+          },
+          {
+            "angle": 33.0,
+            "gain": -3.08
+          },
+          {
+            "angle": 36.0,
+            "gain": -3.09
+          },
+          {
+            "angle": 39.0,
+            "gain": -3.07
+          },
+          {
+            "angle": 42.0,
+            "gain": -3.05
+          },
+          {
+            "angle": 45.0,
+            "gain": -3.03
+          },
+          {
+            "angle": 48.0,
+            "gain": -3.03
+          },
+          {
+            "angle": 51.0,
+            "gain": -3.03
+          },
+          {
+            "angle": 54.0,
+            "gain": -3.04
+          },
+          {
+            "angle": 57.0,
+            "gain": -3.05
+          },
+          {
+            "angle": 60.0,
+            "gain": -3.06
+          },
+          {
+            "angle": 63.0,
+            "gain": -3.02
+          },
+          {
+            "angle": 66.0,
+            "gain": -2.91
+          },
+          {
+            "angle": 69.0,
+            "gain": -2.71
+          },
+          {
+            "angle": 72.0,
+            "gain": -2.4
+          },
+          {
+            "angle": 75.0,
+            "gain": -2.02
+          },
+          {
+            "angle": 78.0,
+            "gain": -1.62
+          },
+          {
+            "angle": 81.0,
+            "gain": -1.21
+          },
+          {
+            "angle": 84.0,
+            "gain": -0.82
+          },
+          {
+            "angle": 87.0,
+            "gain": -0.46
+          },
+          {
+            "angle": 90.0,
+            "gain": -0.13
+          },
+          {
+            "angle": 93.0,
+            "gain": 0.18
+          },
+          {
+            "angle": 96.0,
+            "gain": 0.48
+          },
+          {
+            "angle": 99.0,
+            "gain": 0.77
+          },
+          {
+            "angle": 102.0,
+            "gain": 1.03
+          },
+          {
+            "angle": 105.0,
+            "gain": 1.25
+          },
+          {
+            "angle": 108.0,
+            "gain": 1.43
+          },
+          {
+            "angle": 111.0,
+            "gain": 1.57
+          },
+          {
+            "angle": 114.0,
+            "gain": 1.65
+          },
+          {
+            "angle": 117.0,
+            "gain": 1.67
+          },
+          {
+            "angle": 120.0,
+            "gain": 1.65
+          },
+          {
+            "angle": 123.0,
+            "gain": 1.58
+          },
+          {
+            "angle": 126.0,
+            "gain": 1.49
+          },
+          {
+            "angle": 129.0,
+            "gain": 1.37
+          },
+          {
+            "angle": 132.0,
+            "gain": 1.22
+          },
+          {
+            "angle": 135.0,
+            "gain": 1.06
+          },
+          {
+            "angle": 138.0,
+            "gain": 0.87
+          },
+          {
+            "angle": 141.0,
+            "gain": 0.63
+          },
+          {
+            "angle": 144.0,
+            "gain": 0.35
+          },
+          {
+            "angle": 147.0,
+            "gain": 0.02
+          },
+          {
+            "angle": 150.0,
+            "gain": -0.34
+          },
+          {
+            "angle": 153.0,
+            "gain": -0.73
+          },
+          {
+            "angle": 156.0,
+            "gain": -1.16
+          },
+          {
+            "angle": 159.0,
+            "gain": -1.64
+          },
+          {
+            "angle": 162.0,
+            "gain": -2.21
+          },
+          {
+            "angle": 165.0,
+            "gain": -2.9
+          },
+          {
+            "angle": 168.0,
+            "gain": -3.74
+          },
+          {
+            "angle": 171.0,
+            "gain": -4.72
+          },
+          {
+            "angle": 174.0,
+            "gain": -5.8
+          },
+          {
+            "angle": 177.0,
+            "gain": -6.84
+          },
+          {
+            "angle": 180.0,
+            "gain": -7.44
+          },
+          {
+            "angle": 183.0,
+            "gain": -7.22
+          },
+          {
+            "angle": 186.0,
+            "gain": -6.24
+          },
+          {
+            "angle": 189.0,
+            "gain": -4.94
+          },
+          {
+            "angle": 192.0,
+            "gain": -3.74
+          },
+          {
+            "angle": 195.0,
+            "gain": -2.77
+          },
+          {
+            "angle": 198.0,
+            "gain": -2.06
+          },
+          {
+            "angle": 201.0,
+            "gain": -1.56
+          },
+          {
+            "angle": 204.0,
+            "gain": -1.19
+          },
+          {
+            "angle": 207.0,
+            "gain": -0.87
+          },
+          {
+            "angle": 210.0,
+            "gain": -0.53
+          },
+          {
+            "angle": 213.0,
+            "gain": -0.13
+          },
+          {
+            "angle": 216.0,
+            "gain": 0.34
+          },
+          {
+            "angle": 219.0,
+            "gain": 0.82
+          },
+          {
+            "angle": 222.0,
+            "gain": 1.28
+          },
+          {
+            "angle": 225.0,
+            "gain": 1.69
+          },
+          {
+            "angle": 228.0,
+            "gain": 2.02
+          },
+          {
+            "angle": 231.0,
+            "gain": 2.25
+          },
+          {
+            "angle": 234.0,
+            "gain": 2.41
+          },
+          {
+            "angle": 237.0,
+            "gain": 2.48
+          },
+          {
+            "angle": 240.0,
+            "gain": 2.5
+          },
+          {
+            "angle": 243.0,
+            "gain": 2.45
+          },
+          {
+            "angle": 246.0,
+            "gain": 2.36
+          },
+          {
+            "angle": 249.0,
+            "gain": 2.23
+          },
+          {
+            "angle": 252.0,
+            "gain": 2.06
+          },
+          {
+            "angle": 255.0,
+            "gain": 1.83
+          },
+          {
+            "angle": 258.0,
+            "gain": 1.56
+          },
+          {
+            "angle": 261.0,
+            "gain": 1.26
+          },
+          {
+            "angle": 264.0,
+            "gain": 0.92
+          },
+          {
+            "angle": 267.0,
+            "gain": 0.58
+          },
+          {
+            "angle": 270.0,
+            "gain": 0.24
+          },
+          {
+            "angle": 273.0,
+            "gain": -0.12
+          },
+          {
+            "angle": 276.0,
+            "gain": -0.49
+          },
+          {
+            "angle": 279.0,
+            "gain": -0.9
+          },
+          {
+            "angle": 282.0,
+            "gain": -1.35
+          },
+          {
+            "angle": 285.0,
+            "gain": -1.84
+          },
+          {
+            "angle": 288.0,
+            "gain": -2.31
+          },
+          {
+            "angle": 291.0,
+            "gain": -2.7
+          },
+          {
+            "angle": 294.0,
+            "gain": -2.93
+          },
+          {
+            "angle": 297.0,
+            "gain": -2.98
+          },
+          {
+            "angle": 300.0,
+            "gain": -2.91
+          },
+          {
+            "angle": 303.0,
+            "gain": -2.83
+          },
+          {
+            "angle": 306.0,
+            "gain": -2.84
+          },
+          {
+            "angle": 309.0,
+            "gain": -2.97
+          },
+          {
+            "angle": 312.0,
+            "gain": -3.23
+          },
+          {
+            "angle": 315.0,
+            "gain": -3.58
+          },
+          {
+            "angle": 318.0,
+            "gain": -3.95
+          },
+          {
+            "angle": 321.0,
+            "gain": -4.28
+          },
+          {
+            "angle": 324.0,
+            "gain": -4.52
+          },
+          {
+            "angle": 327.0,
+            "gain": -4.67
+          },
+          {
+            "angle": 330.0,
+            "gain": -4.7
+          },
+          {
+            "angle": 333.0,
+            "gain": -4.65
+          },
+          {
+            "angle": 336.0,
+            "gain": -4.56
+          },
+          {
+            "angle": 339.0,
+            "gain": -4.54
+          },
+          {
+            "angle": 342.0,
+            "gain": -4.66
+          },
+          {
+            "angle": 345.0,
+            "gain": -4.99
+          },
+          {
+            "angle": 348.0,
+            "gain": -5.49
+          },
+          {
+            "angle": 351.0,
+            "gain": -5.99
+          },
+          {
+            "angle": 354.0,
+            "gain": -6.21
+          },
+          {
+            "angle": 357.0,
+            "gain": -6.05
+          }
+        ]
+      },
+      "antennaWcsMapping": {
+        "apModel": "AP4800",
+        "antennaName": "Internal-4800-Dual-2.4GHz",
+        "antennaType": "Internal"
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "CEILING",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "9b2932a8-1f03-4f57-b8a9-f2fb262e335e",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AP4800 Macro 5GHz",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "FIVE",
+      "apVendor": "Cisco",
+      "apModel": "AP4800",
+      "maxGain": 3.5,
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -0.31
+          },
+          {
+            "angle": 3.0,
+            "gain": -0.13
+          },
+          {
+            "angle": 6.0,
+            "gain": -0.18
+          },
+          {
+            "angle": 9.0,
+            "gain": -0.41
+          },
+          {
+            "angle": 12.0,
+            "gain": -0.66
+          },
+          {
+            "angle": 15.0,
+            "gain": -0.7
+          },
+          {
+            "angle": 18.0,
+            "gain": -0.55
+          },
+          {
+            "angle": 21.0,
+            "gain": -0.39
+          },
+          {
+            "angle": 24.0,
+            "gain": -0.32
+          },
+          {
+            "angle": 27.0,
+            "gain": -0.29
+          },
+          {
+            "angle": 30.0,
+            "gain": -0.35
+          },
+          {
+            "angle": 33.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 36.0,
+            "gain": -0.51
+          },
+          {
+            "angle": 39.0,
+            "gain": -0.3
+          },
+          {
+            "angle": 42.0,
+            "gain": -0.21
+          },
+          {
+            "angle": 45.0,
+            "gain": -0.37
+          },
+          {
+            "angle": 48.0,
+            "gain": -0.68
+          },
+          {
+            "angle": 51.0,
+            "gain": -0.91
+          },
+          {
+            "angle": 54.0,
+            "gain": -0.98
+          },
+          {
+            "angle": 57.0,
+            "gain": -0.94
+          },
+          {
+            "angle": 60.0,
+            "gain": -0.98
+          },
+          {
+            "angle": 63.0,
+            "gain": -1.09
+          },
+          {
+            "angle": 66.0,
+            "gain": -1.26
+          },
+          {
+            "angle": 69.0,
+            "gain": -1.5
+          },
+          {
+            "angle": 72.0,
+            "gain": -1.83
+          },
+          {
+            "angle": 75.0,
+            "gain": -2.22
+          },
+          {
+            "angle": 78.0,
+            "gain": -2.48
+          },
+          {
+            "angle": 81.0,
+            "gain": -2.48
+          },
+          {
+            "angle": 84.0,
+            "gain": -2.25
+          },
+          {
+            "angle": 87.0,
+            "gain": -1.93
+          },
+          {
+            "angle": 90.0,
+            "gain": -1.67
+          },
+          {
+            "angle": 93.0,
+            "gain": -1.58
+          },
+          {
+            "angle": 96.0,
+            "gain": -1.52
+          },
+          {
+            "angle": 99.0,
+            "gain": -1.23
+          },
+          {
+            "angle": 102.0,
+            "gain": -0.66
+          },
+          {
+            "angle": 105.0,
+            "gain": -0.12
+          },
+          {
+            "angle": 108.0,
+            "gain": 0.1
+          },
+          {
+            "angle": 111.0,
+            "gain": 0.04
+          },
+          {
+            "angle": 114.0,
+            "gain": -0.23
+          },
+          {
+            "angle": 117.0,
+            "gain": -0.61
+          },
+          {
+            "angle": 120.0,
+            "gain": -0.94
+          },
+          {
+            "angle": 123.0,
+            "gain": -0.96
+          },
+          {
+            "angle": 126.0,
+            "gain": -0.71
+          },
+          {
+            "angle": 129.0,
+            "gain": -0.44
+          },
+          {
+            "angle": 132.0,
+            "gain": -0.29
+          },
+          {
+            "angle": 135.0,
+            "gain": -0.36
+          },
+          {
+            "angle": 138.0,
+            "gain": -0.54
+          },
+          {
+            "angle": 141.0,
+            "gain": -0.71
+          },
+          {
+            "angle": 144.0,
+            "gain": -0.79
+          },
+          {
+            "angle": 147.0,
+            "gain": -0.68
+          },
+          {
+            "angle": 150.0,
+            "gain": -0.36
+          },
+          {
+            "angle": 153.0,
+            "gain": 0.04
+          },
+          {
+            "angle": 156.0,
+            "gain": 0.31
+          },
+          {
+            "angle": 159.0,
+            "gain": 0.44
+          },
+          {
+            "angle": 162.0,
+            "gain": 0.52
+          },
+          {
+            "angle": 165.0,
+            "gain": 0.6
+          },
+          {
+            "angle": 168.0,
+            "gain": 0.67
+          },
+          {
+            "angle": 171.0,
+            "gain": 0.73
+          },
+          {
+            "angle": 174.0,
+            "gain": 0.87
+          },
+          {
+            "angle": 177.0,
+            "gain": 1.04
+          },
+          {
+            "angle": 180.0,
+            "gain": 1.19
+          },
+          {
+            "angle": 183.0,
+            "gain": 1.25
+          },
+          {
+            "angle": 186.0,
+            "gain": 1.09
+          },
+          {
+            "angle": 189.0,
+            "gain": 0.69
+          },
+          {
+            "angle": 192.0,
+            "gain": 0.19
+          },
+          {
+            "angle": 195.0,
+            "gain": -0.16
+          },
+          {
+            "angle": 198.0,
+            "gain": -0.39
+          },
+          {
+            "angle": 201.0,
+            "gain": -0.77
+          },
+          {
+            "angle": 204.0,
+            "gain": -1.32
+          },
+          {
+            "angle": 207.0,
+            "gain": -1.78
+          },
+          {
+            "angle": 210.0,
+            "gain": -1.9
+          },
+          {
+            "angle": 213.0,
+            "gain": -1.64
+          },
+          {
+            "angle": 216.0,
+            "gain": -1.25
+          },
+          {
+            "angle": 219.0,
+            "gain": -0.91
+          },
+          {
+            "angle": 222.0,
+            "gain": -0.7
+          },
+          {
+            "angle": 225.0,
+            "gain": -0.58
+          },
+          {
+            "angle": 228.0,
+            "gain": -0.42
+          },
+          {
+            "angle": 231.0,
+            "gain": -0.17
+          },
+          {
+            "angle": 234.0,
+            "gain": -0.03
+          },
+          {
+            "angle": 237.0,
+            "gain": -0.06
+          },
+          {
+            "angle": 240.0,
+            "gain": -0.12
+          },
+          {
+            "angle": 243.0,
+            "gain": 0.0
+          },
+          {
+            "angle": 246.0,
+            "gain": 0.22
+          },
+          {
+            "angle": 249.0,
+            "gain": 0.23
+          },
+          {
+            "angle": 252.0,
+            "gain": 0.01
+          },
+          {
+            "angle": 255.0,
+            "gain": -0.29
+          },
+          {
+            "angle": 258.0,
+            "gain": -0.69
+          },
+          {
+            "angle": 261.0,
+            "gain": -1.24
+          },
+          {
+            "angle": 264.0,
+            "gain": -1.52
+          },
+          {
+            "angle": 267.0,
+            "gain": -1.26
+          },
+          {
+            "angle": 270.0,
+            "gain": -1.04
+          },
+          {
+            "angle": 273.0,
+            "gain": -1.21
+          },
+          {
+            "angle": 276.0,
+            "gain": -1.38
+          },
+          {
+            "angle": 279.0,
+            "gain": -1.29
+          },
+          {
+            "angle": 282.0,
+            "gain": -1.16
+          },
+          {
+            "angle": 285.0,
+            "gain": -1.19
+          },
+          {
+            "angle": 288.0,
+            "gain": -1.31
+          },
+          {
+            "angle": 291.0,
+            "gain": -1.58
+          },
+          {
+            "angle": 294.0,
+            "gain": -2.0
+          },
+          {
+            "angle": 297.0,
+            "gain": -2.18
+          },
+          {
+            "angle": 300.0,
+            "gain": -1.92
+          },
+          {
+            "angle": 303.0,
+            "gain": -1.63
+          },
+          {
+            "angle": 306.0,
+            "gain": -1.59
+          },
+          {
+            "angle": 309.0,
+            "gain": -1.67
+          },
+          {
+            "angle": 312.0,
+            "gain": -1.77
+          },
+          {
+            "angle": 315.0,
+            "gain": -1.76
+          },
+          {
+            "angle": 318.0,
+            "gain": -1.57
+          },
+          {
+            "angle": 321.0,
+            "gain": -1.36
+          },
+          {
+            "angle": 324.0,
+            "gain": -1.25
+          },
+          {
+            "angle": 327.0,
+            "gain": -1.18
+          },
+          {
+            "angle": 330.0,
+            "gain": -1.13
+          },
+          {
+            "angle": 333.0,
+            "gain": -1.17
+          },
+          {
+            "angle": 336.0,
+            "gain": -1.21
+          },
+          {
+            "angle": 339.0,
+            "gain": -1.15
+          },
+          {
+            "angle": 342.0,
+            "gain": -1.21
+          },
+          {
+            "angle": 345.0,
+            "gain": -1.42
+          },
+          {
+            "angle": 348.0,
+            "gain": -1.48
+          },
+          {
+            "angle": 351.0,
+            "gain": -1.33
+          },
+          {
+            "angle": 354.0,
+            "gain": -1.24
+          },
+          {
+            "angle": 357.0,
+            "gain": -1.08
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 270.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -10.03
+          },
+          {
+            "angle": 3.0,
+            "gain": -9.42
+          },
+          {
+            "angle": 6.0,
+            "gain": -8.0
+          },
+          {
+            "angle": 9.0,
+            "gain": -7.69
+          },
+          {
+            "angle": 12.0,
+            "gain": -8.93
+          },
+          {
+            "angle": 15.0,
+            "gain": -9.93
+          },
+          {
+            "angle": 18.0,
+            "gain": -9.43
+          },
+          {
+            "angle": 21.0,
+            "gain": -9.26
+          },
+          {
+            "angle": 24.0,
+            "gain": -9.77
+          },
+          {
+            "angle": 27.0,
+            "gain": -10.52
+          },
+          {
+            "angle": 30.0,
+            "gain": -10.72
+          },
+          {
+            "angle": 33.0,
+            "gain": -9.34
+          },
+          {
+            "angle": 36.0,
+            "gain": -7.49
+          },
+          {
+            "angle": 39.0,
+            "gain": -6.39
+          },
+          {
+            "angle": 42.0,
+            "gain": -5.77
+          },
+          {
+            "angle": 45.0,
+            "gain": -4.9
+          },
+          {
+            "angle": 48.0,
+            "gain": -3.91
+          },
+          {
+            "angle": 51.0,
+            "gain": -3.18
+          },
+          {
+            "angle": 54.0,
+            "gain": -2.82
+          },
+          {
+            "angle": 57.0,
+            "gain": -2.8
+          },
+          {
+            "angle": 60.0,
+            "gain": -2.87
+          },
+          {
+            "angle": 63.0,
+            "gain": -2.82
+          },
+          {
+            "angle": 66.0,
+            "gain": -2.55
+          },
+          {
+            "angle": 69.0,
+            "gain": -2.22
+          },
+          {
+            "angle": 72.0,
+            "gain": -1.96
+          },
+          {
+            "angle": 75.0,
+            "gain": -1.81
+          },
+          {
+            "angle": 78.0,
+            "gain": -1.75
+          },
+          {
+            "angle": 81.0,
+            "gain": -1.77
+          },
+          {
+            "angle": 84.0,
+            "gain": -1.72
+          },
+          {
+            "angle": 87.0,
+            "gain": -1.56
+          },
+          {
+            "angle": 90.0,
+            "gain": -1.23
+          },
+          {
+            "angle": 93.0,
+            "gain": -0.76
+          },
+          {
+            "angle": 96.0,
+            "gain": -0.19
+          },
+          {
+            "angle": 99.0,
+            "gain": 0.41
+          },
+          {
+            "angle": 102.0,
+            "gain": 1.04
+          },
+          {
+            "angle": 105.0,
+            "gain": 1.67
+          },
+          {
+            "angle": 108.0,
+            "gain": 2.26
+          },
+          {
+            "angle": 111.0,
+            "gain": 2.79
+          },
+          {
+            "angle": 114.0,
+            "gain": 3.21
+          },
+          {
+            "angle": 117.0,
+            "gain": 3.47
+          },
+          {
+            "angle": 120.0,
+            "gain": 3.5
+          },
+          {
+            "angle": 123.0,
+            "gain": 3.23
+          },
+          {
+            "angle": 126.0,
+            "gain": 2.67
+          },
+          {
+            "angle": 129.0,
+            "gain": 1.87
+          },
+          {
+            "angle": 132.0,
+            "gain": 0.99
+          },
+          {
+            "angle": 135.0,
+            "gain": 0.2
+          },
+          {
+            "angle": 138.0,
+            "gain": -0.32
+          },
+          {
+            "angle": 141.0,
+            "gain": -0.53
+          },
+          {
+            "angle": 144.0,
+            "gain": -0.57
+          },
+          {
+            "angle": 147.0,
+            "gain": -0.68
+          },
+          {
+            "angle": 150.0,
+            "gain": -0.94
+          },
+          {
+            "angle": 153.0,
+            "gain": -1.34
+          },
+          {
+            "angle": 156.0,
+            "gain": -1.93
+          },
+          {
+            "angle": 159.0,
+            "gain": -2.93
+          },
+          {
+            "angle": 162.0,
+            "gain": -4.5
+          },
+          {
+            "angle": 165.0,
+            "gain": -6.18
+          },
+          {
+            "angle": 168.0,
+            "gain": -7.02
+          },
+          {
+            "angle": 171.0,
+            "gain": -7.16
+          },
+          {
+            "angle": 174.0,
+            "gain": -7.2
+          },
+          {
+            "angle": 177.0,
+            "gain": -7.06
+          },
+          {
+            "angle": 180.0,
+            "gain": -6.77
+          },
+          {
+            "angle": 183.0,
+            "gain": -6.89
+          },
+          {
+            "angle": 186.0,
+            "gain": -7.76
+          },
+          {
+            "angle": 189.0,
+            "gain": -8.93
+          },
+          {
+            "angle": 192.0,
+            "gain": -8.71
+          },
+          {
+            "angle": 195.0,
+            "gain": -6.43
+          },
+          {
+            "angle": 198.0,
+            "gain": -3.93
+          },
+          {
+            "angle": 201.0,
+            "gain": -2.22
+          },
+          {
+            "angle": 204.0,
+            "gain": -1.35
+          },
+          {
+            "angle": 207.0,
+            "gain": -1.11
+          },
+          {
+            "angle": 210.0,
+            "gain": -1.18
+          },
+          {
+            "angle": 213.0,
+            "gain": -1.24
+          },
+          {
+            "angle": 216.0,
+            "gain": -1.16
+          },
+          {
+            "angle": 219.0,
+            "gain": -0.97
+          },
+          {
+            "angle": 222.0,
+            "gain": -0.66
+          },
+          {
+            "angle": 225.0,
+            "gain": -0.17
+          },
+          {
+            "angle": 228.0,
+            "gain": 0.51
+          },
+          {
+            "angle": 231.0,
+            "gain": 1.31
+          },
+          {
+            "angle": 234.0,
+            "gain": 2.08
+          },
+          {
+            "angle": 237.0,
+            "gain": 2.7
+          },
+          {
+            "angle": 240.0,
+            "gain": 3.1
+          },
+          {
+            "angle": 243.0,
+            "gain": 3.27
+          },
+          {
+            "angle": 246.0,
+            "gain": 3.25
+          },
+          {
+            "angle": 249.0,
+            "gain": 3.05
+          },
+          {
+            "angle": 252.0,
+            "gain": 2.71
+          },
+          {
+            "angle": 255.0,
+            "gain": 2.28
+          },
+          {
+            "angle": 258.0,
+            "gain": 1.77
+          },
+          {
+            "angle": 261.0,
+            "gain": 1.21
+          },
+          {
+            "angle": 264.0,
+            "gain": 0.65
+          },
+          {
+            "angle": 267.0,
+            "gain": 0.1
+          },
+          {
+            "angle": 270.0,
+            "gain": -0.36
+          },
+          {
+            "angle": 273.0,
+            "gain": -0.63
+          },
+          {
+            "angle": 276.0,
+            "gain": -0.71
+          },
+          {
+            "angle": 279.0,
+            "gain": -0.63
+          },
+          {
+            "angle": 282.0,
+            "gain": -0.51
+          },
+          {
+            "angle": 285.0,
+            "gain": -0.45
+          },
+          {
+            "angle": 288.0,
+            "gain": -0.51
+          },
+          {
+            "angle": 291.0,
+            "gain": -0.72
+          },
+          {
+            "angle": 294.0,
+            "gain": -1.01
+          },
+          {
+            "angle": 297.0,
+            "gain": -1.29
+          },
+          {
+            "angle": 300.0,
+            "gain": -1.48
+          },
+          {
+            "angle": 303.0,
+            "gain": -1.67
+          },
+          {
+            "angle": 306.0,
+            "gain": -2.02
+          },
+          {
+            "angle": 309.0,
+            "gain": -2.65
+          },
+          {
+            "angle": 312.0,
+            "gain": -3.58
+          },
+          {
+            "angle": 315.0,
+            "gain": -4.66
+          },
+          {
+            "angle": 318.0,
+            "gain": -5.37
+          },
+          {
+            "angle": 321.0,
+            "gain": -5.64
+          },
+          {
+            "angle": 324.0,
+            "gain": -6.18
+          },
+          {
+            "angle": 327.0,
+            "gain": -7.47
+          },
+          {
+            "angle": 330.0,
+            "gain": -9.44
+          },
+          {
+            "angle": 333.0,
+            "gain": -10.65
+          },
+          {
+            "angle": 336.0,
+            "gain": -9.32
+          },
+          {
+            "angle": 339.0,
+            "gain": -8.04
+          },
+          {
+            "angle": 342.0,
+            "gain": -8.21
+          },
+          {
+            "angle": 345.0,
+            "gain": -9.11
+          },
+          {
+            "angle": 348.0,
+            "gain": -9.12
+          },
+          {
+            "angle": 351.0,
+            "gain": -8.17
+          },
+          {
+            "angle": 354.0,
+            "gain": -7.77
+          },
+          {
+            "angle": 357.0,
+            "gain": -8.69
+          }
+        ]
+      },
+      "antennaWcsMapping": {
+        "apModel": "AP4800",
+        "antennaName": "Internal-4800-5GHz",
+        "antennaType": "Internal"
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "CEILING",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "4750474b-adae-475f-815f-d9c40e3e1295",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AIR-ANT2588P3M-N 5GHz 8dBi",
+      "directional": true,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "FIVE",
+      "apVendor": "Cisco",
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 5.0,
+            "gain": 4.72
+          },
+          {
+            "angle": 10.0,
+            "gain": 6.47
+          },
+          {
+            "angle": 15.0,
+            "gain": 5.81
+          },
+          {
+            "angle": 20.0,
+            "gain": 7.56
+          },
+          {
+            "angle": 25.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 30.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 35.0,
+            "gain": 7.78
+          },
+          {
+            "angle": 40.0,
+            "gain": 5.16
+          },
+          {
+            "angle": 45.0,
+            "gain": 4.07
+          },
+          {
+            "angle": 50.0,
+            "gain": 6.25
+          },
+          {
+            "angle": 55.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 60.0,
+            "gain": 6.25
+          },
+          {
+            "angle": 65.0,
+            "gain": 5.38
+          },
+          {
+            "angle": 70.0,
+            "gain": 4.28
+          },
+          {
+            "angle": 75.0,
+            "gain": 3.63
+          },
+          {
+            "angle": 80.0,
+            "gain": 2.97
+          },
+          {
+            "angle": 85.0,
+            "gain": 1.88
+          },
+          {
+            "angle": 90.0,
+            "gain": 1.88
+          },
+          {
+            "angle": 95.0,
+            "gain": 1.44
+          },
+          {
+            "angle": 100.0,
+            "gain": 0.57
+          },
+          {
+            "angle": 105.0,
+            "gain": 1.01
+          },
+          {
+            "angle": 110.0,
+            "gain": 0.57
+          },
+          {
+            "angle": 115.0,
+            "gain": 0.57
+          },
+          {
+            "angle": 120.0,
+            "gain": 0.35
+          },
+          {
+            "angle": 125.0,
+            "gain": -0.74
+          },
+          {
+            "angle": 130.0,
+            "gain": -1.84
+          },
+          {
+            "angle": 135.0,
+            "gain": -4.24
+          },
+          {
+            "angle": 140.0,
+            "gain": -3.58
+          },
+          {
+            "angle": 145.0,
+            "gain": -6.21
+          },
+          {
+            "angle": 150.0,
+            "gain": -5.33
+          },
+          {
+            "angle": 155.0,
+            "gain": -5.55
+          },
+          {
+            "angle": 160.0,
+            "gain": -5.99
+          },
+          {
+            "angle": 165.0,
+            "gain": -10.36
+          },
+          {
+            "angle": 170.0,
+            "gain": -5.77
+          },
+          {
+            "angle": 175.0,
+            "gain": -15.17
+          },
+          {
+            "angle": 180.0,
+            "gain": -16.86
+          },
+          {
+            "angle": 185.0,
+            "gain": -14.51
+          },
+          {
+            "angle": 190.0,
+            "gain": -7.08
+          },
+          {
+            "angle": 195.0,
+            "gain": -28.94
+          },
+          {
+            "angle": 200.0,
+            "gain": -11.89
+          },
+          {
+            "angle": 205.0,
+            "gain": -21.51
+          },
+          {
+            "angle": 210.0,
+            "gain": -9.92
+          },
+          {
+            "angle": 215.0,
+            "gain": -27.19
+          },
+          {
+            "angle": 220.0,
+            "gain": -5.55
+          },
+          {
+            "angle": 225.0,
+            "gain": -14.08
+          },
+          {
+            "angle": 230.0,
+            "gain": -3.15
+          },
+          {
+            "angle": 235.0,
+            "gain": -4.9
+          },
+          {
+            "angle": 240.0,
+            "gain": -5.33
+          },
+          {
+            "angle": 245.0,
+            "gain": -2.71
+          },
+          {
+            "angle": 250.0,
+            "gain": -3.37
+          },
+          {
+            "angle": 255.0,
+            "gain": -2.93
+          },
+          {
+            "angle": 260.0,
+            "gain": -0.52
+          },
+          {
+            "angle": 265.0,
+            "gain": 1.22
+          },
+          {
+            "angle": 270.0,
+            "gain": 3.41
+          },
+          {
+            "angle": 275.0,
+            "gain": 4.94
+          },
+          {
+            "angle": 280.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 285.0,
+            "gain": 7.34
+          },
+          {
+            "angle": 290.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 295.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 300.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 305.0,
+            "gain": 6.69
+          },
+          {
+            "angle": 310.0,
+            "gain": 5.38
+          },
+          {
+            "angle": 315.0,
+            "gain": 4.5
+          },
+          {
+            "angle": 320.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 325.0,
+            "gain": 7.56
+          },
+          {
+            "angle": 330.0,
+            "gain": 6.03
+          },
+          {
+            "angle": 335.0,
+            "gain": 7.13
+          },
+          {
+            "angle": 340.0,
+            "gain": 4.72
+          },
+          {
+            "angle": 345.0,
+            "gain": 6.03
+          },
+          {
+            "angle": 350.0,
+            "gain": 5.6
+          },
+          {
+            "angle": 355.0,
+            "gain": 5.6
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 6.91
+          },
+          {
+            "angle": 5.0,
+            "gain": 6.7
+          },
+          {
+            "angle": 10.0,
+            "gain": 6.04
+          },
+          {
+            "angle": 15.0,
+            "gain": 5.39
+          },
+          {
+            "angle": 20.0,
+            "gain": 4.09
+          },
+          {
+            "angle": 25.0,
+            "gain": 2.57
+          },
+          {
+            "angle": 30.0,
+            "gain": 0.17
+          },
+          {
+            "angle": 35.0,
+            "gain": -2.65
+          },
+          {
+            "angle": 40.0,
+            "gain": -8.09
+          },
+          {
+            "angle": 45.0,
+            "gain": -14.72
+          },
+          {
+            "angle": 50.0,
+            "gain": -21.03
+          },
+          {
+            "angle": 55.0,
+            "gain": -19.33
+          },
+          {
+            "angle": 60.0,
+            "gain": -10.94
+          },
+          {
+            "angle": 65.0,
+            "gain": -9.73
+          },
+          {
+            "angle": 70.0,
+            "gain": -10.63
+          },
+          {
+            "angle": 75.0,
+            "gain": -9.96
+          },
+          {
+            "angle": 80.0,
+            "gain": -6.66
+          },
+          {
+            "angle": 85.0,
+            "gain": -8.84
+          },
+          {
+            "angle": 90.0,
+            "gain": -9.56
+          },
+          {
+            "angle": 95.0,
+            "gain": -9.14
+          },
+          {
+            "angle": 100.0,
+            "gain": -6.96
+          },
+          {
+            "angle": 105.0,
+            "gain": -7.98
+          },
+          {
+            "angle": 110.0,
+            "gain": -11.59
+          },
+          {
+            "angle": 115.0,
+            "gain": -8.51
+          },
+          {
+            "angle": 120.0,
+            "gain": -11.76
+          },
+          {
+            "angle": 125.0,
+            "gain": -10.99
+          },
+          {
+            "angle": 130.0,
+            "gain": -7.2
+          },
+          {
+            "angle": 135.0,
+            "gain": -5.4
+          },
+          {
+            "angle": 140.0,
+            "gain": -4.01
+          },
+          {
+            "angle": 145.0,
+            "gain": -8.16
+          },
+          {
+            "angle": 150.0,
+            "gain": -17.36
+          },
+          {
+            "angle": 155.0,
+            "gain": -9.77
+          },
+          {
+            "angle": 160.0,
+            "gain": -10.14
+          },
+          {
+            "angle": 165.0,
+            "gain": -14.94
+          },
+          {
+            "angle": 170.0,
+            "gain": -19.13
+          },
+          {
+            "angle": 175.0,
+            "gain": -14.71
+          },
+          {
+            "angle": 180.0,
+            "gain": -18.55
+          },
+          {
+            "angle": 185.0,
+            "gain": -18.32
+          },
+          {
+            "angle": 190.0,
+            "gain": -10.13
+          },
+          {
+            "angle": 195.0,
+            "gain": -7.9
+          },
+          {
+            "angle": 200.0,
+            "gain": -9.17
+          },
+          {
+            "angle": 205.0,
+            "gain": -21.28
+          },
+          {
+            "angle": 210.0,
+            "gain": -9.46
+          },
+          {
+            "angle": 215.0,
+            "gain": -5.33
+          },
+          {
+            "angle": 220.0,
+            "gain": -6.49
+          },
+          {
+            "angle": 225.0,
+            "gain": -7.02
+          },
+          {
+            "angle": 230.0,
+            "gain": -9.46
+          },
+          {
+            "angle": 235.0,
+            "gain": -11.06
+          },
+          {
+            "angle": 240.0,
+            "gain": -15.26
+          },
+          {
+            "angle": 245.0,
+            "gain": -11.67
+          },
+          {
+            "angle": 250.0,
+            "gain": -14.72
+          },
+          {
+            "angle": 255.0,
+            "gain": -9.01
+          },
+          {
+            "angle": 260.0,
+            "gain": -10.47
+          },
+          {
+            "angle": 265.0,
+            "gain": -17.8
+          },
+          {
+            "angle": 270.0,
+            "gain": -11.7
+          },
+          {
+            "angle": 275.0,
+            "gain": -7.66
+          },
+          {
+            "angle": 280.0,
+            "gain": -9.45
+          },
+          {
+            "angle": 285.0,
+            "gain": -15.56
+          },
+          {
+            "angle": 290.0,
+            "gain": -8.5
+          },
+          {
+            "angle": 295.0,
+            "gain": -9.3
+          },
+          {
+            "angle": 300.0,
+            "gain": -10.74
+          },
+          {
+            "angle": 305.0,
+            "gain": -6.19
+          },
+          {
+            "angle": 310.0,
+            "gain": -6.98
+          },
+          {
+            "angle": 315.0,
+            "gain": -10.58
+          },
+          {
+            "angle": 320.0,
+            "gain": -7.92
+          },
+          {
+            "angle": 325.0,
+            "gain": -5.04
+          },
+          {
+            "angle": 330.0,
+            "gain": -2.22
+          },
+          {
+            "angle": 335.0,
+            "gain": 0.83
+          },
+          {
+            "angle": 340.0,
+            "gain": 2.78
+          },
+          {
+            "angle": 345.0,
+            "gain": 4.3
+          },
+          {
+            "angle": 350.0,
+            "gain": 5.39
+          },
+          {
+            "angle": 355.0,
+            "gain": 5.83
+          }
+        ]
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "WALL",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "590fa858-69f1-4e41-8e28-eca15930d884",
+      "status": "CREATED"
+    },
+    {
+      "name": "Cisco AIR-ANT2547V-N 2.4GHz 4dBi",
+      "directional": false,
+      "defaultTiltAngle": 0.0,
+      "frequencyBand": "TWO",
+      "apVendor": "Cisco",
+      "hplane": {
+        "alignmentAngle": 0.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 5.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 10.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 15.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 20.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 25.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 30.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 35.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 40.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 45.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 50.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 55.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 60.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 65.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 70.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 75.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 80.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 85.0,
+            "gain": 2.8
+          },
+          {
+            "angle": 90.0,
+            "gain": 3.0
+          },
+          {
+            "angle": 95.0,
+            "gain": 3.0
+          },
+          {
+            "angle": 100.0,
+            "gain": 3.2
+          },
+          {
+            "angle": 105.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 110.0,
+            "gain": 3.6
+          },
+          {
+            "angle": 115.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 120.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 125.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 130.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 135.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 140.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 145.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 150.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 155.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 160.0,
+            "gain": 3.6
+          },
+          {
+            "angle": 165.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 170.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 175.0,
+            "gain": 3.2
+          },
+          {
+            "angle": 180.0,
+            "gain": 3.0
+          },
+          {
+            "angle": 185.0,
+            "gain": 2.8
+          },
+          {
+            "angle": 190.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 195.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 200.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 205.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 210.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 215.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 220.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 225.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 230.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 235.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 240.0,
+            "gain": 2.0
+          },
+          {
+            "angle": 245.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 250.0,
+            "gain": 2.2
+          },
+          {
+            "angle": 255.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 260.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 265.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 270.0,
+            "gain": 2.8
+          },
+          {
+            "angle": 275.0,
+            "gain": 3.0
+          },
+          {
+            "angle": 280.0,
+            "gain": 3.2
+          },
+          {
+            "angle": 285.0,
+            "gain": 3.2
+          },
+          {
+            "angle": 290.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 295.0,
+            "gain": 3.6
+          },
+          {
+            "angle": 300.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 305.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 310.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 315.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 320.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 325.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 330.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 335.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 340.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 345.0,
+            "gain": 3.2
+          },
+          {
+            "angle": 350.0,
+            "gain": 3.0
+          },
+          {
+            "angle": 355.0,
+            "gain": 2.8
+          }
+        ]
+      },
+      "eplane": {
+        "alignmentAngle": 90.0,
+        "gains": [
+          {
+            "angle": 0.0,
+            "gain": -26.2
+          },
+          {
+            "angle": 5.0,
+            "gain": -15.8
+          },
+          {
+            "angle": 10.0,
+            "gain": -10.0
+          },
+          {
+            "angle": 15.0,
+            "gain": -6.8
+          },
+          {
+            "angle": 20.0,
+            "gain": -4.8
+          },
+          {
+            "angle": 25.0,
+            "gain": -3.0
+          },
+          {
+            "angle": 30.0,
+            "gain": -1.8
+          },
+          {
+            "angle": 35.0,
+            "gain": -0.8
+          },
+          {
+            "angle": 40.0,
+            "gain": -0.8
+          },
+          {
+            "angle": 45.0,
+            "gain": -1.6
+          },
+          {
+            "angle": 50.0,
+            "gain": -3.2
+          },
+          {
+            "angle": 55.0,
+            "gain": -7.0
+          },
+          {
+            "angle": 60.0,
+            "gain": -11.4
+          },
+          {
+            "angle": 65.0,
+            "gain": -4.6
+          },
+          {
+            "angle": 70.0,
+            "gain": 0.0
+          },
+          {
+            "angle": 75.0,
+            "gain": 2.6
+          },
+          {
+            "angle": 80.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 85.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 90.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 95.0,
+            "gain": 2.8
+          },
+          {
+            "angle": 100.0,
+            "gain": 1.6
+          },
+          {
+            "angle": 105.0,
+            "gain": 0.4
+          },
+          {
+            "angle": 110.0,
+            "gain": -1.6
+          },
+          {
+            "angle": 115.0,
+            "gain": -3.8
+          },
+          {
+            "angle": 120.0,
+            "gain": -5.6
+          },
+          {
+            "angle": 125.0,
+            "gain": -6.4
+          },
+          {
+            "angle": 130.0,
+            "gain": -7.2
+          },
+          {
+            "angle": 135.0,
+            "gain": -8.0
+          },
+          {
+            "angle": 140.0,
+            "gain": -8.4
+          },
+          {
+            "angle": 145.0,
+            "gain": -8.0
+          },
+          {
+            "angle": 150.0,
+            "gain": -9.2
+          },
+          {
+            "angle": 155.0,
+            "gain": -12.6
+          },
+          {
+            "angle": 160.0,
+            "gain": -15.0
+          },
+          {
+            "angle": 165.0,
+            "gain": -13.0
+          },
+          {
+            "angle": 170.0,
+            "gain": -12.6
+          },
+          {
+            "angle": 175.0,
+            "gain": -16.4
+          },
+          {
+            "angle": 180.0,
+            "gain": -27.2
+          },
+          {
+            "angle": 185.0,
+            "gain": -17.6
+          },
+          {
+            "angle": 190.0,
+            "gain": -14.8
+          },
+          {
+            "angle": 195.0,
+            "gain": -16.8
+          },
+          {
+            "angle": 200.0,
+            "gain": -17.8
+          },
+          {
+            "angle": 205.0,
+            "gain": -12.4
+          },
+          {
+            "angle": 210.0,
+            "gain": -9.8
+          },
+          {
+            "angle": 215.0,
+            "gain": -9.8
+          },
+          {
+            "angle": 220.0,
+            "gain": -10.2
+          },
+          {
+            "angle": 225.0,
+            "gain": -8.4
+          },
+          {
+            "angle": 230.0,
+            "gain": -7.6
+          },
+          {
+            "angle": 235.0,
+            "gain": -7.8
+          },
+          {
+            "angle": 240.0,
+            "gain": -6.4
+          },
+          {
+            "angle": 245.0,
+            "gain": -4.0
+          },
+          {
+            "angle": 250.0,
+            "gain": -1.6
+          },
+          {
+            "angle": 255.0,
+            "gain": 0.0
+          },
+          {
+            "angle": 260.0,
+            "gain": 1.6
+          },
+          {
+            "angle": 265.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 270.0,
+            "gain": 3.4
+          },
+          {
+            "angle": 275.0,
+            "gain": 4.0
+          },
+          {
+            "angle": 280.0,
+            "gain": 3.8
+          },
+          {
+            "angle": 285.0,
+            "gain": 2.4
+          },
+          {
+            "angle": 290.0,
+            "gain": 0.2
+          },
+          {
+            "angle": 295.0,
+            "gain": -3.6
+          },
+          {
+            "angle": 300.0,
+            "gain": -8.6
+          },
+          {
+            "angle": 305.0,
+            "gain": -7.0
+          },
+          {
+            "angle": 310.0,
+            "gain": -3.6
+          },
+          {
+            "angle": 315.0,
+            "gain": -1.8
+          },
+          {
+            "angle": 320.0,
+            "gain": -0.8
+          },
+          {
+            "angle": 325.0,
+            "gain": -0.6
+          },
+          {
+            "angle": 330.0,
+            "gain": -1.0
+          },
+          {
+            "angle": 335.0,
+            "gain": -2.4
+          },
+          {
+            "angle": 340.0,
+            "gain": -4.4
+          },
+          {
+            "angle": 345.0,
+            "gain": -7.0
+          },
+          {
+            "angle": 350.0,
+            "gain": -10.6
+          },
+          {
+            "angle": 355.0,
+            "gain": -16.8
+          }
+        ]
+      },
+      "radioTechnology": "IEEE802_11",
+      "defaultMounting": "WALL",
+      "apCoupling": "EXTERNAL_ANTENNA",
+      "id": "79d81213-3aa5-4d43-9fb7-8fac51d9f261",
+      "status": "CREATED"
+    }
+  ]
+}

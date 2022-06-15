@@ -1,0 +1,339 @@
+{
+  "requirements": [
+    {
+      "name": "Hyperlocation",
+      "noiseType": "AUTOMATIC",
+      "isDefault": false,
+      "criteria": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -75.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_TO_NOISE_RATIO",
+          "function": "AT_LEAST",
+          "value": 25.0,
+          "additionalLimit": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "DATA_RATE",
+          "function": "AT_LEAST",
+          "value": 2.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "NUMBER_OF_ACCESS_POINTS",
+          "function": "AT_LEAST",
+          "value": 5.0,
+          "additionalLimit": -74.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "CHANNEL_OVERLAP",
+          "function": "AT_MOST",
+          "value": 4.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "PING_RTT",
+          "function": "AT_MOST",
+          "value": 500.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "RELATIVE_PING_PACKET_LOSS",
+          "function": "AT_MOST",
+          "value": 0.1
+        }
+      ],
+      "id": "906328ec-2da3-44f9-94ef-6f0f14049b35",
+      "status": "CREATED"
+    },
+    {
+      "name": "5m RTLS Grade",
+      "noiseType": "AUTOMATIC",
+      "isDefault": false,
+      "criteria": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -59.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_TO_NOISE_RATIO",
+          "function": "AT_LEAST",
+          "value": 25.0,
+          "additionalLimit": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "DATA_RATE",
+          "function": "AT_LEAST",
+          "value": 24.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "NUMBER_OF_ACCESS_POINTS",
+          "function": "AT_LEAST",
+          "value": 3.0,
+          "additionalLimit": -74.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "CHANNEL_OVERLAP",
+          "function": "AT_MOST",
+          "value": 4.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "PING_RTT",
+          "function": "AT_MOST",
+          "value": 500.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "RELATIVE_PING_PACKET_LOSS",
+          "function": "AT_MOST",
+          "value": 0.1
+        }
+      ],
+      "id": "a2739ca5-78c5-444c-8f76-e0aa23c100e9",
+      "legacyId": 14,
+      "status": "CREATED"
+    },
+    {
+      "name": "Voice Grade",
+      "noiseType": "AUTOMATIC",
+      "isDefault": false,
+      "criteria": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_TO_NOISE_RATIO",
+          "function": "AT_LEAST",
+          "value": 25.0,
+          "additionalLimit": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "DATA_RATE",
+          "function": "AT_LEAST",
+          "value": 24.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SECONDARY_SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "CHANNEL_OVERLAP",
+          "function": "AT_MOST",
+          "value": 4.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "PING_RTT",
+          "function": "AT_MOST",
+          "value": 500.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "RELATIVE_PING_PACKET_LOSS",
+          "function": "AT_MOST",
+          "value": 0.1
+        }
+      ],
+      "id": "0cb4a777-4974-4a46-af50-da911bcf73f3",
+      "legacyId": 12,
+      "status": "CREATED"
+    },
+    {
+      "name": "Data Grade",
+      "noiseType": "AUTOMATIC",
+      "isDefault": false,
+      "criteria": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_TO_NOISE_RATIO",
+          "function": "AT_LEAST",
+          "value": 20.0,
+          "additionalLimit": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "DATA_RATE",
+          "function": "AT_LEAST",
+          "value": 24.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SECONDARY_SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -75.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "CHANNEL_OVERLAP",
+          "function": "AT_MOST",
+          "value": 4.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "PING_RTT",
+          "function": "AT_MOST",
+          "value": 500.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "RELATIVE_PING_PACKET_LOSS",
+          "function": "AT_MOST",
+          "value": 0.1
+        }
+      ],
+      "id": "d4bd38b1-cdb5-49d9-842c-8be34b09297b",
+      "legacyId": 11,
+      "status": "CREATED"
+    },
+    {
+      "name": "10m RTLS Grade",
+      "noiseType": "AUTOMATIC",
+      "isDefault": true,
+      "criteria": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "FIVE",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_TO_NOISE_RATIO",
+          "function": "AT_LEAST",
+          "value": 25.0,
+          "additionalLimit": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "DATA_RATE",
+          "function": "AT_LEAST",
+          "value": 24.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "NUMBER_OF_ACCESS_POINTS",
+          "function": "AT_LEAST",
+          "value": 5.0,
+          "additionalLimit": -74.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "CHANNEL_OVERLAP",
+          "function": "AT_MOST",
+          "value": 4.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "PING_RTT",
+          "function": "AT_MOST",
+          "value": 500.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "RELATIVE_PING_PACKET_LOSS",
+          "function": "AT_MOST",
+          "value": 0.1
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "frequencyBand": "TWO",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -74.0
+        }
+      ],
+      "id": "c25dd193-bf90-449e-b74e-73b0b19e715e",
+      "legacyId": 13,
+      "status": "CREATED"
+    },
+    {
+      "name": "SRG",
+      "noiseType": "AUTOMATIC",
+      "isDefault": false,
+      "criteria": [
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_STRENGTH",
+          "function": "AT_LEAST",
+          "value": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "SIGNAL_TO_NOISE_RATIO",
+          "function": "AT_LEAST",
+          "value": 1.0,
+          "additionalLimit": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "DATA_RATE",
+          "function": "AT_LEAST",
+          "value": 1.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "NUMBER_OF_ACCESS_POINTS",
+          "function": "AT_LEAST",
+          "value": 1.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "CHANNEL_OVERLAP",
+          "function": "AT_MOST",
+          "value": 5.0,
+          "additionalLimit": -67.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "PING_RTT",
+          "function": "AT_MOST",
+          "value": 500.0
+        },
+        {
+          "radioTechnology": "IEEE802_11",
+          "type": "RELATIVE_PING_PACKET_LOSS",
+          "function": "AT_MOST",
+          "value": 0.1
+        }
+      ],
+      "id": "c6bb8787-aea4-4389-982a-aaad8756b1af",
+      "legacyId": 15,
+      "status": "CREATED"
+    }
+  ]
+}
